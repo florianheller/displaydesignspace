@@ -1,19 +1,28 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <BodyMap v-on:body-area-selected="onBodyAreaSelected($event)"></BodyMap>
+    <DataDisplay></DataDisplay>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+  import BodyMap from './components/BodyMap.vue'
+  import DataDisplay from './components/DataDisplay.vue'
 
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
+
+  export default {
+    name: "DesignSpaceApp",
+    methods: {
+      onBodyAreaSelected: function (area) {
+        // eslint-disable-next-line no-console
+        console.log('App got an area ' + area );
+      }
+    },
+    components: {
+      BodyMap: BodyMap,
+      DataDisplay: DataDisplay
+    }
+  };
 </script>
 
 <style>
