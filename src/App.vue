@@ -7,7 +7,8 @@
 
 <script>
   import BodyMap from './components/BodyMap.vue'
-  import DataDisplay from './components/DataDisplay.vue'
+  //import DataDisplay from './components/DataDisplay.vue'
+  import DataFilter from './components/DataFilter.vue'
 
 
   export default {
@@ -20,7 +21,7 @@
     },
     components: {
       BodyMap: BodyMap,
-      DataDisplay: DataDisplay
+      DataDisplay: DataFilter
     }
   };
 </script>
