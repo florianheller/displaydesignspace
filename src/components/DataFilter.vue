@@ -1,18 +1,30 @@
+<!-- 
+	A component that allows to apply a series of filters to a dataset and visualize it. 
+	C2019 Florian Heller  (florian<at>uhasselt.be)
+	License: MIT
+-->
 <template>
 <div id="DataFilter">
-<div id="filters" 
-	v-for="(filter, index) in filters"
-	v-bind:key="index"
-	>
-	<input :id="'filter'+index+'enable'" type="checkbox" name="radioBtn" :value="index" v-model="activeFilters">
-	<fieldset v-for="(value, index) in filter.values" :key="index" >
-	<input :id="value" type="radio" name="radioBtn" :value="value" v-model="filter.filterValues">
-	<label class="labels" :for="value">{{value}}</label>
-	</fieldset>
-<span>Checked names: {{ filter.filterValues }}</span>
-</div>
-<span>Active filters: {{ activeFilters }}</span>
-<ul class="userWrap">
+	<div id="filters">
+		<fieldset 
+			v-for="(filter, index) in filters"
+			v-bind:key="index"
+			:id="'filter-'+index"
+			v-bind:class="{ active: isFilterActive(filter) }"
+		>	
+		<legend>{{filter.key}}</legend>
+			<input :id="'filter-'+index+'-enable'" type="checkbox" :value="index" v-model="activeFilters">
+			<ul	class="segmented-control">
+				<li v-for="(value, vindex) in filter.values" :key="vindex" class="segmented-control__item">
+					<input :id="index+vindex+value" v-bind:type="filter.multipleSelection ?  'checkbox' : 'radio'"  :value="value" v-model="filter.filterValues" class="segmented-control__input">
+					<label class="segmented-control__label" :for="index+vindex+value">{{value}}</label>
+				</li>
+			</ul>
+<!-- 			<div>{{subFiltersForFilter(filter)}}</div> -->
+		</fieldset>
+	</div>
+<!-- <span>Active filters: {{ activeFilters }}</span>
+ --><ul class="userWrap">
 	<li 
 	v-for="(entry, index) in filteredData"
 	:key="index"
@@ -20,22 +32,76 @@
 	class="user"
 	>
 		<h2 class="title">{{ entry.name }}</h2>
-		<span class="language">Primary Language: <strong>{{ entry.mainLanguage }}</strong></span>
+		<span class="language"><strong>{{ entry.title }}</strong></span>
 	</li>
 </ul> 
 </div>
 </template>
 
 <script>
+	// The URL with the data to be shown and filtered
+	// Will be fetched asynchronously which might fail (CORB)
+	// Place the file in the public directory of your Vue.js project to be served locally
+	const apiURL = "./data/data.json";
+
 	/* A filter has the following structure:
 	 * filter {
 		key: String, 		// The field in the dataset which will be used to filter
 		values: [],  		// the possible values for this key
 		filterValues: [],	// the  values that are allowed for this key.
-		mutipleSelection: bool, // if multiple values are allowed, these will be connected through OR
+		multipleSelection: bool, // if multiple values are allowed, these will be connected through OR
 	 }
 	 */
+
+	const wearableFilters = [
+		{
+		'key': 'placement',
+		'values': ["head", "torso", "waist", "leg", "foot", "hand", "arm", "wrist"],
+		'filterValues': [], 
+		'multipleSelection': true,
+		},
+		{
+		'key': 'type',
+		'values': ["Accessoire", "Clothing", "Skin & Body"],
+		'filterValues': [], 
+		'multipleSelection': false,
+		'subfilters': [] // Subfilters only work with multipleSelection: false
+		},
+		{
+		'key': 'audience',
+		'values': ["Public", "Intermediate", "Private"],
+		'filterValues': [], 
+		'multipleSelection': false,
+		}
+	]; //End WearableFilters 
+
+	const subFilters = [
+	{
+		'parent': 'type',
+		'parentValue': 'Accessoire', 
+		'key': 'subtype', 		
+		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes"],  		
+		'filterValues': [],	
+		'multipleSelection': false 
+	},
+	{
+		'parent': 'type',
+		'parentValue': 'Clothing', 
+		'key': 'subtype', 		
+		'values': ["Shirts & Tops", "Jackets & Suits", "Notions", "Pants & Skirts", "Dresses"],  		
+		'filterValues': [],	
+		'multipleSelection': false 
+	},
+	{
+		'parent': 'type',
+		'parentValue': 'Skin & Body', 
+		'key': 'subtype', 		
+		'values': ["Skin", "Hair", "Face & Neck", "Arms", "Hands & Fingers", "Legs"],  		
+		'filterValues': [],	
+		'multipleSelection': false 
+	}];
 	// Alternative check https://gist.github.com/jherax/f11d669ba286f21b7a2dcff69621eb72
+	// Based on https://stackoverflow.com/questions/44590352/filter-by-multiple-keys-and-values-javascript
 	const useConditions = search => a => Object.keys(search).every(
 		k => a[k] === search[k] ||
 		Array.isArray(search[k]) && search[k].includes(a[k]) ||
@@ -47,30 +113,25 @@
 		name: "DataFilter",
 		data: function() {
 			return {
-				filters: [{
-					'key': 'mainLanguage',
-					'values': ["JavaScript", "Python", "PHP", "Java"],
-					'filterValues': [], 
-					'mutipleSelection': false
-					},
-					{
-					'key': 'isActive',
-					'values': [true, false],
-					'filterValues': [], 
-					'mutipleSelection': true
-					}],		// The list of all possible filters, will be used later when the user can dynamically create a filter set
+				filters: wearableFilters,		// The list of all possible filters, will be used later when the user can dynamically create a filter set
 				activeFilters: [],  // The active filters 
 				data: []			// The data this component works on
 			};
 		},
 		created() {
-			//var apiURL = "https://next.json-generator.com/api/json/get/4JCnNiTCr";
-			var apiURL = "http://www2.heller-web.net/IDDS/data/data.json";
 			fetch(apiURL)
 			.then(res => res.json())
 			.then(res => (this.data = res))
 			// eslint-disable-next-line no-console
 			.catch(error => console.log(error));
+		},
+		methods: {
+			subFiltersForFilter(filter) {
+				return subFilters.filter( f => f.parent == filter.key && filter.filterValues.length > 0 && f.parentValue == filter.filterValues)
+			},
+			isFilterActive: function(filter) {
+				return this.activeFilters.includes(this.filters.indexOf(filter));
+			}
 		},
 		computed: {
 			filteredData: function () {
@@ -80,7 +141,7 @@
 					filterList[this.filters[index]['key']] = this.filters[index]['filterValues'];
 				}
 				return this.data.filter(useConditions(filterList));
-			}
+			},
 		},
 	};
 </script>
@@ -90,20 +151,65 @@
     position:absolute;
     left:440px;
     top: 60px;
+    width:50%;
 }
-button {
-  background: #74b6cc;
-  border: none;
-  color: #fff;
-  padding: 10px;
-  margin: 5px;
+/* The filter part */
+[type="radio"]{
+  display: none;
+  z-index: 5;
+  position: relative;
 }
-button.active {
-  background: #0089ba;
-}
+
 fieldset {
-	display:inline;
+	padding: 0px 1em;
 }
+
+.active {
+	border-color: #F00 ;
+}
+
+.segmented-control {
+    display: inline table;
+    width: 90%;
+    margin: 0.25em 1em;
+    padding: 0;
+}
+
+.segmented-control__item {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.segmented-control__input {
+    position: absolute;
+    visibility: hidden;
+}
+
+.segmented-control__label {
+    display: block;
+    margin: 0 -1px -1px 0; /* -1px margin removes double-thickness borders between items */
+    padding: 1em .25em;
+
+    border: 1px solid #ddd;
+
+    font: 14px/1.5 sans-serif; 
+    text-align: center;  
+
+    cursor: pointer;
+}
+
+.segmented-control__label:hover {
+    background: #fafafa;
+}
+
+.segmented-control__input:checked + .segmented-control__label {
+    background: #eee;
+    color: #333; 
+}
+
+/* Data UL */
 .userWrap {
   list-style-type: none;
   padding: 2%;
@@ -129,4 +235,5 @@ h2.title {
   display: block;
   font-size: 0.9rem;
 }
+
 </style>
