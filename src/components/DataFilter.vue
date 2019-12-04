@@ -56,7 +56,7 @@
 	const wearableFilters = [
 		{
 		'key': 'placement',
-		'values': ["head", "torso", "waist", "leg", "foot", "hand", "arm", "wrist"],
+		'values': ["head", "torso", "waist", "legs", "foot", "hand", "arm", "wrist"],
 		'filterValues': [], 
 		'multipleSelection': true,
 		},
@@ -121,9 +121,23 @@
 		created() {
 			fetch(apiURL)
 			.then(res => res.json())
-			.then(res => (this.data = res))
+			.then(res => (this.data = res, this.$root.$emit('data-is-loaded', this.data)))
 			// eslint-disable-next-line no-console
 			.catch(error => console.log(error));
+		},
+		mounted() {
+			this.$root.$on('body-area-selected', (a) => {
+				// Get the ID of the area filter 
+				let filter = this.filters.find(element => element.key == 'placement');
+				let area = a;
+				if (area == "left-arm" || area == "right-arm") {
+					area = "arm"
+				}
+				if (filter) {
+					filter['filterValues'].push(area);
+					this.activeFilters.push(this.filters.indexOf(filter));
+				}
+			})
 		},
 		methods: {
 			subFiltersForFilter(filter) {
@@ -131,7 +145,7 @@
 			},
 			isFilterActive: function(filter) {
 				return this.activeFilters.includes(this.filters.indexOf(filter));
-			}
+			},
 		},
 		computed: {
 			filteredData: function () {

@@ -13,12 +13,11 @@
 
   export default {
     name: "DesignSpaceApp",
-    methods: {
-      onBodyAreaSelected: function (area) {
-        // eslint-disable-next-line no-console
-        console.log('App got an area ' + area );
-      }
-    },
+    // methods: {
+    //   onBodyAreaSelected: function (area) {
+    //     this.DataDisplay.setActiveArea(area);
+    //   }
+    // },
     components: {
       BodyMap: BodyMap,
       DataDisplay: DataFilter
