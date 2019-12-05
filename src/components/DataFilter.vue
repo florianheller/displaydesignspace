@@ -12,12 +12,12 @@
 			:id="'filter-'+index"
 			v-bind:class="{ active: isFilterActive(filter) }"
 		>	
-		<legend>{{filter.key}}</legend>
+		<legend>{{filter.key | capitalize }}</legend>
 			<input :id="'filter-'+index+'-enable'" type="checkbox" :value="index" v-model="activeFilters">
 			<ul	class="segmented-control">
 				<li v-for="(value, vindex) in filter.values" :key="vindex" class="segmented-control__item">
 					<input :id="index+vindex+value" v-bind:type="filter.multipleSelection ?  'checkbox' : 'radio'"  :value="value" v-model="filter.filterValues" class="segmented-control__input">
-					<label class="segmented-control__label" :for="index+vindex+value">{{value}}</label>
+					<label class="segmented-control__label" :for="index+vindex+value">{{value | capitalize}}</label>
 				</li>
 			</ul>
 <!-- 			<div>{{subFiltersForFilter(filter)}}</div> -->
