@@ -12,7 +12,7 @@
 						cy="130"
 						:style="randomStyle(180, 170)"
 						:id="item.name"
-						v-on:click="itemClicked(item.name)"
+						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
 					/>
 				</g>
@@ -26,7 +26,7 @@
 						cy="280"
 						:style="randomStyle(180, 200)"
 						:id="item.name"
-						v-on:click="itemClicked(item.name)"
+						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
 					/>
 				</g>
@@ -41,7 +41,7 @@
 						cy="304"
 						:style="randomStyle(100,350)"
 						:id="item.name"
-						v-on:click="itemClicked(item.name)"
+						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
 					/>
 				</g>
@@ -62,7 +62,7 @@
 						cy="475"
 						:style="randomStyle(185,140)"
 						:id="item.name"
-						v-on:click="itemClicked(item.name)"
+						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
 					/>
 				</g>
@@ -79,7 +79,7 @@
 						cy="613"
 						:style="randomStyle(200,440)"
 						:id="item.name"
-						v-on:click="itemClicked(item.name)"
+						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
 					/>
 				</g>
@@ -96,7 +96,7 @@
 						cy="1050"
 						:style="randomStyle(200,100)"
 						:id="item.name"
-						v-on:click="itemClicked(item.name)"
+						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
 					/>
 				</g>
@@ -115,7 +115,7 @@ module.exports = {
 		};
 	},
 	mounted() {
-		this.$root.$on('data-is-loaded', (d) => {
+		this.$root.$once('data-is-loaded', (d) => {
 			this.data = d;
 			// eslint-disable-next-line no-console
 			// console.log("got data");
@@ -135,11 +135,6 @@ module.exports = {
 		randomStyle: function (width, height) {
 			return { transform: 'translate(' + this.getRndInteger(0,width) + 'px,' + this.getRndInteger(0,height) +'px)'}
 		},
-		itemClicked: function (name) {
-			this.$root.$emit('did-select-item',name);
-			// eslint-disable-next-line no-console
-			console.log("name " + name);
-		}
 	},
 	computed: {
 		style () {
