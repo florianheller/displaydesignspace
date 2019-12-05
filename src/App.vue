@@ -2,6 +2,7 @@
   <div id="app">
     <BodyMap v-on:body-area-selected="onBodyAreaSelected($event)"></BodyMap>
     <DataFilter></DataFilter>
+    <ItemDisplay></ItemDisplay>
   </div>
 </template>
 
@@ -9,6 +10,7 @@
   import BodyMap from './components/BodyMap.vue'
   //import DataDisplay from './components/DataDisplay.vue'
   import DataFilter from './components/DataFilter.vue'
+  import ItemDisplay from './components/ItemDisplay.vue'
 
 
   export default {
@@ -21,6 +23,7 @@
     components: {
       BodyMap: BodyMap,
       DataFilter: DataFilter,
+      ItemDisplay: ItemDisplay
     }
   };
 </script>
