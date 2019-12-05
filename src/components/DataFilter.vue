@@ -30,6 +30,7 @@
 	:key="index"
 	:item="entry"
 	class="user"
+	v-on:click="$root.$emit('did-select-item',entry);"
 	>
 		<h2 class="title">{{ entry.name }}</h2>
 		<span class="language"><strong>{{ entry.title }}</strong></span>
