@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <BodyMap v-on:body-area-selected="onBodyAreaSelected($event)"></BodyMap>
-    <DataDisplay></DataDisplay>
+    <DataFilter></DataFilter>
   </div>
 </template>
 
@@ -20,7 +20,7 @@
     // },
     components: {
       BodyMap: BodyMap,
-      DataDisplay: DataFilter
+      DataFilter: DataFilter,
     }
   };
 </script>
