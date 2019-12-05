@@ -163,10 +163,7 @@
 
 <style scoped>
 #DataFilter {
-    position:absolute;
-    left:440px;
-    top: 60px;
-    width:50%;
+	width:50%;
 }
 /* The filter part */
 [type="radio"]{
