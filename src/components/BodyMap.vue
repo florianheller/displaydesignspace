@@ -14,6 +14,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
+						:class="{selected: isSelected('head'), selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Torso-Group" serif:id="Torso Group" v-bind:class="{ selected: selected == 'torso'}">
@@ -28,6 +29,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
+						:class="{selected: isSelected('torso'), selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Right-Arm-Group" serif:id="Right Arm Group" v-bind:class="{ selected: selected == 'right-arm'}">
@@ -43,6 +45,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
+						:class="{selected: isSelected('right-arm'), selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Left-Arm-Group" serif:id="Left Arm Group"  v-bind:class="{ selected: selected == 'left-arm'}">
@@ -64,6 +67,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
+						:class="{selected: isSelected('waist'), selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Leg-Group" serif:id="Leg Group" v-on:click="changeBodySelection('legs')" v-bind:class="{ selected: selected == 'legs'}" >
@@ -81,6 +85,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
+						:class="{selected: isSelected('legs'), selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Feet-Group" serif:id="Feet Group" v-on:click="changeBodySelection('feet')" v-bind:class="{ selected: selected == 'feet'}" >
@@ -98,6 +103,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
+						:class="{selected: isSelected('foot'), selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 			</svg>
@@ -111,6 +117,7 @@ module.exports = {
 		return {
 			selected: '',
 			bodyRegions: ['head', 'waist', 'torso', 'feet', 'legs', ''],
+			selectedItem: {},
 			data: []
 		};
 	},
@@ -119,7 +126,10 @@ module.exports = {
 			this.data = d;
 			// eslint-disable-next-line no-console
 			// console.log("got data");
-		})
+		});
+		this.$root.$on('did-select-item', (item) => {
+			this.selectedItem = item;
+		});
 	},
 	methods: {
 		changeBodySelection: function(area) {
@@ -135,6 +145,12 @@ module.exports = {
 		randomStyle: function (width, height) {
 			return { transform: 'translate(' + this.getRndInteger(0,width) + 'px,' + this.getRndInteger(0,height) +'px)'}
 		},
+		isSelected: function (area) {
+			return this.selected === area;
+		},
+		isSelectedItem: function (itemName) {
+			return itemName === this.selectedItem.name;
+		}
 	},
 	computed: {
 		style () {
@@ -165,9 +181,21 @@ module.exports = {
 	g.selected path.background { fill: green; }
 	g:hover path.background { fill: blue; }
 
-	.bodyItemSelector {
+	circle {
+		stroke-width: 2px;
+	}
+
+	circle.bodyItemSelector {
 		fill: #A9CE38;
 		stroke: #384c6c;
-		stroke-width: 2px;
+	}
+	circle.selected {
+		stroke: #EB1B65;
+	}
+
+	circle.selectedItem {
+		stroke-width: 4px;
+		fill: #EB1B65;
+		transform: scale(2.0,2.0);
 	}
 </style>
