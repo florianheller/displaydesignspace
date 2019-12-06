@@ -17,7 +17,7 @@
 			</tr>
 			<tr>
 				<td class="detail">URL</td>
-				<td><a :href="item.url">{{item.url}}</a></td>
+				<td><a :href="item.url" target="_blank">{{item.url}}</a></td>
 			</tr>
 			<tr>
 				<td class="detail">Placement</td>
