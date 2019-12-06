@@ -6,6 +6,15 @@
 			id="authorList">
 			<li class="author">{{author}}</li> 
 		</ul>
+		<figure v-if="item.imageURL">
+			<a :href="item.imageSource">
+			<img 
+			:src="item.imageURL"
+			:key="item.name"
+			id="thumbnail" >
+			</a>
+			<figcaption>{{item.imageSourceTitle}}</figcaption>
+		</figure>
 		<table class="details" v-if="item.name">
 			<tr>
 				<td class="detail">Published</td>
@@ -82,5 +91,13 @@
 	}
 	td.detail {
 		font-weight: bold;
+	}
+	#thumbnail {
+		display: block;
+		width: 50%;
+		margin: 1em auto 0 auto;
+	}
+	figcaption {
+		font-size: 0.6rem;
 	}
 </style>
