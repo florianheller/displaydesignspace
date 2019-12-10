@@ -143,6 +143,8 @@
 		"year": 2013,
 		"url": "http://doi.acm.org/10.1145/2470654.2466193",
 		"placement": "arm",
+				"subplacement": "hand",
+
 		"type": "Skin & Body",
 		"subtype": "Hands & Fingers",
 		"audience": "Public",
@@ -155,6 +157,8 @@
 		"year": 2016,
 		"url": "http://doi.acm.org/10.1145/2494091.2495970",
 		"placement": "arm",
+				"subplacement": "wrist",
+
 		"type": "Accessoire",
 		"subtype": "Watches & Bracelets",
 		"audience": "Public"
@@ -170,6 +174,63 @@
 		"subtype": "Eyewear",
 		"audience": "Private",
 		"imageURL": "https://portalparts.acm.org/2650000/2647361/core/uistf1571-file2.jpg"
+	},
+	{   "name": "Cicret", 
+		"year": 2018, 
+		"title": "Cicret Bracelet",
+		"published": "Online", 
+		"url": "https://www.cicret.com", 
+		"placement": "arm",
+		"subplacement": "wrist",
+		"type": "Accessoire",
+		"subtype": "Watches & Bracelets",
+		"audience": "Private"
+	},
+	{	"year": "2018", 
+		"title": "Lumos Helmet", 
+		"published" :"Online",
+		"url": "https://lumoshelmet.co", 
+		"name": "Lumos",
+		"placement": "head",
+		"type": "Accessoire",
+		"subtype": "Headwear",
+		"audience": "Public",
+		"imageURL": "https://cdn.shopify.com/s/files/1/1974/9705/files/kickstart-side_1024x1024_9e4b9278-4168-46fb-9845-9624b1f2d5c0_1024x1024.jpg?v=1572614044"
+	},
+	{	
+		"year": 2017,
+		"title": "Brake Free - The Smart Brake Light for Motorcyclists",
+		"published": "Online", 
+		"url": "http://www.brakefreetech.com",
+		"name": "BrakeFree",
+		"placement": "head",
+		"type": "Accessoire",
+		"subtype": "Headwear",
+		"audience": "Public",
+		"imageURL": "http://v.fastcdn.co/u/79902f12/14196448-0-20170227-845a-Photos.jpg"
+	},
+	{
+		"year": 2018,
+		"title": "ShiftWear Sneakers",
+		"published": "Online", 
+		"url": "https://www.shiftwear.com",
+		"name": "ShiftWear",
+		"placement": "foot",
+		"type": "Accessoire",
+		"subtype": "Shoes",
+		"audience": "Public",
+		"imageURL": "https://www.shiftwear.com/images/marketplace.jpg"
+	},
+	{
+		"year": "2018", 
+		"title": "Ringly - Smart jewelry that keeps you active, mindful, and in the moment.", 
+		"url": "https://ringly.com",
+		"name": "Ringly",
+		"placement": "arm",
+		"subplacement": "hand",
+		"type": "Accessoire",
+		"subtype": "Watches & Bracelets",
+		"audience": "Intermediate",
+		"imageURL": "https://cdn.shopify.com/s/files/1/1529/2383/products/front-_Moonstone_Yellow_Gold_large.jpg?v=1506711084"
 	}
-
 ]
