@@ -7,13 +7,13 @@
 			<li class="author">{{author}}</li> 
 		</ul>
 		<figure v-if="item.imageURL">
-			<a :href="item.imageSource">
+			<a :href="imageUrlForItem(item)">
 			<img 
 			:src="item.imageURL"
 			:key="item.name"
 			id="thumbnail" >
 			</a>
-			<figcaption>{{item.imageSourceTitle}}</figcaption>
+			<figcaption>Image source: {{imageSourceForItem(item)}}</figcaption>
 		</figure>
 		<table class="details" v-if="item.name">
 			<tr>
@@ -59,6 +59,14 @@
 	mounted() {
 		this.$root.$on('did-select-item', (i) => { this.item = i; 
 		});
+	},
+	methods: {
+		imageSourceForItem: function(item) {
+			return  (item.imageSourceTitle) ? item.imageSourceTitle : item.url
+		},
+		imageUrlForItem: function(item) {
+			return  (item.imageSource) ? item.imageSource : item.url
+		}
 	}
 	}; //End export
 </script>
@@ -94,10 +102,12 @@
 	}
 	#thumbnail {
 		display: block;
-		width: 50%;
+		width: 75%;
 		margin: 1em auto 0 auto;
 	}
 	figcaption {
 		font-size: 0.6rem;
+		width: 75%;
+		margin: 0 auto 0 auto;
 	}
 </style>
