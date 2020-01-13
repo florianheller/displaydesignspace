@@ -106,6 +106,7 @@
 	const useConditions = search => a => Object.keys(search).every(
 		k => a[k] === search[k] ||
 		Array.isArray(search[k]) && search[k].includes(a[k]) ||
+		Array.isArray(search[k]) && Array.isArray(a[k]) && search[k].some(r => a[k].includes(r)) ||
 		typeof search[k] === 'object' && +search[k].min <= a[k] &&  a[k] <= +search[k].max ||
 		typeof search[k] === 'function' && search[k](a[k])
 		);
