@@ -72,7 +72,7 @@
 		'key': 'audience',
 		'values': ["Public", "Intermediate", "Private"],
 		'filterValues': [], 
-		'multipleSelection': false,
+		'multipleSelection': true,
 		}
 	]; //End WearableFilters 
 
