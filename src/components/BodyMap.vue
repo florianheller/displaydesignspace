@@ -163,6 +163,7 @@ module.exports = {
 <style scoped>
 	#bodyMap {
 		width: 20%;
+		top: 0px;
 	}
 	#bodyoutline {
 		fill:none; 
