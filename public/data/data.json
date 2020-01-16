@@ -245,7 +245,7 @@
             "Silverman, Brian",
             "Hancock, Chris"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Meme Tags"
     },
     {
@@ -266,7 +266,7 @@
             "Profita, Halley",
             "Siek, Katie"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Pt Viz"
     },
     {
@@ -285,7 +285,7 @@
             "Narayanaswami, Chandra",
             "Feiner, Steven"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "Retractable Strings"
     },
     {
@@ -304,7 +304,7 @@
             "Lueg, Christopher",
             "Berkovsky, Shlomo"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "ActivMON"
     },
     {
@@ -323,7 +323,7 @@
             "Strohmeier, Paul",
             "Vertegaal, Roel"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "DisplaySkin"
     },
     {
@@ -344,7 +344,7 @@
             "Boll, Susanne",
             "Heuten, Wilko"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "Reducing Alarm Fatigue"
     },
     {
@@ -365,7 +365,7 @@
             "Mikkonen, Kirsi",
             "Häkkilä, Jonna"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Smart Handbag"
     },
     {
@@ -385,7 +385,7 @@
             "Kiss, Francisco",
             "Häkkilä, Jonna"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Shoe Integrated Displays"
     },
     {
@@ -406,7 +406,7 @@
             "Allen, Rebecca",
             "Maes, Pattie"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "Eye-q"
     },
     {
@@ -427,7 +427,7 @@
             "Fjeld, Morten",
             "Elmqvist, Niklas"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "Wearable Mid-air Display"
     },
     {
@@ -446,7 +446,7 @@
             "Nicholas, Molly Jane Pearce",
             "Paulos, Eric"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "AlterWear"
     },
     {
@@ -464,7 +464,7 @@
             "Fajardo, Noelene",
             "Moere, Andrew Vande"
         ],
-        "audience": ["public", "intermediate"],
+        "audience": ["Public", "Intermediate"],
         "name": "ExternalEyes"
     },
     {
@@ -482,7 +482,7 @@
             "Falk, Jennica",
             "Björk, Staffan"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "BubbleBadge"
     },
     {
@@ -502,7 +502,7 @@
             "Boll, Susanne",
             "Heuten, Wilko"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Illumee"
     },
     {
@@ -522,7 +522,7 @@
             "Heuten, Wilko",
             "Boll, Susanne"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Wrist-worn Point-light Displays"
     },
     {
@@ -542,7 +542,7 @@
             "Heuten, Wilko",
             "Boll, Susanne"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "WaterJewel"
     },
     {
@@ -563,7 +563,7 @@
             "Ūrey, Hakan",
             "Özcan, Oguzhan"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Howel",
         "imageURL": "https://dl.acm.org/cms/attachment/fe4d97d5-7da5-4578-9ed8-3e72aa3ca5d0/3290607.3312857.key.jpg"
     },
@@ -587,7 +587,7 @@
             "ürey, Hakan",
             "özcan, O\u011fuzhan"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Head Mounted Projection Display",
         "imageURL": "https://dl.acm.org/cms/attachment/17b7e310-655c-4e25-88bf-3b5b3b773b1e/2858036.2858449.key.jpg"
     },
@@ -610,7 +610,7 @@
             "Braun, Andreas",
             "Kuijper, Arjan"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Wearable Low-resolution Displays"
     },
     {
@@ -630,7 +630,7 @@
             "Jamoido, Diana",
             "Colley, Ashley"
         ],
-        "audience": ["intermediate", "public"],
+        "audience": ["Intermediate", "Public"],
         "name": "Interactive Ice Skating Dress"
     },
     {
@@ -652,7 +652,7 @@
             "Forest, Jesse",
             "Häkkilä, Jonna"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Idle Stripes Shirt"
     },
     {
@@ -670,7 +670,7 @@
             "Hertrich, Susanna",
             "Honda, Aiktoshi"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Brighter Than a Thousand Suns",
         "imageURL": "https://dl.acm.org/cms/attachment/d3804ddb-1649-4edc-997e-9cc4f21acdaf/3024969.3025055.key.jpg"
     },
@@ -689,7 +689,7 @@
             "Iossifova, Milena",
             "Kim, Younghui"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "HearWear"
     },
     {
@@ -707,7 +707,7 @@
             "Jacobs, Margot",
             "Worbin, Linda"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Reach"
     },
     {
@@ -727,7 +727,7 @@
             "Prabhu, Vikas",
             "Väänänen-Vainio-Mattila, Kaisa"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "CueSense"
     },
     {
@@ -747,7 +747,7 @@
             "Juhlin, Oskar",
             "Häkkilä, Jonna"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Non-emissive Wearable Displays"
     },
     {
@@ -768,7 +768,7 @@
             "Colley, Ashley",
             "Häkkilä, Jonna"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Linn Dress"
     },
     {
@@ -787,7 +787,7 @@
             "Colley, Ashley",
             "Löchtefeld, Markus"
         ],
-        "audience": ["public", "intermediate"],
+        "audience": ["Public", "Intermediate"],
         "name": "VitaBoot"
     },
     {
@@ -807,7 +807,7 @@
             "Roseway, Asta",
             "Dickey, Michael"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "EarthTones",
         "imageURL": "https://dl.acm.org/cms/attachment/674d1711-c10f-46ab-b4a8-d1a564347203/3027063.3052754.key.jpg"
     },
@@ -826,7 +826,7 @@
             "Kleinberger, Rebecca",
             "Panjwani, Alisha"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Digitally Enchanted Wear",
         "imageURL": "https://dl.acm.org/cms/attachment/344d1af9-a3b4-428c-9946-05bebb91cba5/3173225.3173250.key.jpg"
     },
@@ -846,7 +846,7 @@
             "Tomitsch, Martin",
             "Vande Moere, Andrew"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Online Social Identity"
     },
     {
@@ -867,7 +867,7 @@
             "Bui, David",
             "Paulos, Eric"
         ],
-        "audience": ["public", "intermediate", "private"],
+        "audience": ["Public", "Intermediate", "Private"],
         "name": "Skintillates",
         "imageURL": "https://dl.acm.org/cms/attachment/21a7cb1e-e6ed-4dca-b75f-70fd40de51a4/2901790.2901885.key.jpg"
     },
@@ -887,7 +887,7 @@
             "Lin, Kaiyuan",
             "Zheng, Dingding"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Wearable Aura"
     },
     {
@@ -907,7 +907,7 @@
             "Ashbrook, Daniel",
             "White, Sean"
         ],
-        "audience": ["public", "private"],
+        "audience": ["Public", "Private"],
         "name": "Facet",
         "imageURL": "https://dl.acm.org/cms/attachment/c3fcb692-0033-4ee4-85b9-8485e1b215da/2380116.2380134.key.jpg"
     },
@@ -927,7 +927,7 @@
             "Gubbels, Michael",
             "Froehlich, Jon E."
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Social Fabric Fitness"
     },
     {
@@ -950,7 +950,7 @@
             "Uchiyama, Hiroko",
             "Yamazaki, Naoko"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Bio-Collar"
     },
     {
@@ -970,7 +970,7 @@
             "Nanayakkara, Suranga",
             "Steimle, Jurgen"
         ],
-        "audience": ["public", "private"],
+        "audience": ["Public", "Private"],
         "name": "AugmentedForearm"
     },
     {
@@ -988,7 +988,7 @@
             "Olwal, Alex",
             "Kress, Bernard"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "1D Eyewear"
     },
     {
@@ -1009,7 +1009,7 @@
             "Kylmänen, Anu",
             "Häkkilä, Jonna"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Solar Shirt",
         "imageURL": "https://dl.acm.org/cms/attachment/a9347df9-72d8-496e-b07a-c8255cf2b954/2968219.2971350.key.jpg"
     },
@@ -1030,7 +1030,7 @@
             "Colley, Ashley",
             "Häkkilä, Jonna"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Breaking of the Dawn Jacket"
     },
     {
@@ -1048,7 +1048,7 @@
             "Sand, Antti",
             "Rakkolainen, Ismo"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Multimodal Head-mounted Pico Projector"
     },
     {
@@ -1067,7 +1067,7 @@
             "Ogando, Sophie",
             "Alt, Florian"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "On-body Displays"
     },
     {
@@ -1085,7 +1085,7 @@
             "Song, Manlin",
             "Vega, Katia"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "HeartMe"
     },
     {
@@ -1104,7 +1104,7 @@
             "Burstyn, Jesse",
             "Vertegaal, Roel"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "Cylindrical Smartwatch"
     },
     {
@@ -1124,7 +1124,7 @@
             "Kawai, Wataru",
             "Thomas, Bruce H."
         ],
-        "audience": ["public", "private"],
+        "audience": ["Public", "Private"],
         "name": "Interactive Wearable Projection Display"
     },
     {
@@ -1148,7 +1148,7 @@
             "Yetisen, Ali",
             "Paradiso, Joe"
         ],
-        "audience": ["intermediate", "private"],
+        "audience": ["Intermediate", "Private"],
         "name": "The Dermal Abyss"
     },
     {
@@ -1168,7 +1168,7 @@
             "Langner, Ricardo",
             "Dachselt, Raimund"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "SleeD",
         "imageURL": "https://dl.acm.org/cms/attachment/55d4eb54-f100-4f21-b989-bc645afce520/2669485.2669507.key.jpg"
     },
@@ -1187,7 +1187,7 @@
             "Wakita, Akira",
             "Shibutani, Midori"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "Mosaic Textile"
     },
     {
@@ -1208,7 +1208,7 @@
             "Oben, Mathias",
             "Malaka, Rainer"
         ],
-        "audience": "private",
+        "audience": "Private",
         "name": "WatchThru",
         "imageURL": "https://dl.acm.org/cms/attachment/a8ea0bd0-2ddb-495a-a6e9-8396ec591002/3025453.3025852.key.jpg"
     },
@@ -1228,7 +1228,7 @@
             "Farnham, Shelly",
             "Counts, Scott"
         ],
-        "audience": "intermediate",
+        "audience": "Intermediate",
         "name": "Wearable Ambient Displays"
     },
     {
@@ -1246,7 +1246,7 @@
             "Wimmer, Raphael",
             "Echtler, Florian"
         ],
-        "audience": "public",
+        "audience": "Public",
         "name": "Fingernail Displays",
         "imageURL": "https://dl.acm.org/cms/attachment/64bf9ba4-ed7c-485d-8c08-76756da676ce/2468356.2468524.key.jpg"
     },
@@ -1265,7 +1265,7 @@
             "Xu, Cheng",
             "Lyons, Kent"
         ],
-        "audience": ["intermediate","private"],
+        "audience": ["Intermediate","Private"],
         "name": "Shimmering Smartwatches",
         "imageURL": "https://dl.acm.org/cms/attachment/00cdc085-bf21-4824-8256-c3e903a1c454/2677199.2680599.key.jpg"
     }
