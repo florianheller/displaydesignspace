@@ -169,7 +169,7 @@ module.exports = {
 			this.$root.$emit('body-area-selected', area);
 		},
 		dataForBodyArea: function(area) {
-			return this.data.filter(element => (element.placement == area)); 
+			return this.data.filter(element => ((element.placement == area) || (Array.isArray(element.placement) && element.placement.includes(area)))); 
 		},
 		getPositionForTypeAndItem: function (type, index, number) {
 			// Get the path along which the items should be distributed
