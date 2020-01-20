@@ -42,19 +42,19 @@
 			</tr>
 			<tr>
 				<td class="detail">Audience</td>
-				<td>{{item.audience.toString()}}</td>
+				<td>{{item.audience.toString() | capitalize}}</td>
 			</tr>
 			<tr>
 				<td class="detail">Information Density</td>
-				<td>{{item.infodensity.toString()}}</td>
+				<td>{{item.infodensity.toString() | capitalize }}</td>
 			</tr>
 			<tr>
 				<td class="detail">Refresh Rate</td>
-				<td>{{item.refreshrate.toString()}}</td>
+				<td>{{item.refreshrate.toString() | capitalize}}</td>
 			</tr>
 			<tr>
 				<td class="detail">Persistence</td>
-				<td>{{item.persistence.toString()}}</td>
+				<td>{{item.persistence.toString() | capitalize}}</td>
 			</tr>
 		</table>
 	</div>
