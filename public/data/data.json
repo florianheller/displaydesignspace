@@ -1,1268 +1,1973 @@
 [
-    {   "name": "HärIÖ",
-        "title": "HäirIÖ: Human Hair As Interactive Material",
-        "authors": ["Dierk, Christine", "Sterman, Sarah" , "Nicholas, Molly Jane Pearce" , "Paulos, Eric"],
-        "published": "TEI '18",
-        "year": 2018,
-        "url": "http://doi.acm.org/10.1145/3173225.3173232",
-        "placement": "head",
-        "subplacement":"hair",
-        "type": "Skin & Body",
-        "subtype": "Hair",
-        "audience": "Public",
-        "infodensity": "1",
-        "refreshrate": "slow",
-        "persistence": "ephemeral",
-        "imageURL": "https://dl.acm.org/cms/attachment/a9887e63-5fcd-44cd-9803-181d0dba331d/3173225.3173232.key.jpg"
-    },
-    {   "name": "HM3DD",
-        "title": "A Head-mounted Three Dimensional Display",
-        "authors": ["Sutherland, Ivan"],
-        "published": "AFIPS '68 (Fall, part I)",
-        "year": 1968,
-        "url": "http://doi.acm.org/10.1145/1476589.1476686",
-        "placement": "head",
-        "subplacement": "eye",
-        "type": "Accessoire",
-        "subtype": "Eyewear",
-        "audience": "Private",
-        "infodensity": "5",
-        "refreshrate": "high",
-        "persistence": "ephemeral"
-    },
-    {   "name": "EyeTap",
-        "title": "Continuous Lifelong Capture of Personal Experience with EyeTap",
-        "authors": ["Mann, Steve"],
-        "published": "CARPE '04",
-        "year": 2004,
-        "url": "http://doi.acm.org/10.1145/1026653.1026654",
-        "placement": "head",
-        "subplacement": "eye",
-        "type": "Accessoire",
-        "subtype": "Eyewear",
-        "audience": "Private",
-        "refreshrate": "high",
-        "persistence": "ephemeral",
-        "infodensity": "5"
-    },
-    {   "name": "BuddyBeads",
-        "title": "BuddyBeads: techno-jewelry for non-verbal communication within teenager girls groups",
-        "authors": ["Kikin-Gil, Ruth"],
-        "published": "Pers. & Ubiqu. Comp. Vol. 10 (2-3)",
-        "year": 2006,
-        "url": "http://dx.doi.org/10.1007/s00779-005-0015-x",
-        "placement": "wrist",
-        "type": "Accessoire",
-        "subtype": "Watches & Bracelets",
-        "audience": "Public",
-        "infodensity": "2",
-        "refreshrate": "high",
-        "persistence": "ephemeral",
-        "imageURL": "https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs00779-005-0015-x/MediaObjects/779_2005_15_Fig3_HTML.jpg"
-    },
-    {   "name": "TeamAwear",
-        "title": "Evaluating a Wearable Display Jersey for Augmenting Team Sports Awareness",
-        "authors": ["Page, Mitchell", "Vande Moere, Andrew"],
-        "published": "Pervasive Computing",
-        "year": 2007,
-        "url": "http://dx.doi.org/10.1007/978-3-540-72037-9_6",
-        "placement": "torso",
-        "type": "Clothing",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "subtype": "Shirts & Tops",
-        "audience": "Public"
-    },
-    {   "name": "Turn Signal Biking Jacket",
-        "title": "Turn Signal Biking Jacket",
-        "authors": ["Buechly, Leah"],
-        "published": "Instructables",
-        "year": 2008,
-        "url": "https://www.instructables.com/id/turn-signal-biking-jacket/",
-        "placement": "torso",
-        "type": "Clothing",
-        "subtype": "Shirts & Tops",
-        "audience": "Public",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "imageURL": "https://cdn.instructables.com/FRC/II3V/FHY0I8RW/FRCII3VFHY0I8RW.LARGE.jpg",
-        "imageSourceTitle": "Instructables"
-    },
-    {   "name": "The North Skirt",
-        "title": "The North Skirt",
-        "authors": ["Scheff, Meredith"],
-        "published": "Online",
-        "year": 2010,
-        "url": "http://steampunkworkshop.com/north-skirt/",
-        "placement": "legs",
-        "type": "Clothing",
-        "subtype": "Pants & Skirts",
-        "audience": "Public",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "imageURL": "https://farm5.static.flickr.com/4039/4643719128_4477247158.jpg",
-        "imageSource": "http://steampunkworkshop.com/north-skirt/"
-    },
-    {   "name": "Glass",
-        "title": "Google Glass",
-        "authors": [],
-        "published": "Online",
-        "year": 2010,
-        "url": "https://x.company/glass/",
-        "placement": "head",
-        "type": "Accessoire",
-        "subtype": "Eyewear",
-        "audience": "Private",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "imageURL": "https://lh3.googleusercontent.com/FKs5XMvwuBYfUfNSEk_R5VQmXvJSrz1GatoJetoVgpYW4q47UFocEHdVvLpHEHZQLMmmuh32XdYXZ1PLt_AB2rAV284AP6MuFwX8Dw=s300"
-    },
-    {   "name": "NailDisplay",
-        "title": "NailDisplay: Bringing an Always Available Visual Display to Fingertips",
-        "authors": ["Su, Chao-Huai" , "Chan, Liwei" ," Weng, Chien-Ting" , "Liang, Rong-Hao" , "Cheng, Kai-Yin" , "Chen, Bing-Yu"],
-        "published": "CHI '13",
-        "year": 2013,
-        "url": "http://doi.acm.org/10.1145/2470654.2466193",
-        "placement": "hand",
-        "type": "Skin & Body",
-        "subtype": "Hands & Fingers",
-        "audience": "Public",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "imageURL": "https://dl.acm.org/cms/attachment/1bff4bfd-c2b2-4b1a-b5fd-859cc2a5a5a0/2470654.2466193.key.jpg"
-    },
-    {   "name": "Loupe",
-        "title": "Loupe: a handheld near-eye display",
-        "authors": ["Lyons, Kent" , "Kim, Seung Wook" , "Seko, Shigeyuki" , "Nguyen, David" , "Desjardins, Audrey" , "Vidal, Mélodie" , "Dobbelstein, David" , "Rubin, Jeremy"],
-        "published": "UIST '14",
-        "year": 2014,
-        "url": "http://doi.acm.org/10.1145/2642918.2647361",
-        "placement": "head",
-        "type": "Accessoire",
-        "subtype": "Eyewear",
-        "audience": "Private",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "imageURL": "https://dl.acm.org/cms/attachment/61f8af50-7e48-43a3-b4f4-58d34168b7cf/2642918.2647361.key.jpg"
-    },
-    {   "name": "Cicret", 
-        "year": 2018, 
-        "title": "Cicret Bracelet",
-        "published": "Online", 
-        "url": "https://www.cicret.com", 
-        "placement": "wrist",
-        "type": "Accessoire",
-        "subtype": "Watches & Bracelets",
-        "audience": "Private",
-        "refreshrate": "fast",
-        "persistence": "ephemeral",
-        "infodensity": "5"
-    },
-    {   "year": "2018", 
-        "title": "Lumos Helmet", 
-        "published" :"Online",
-        "url": "https://lumoshelmet.co", 
-        "name": "Lumos",
-        "placement": "head",
-        "type": "Accessoire",
-        "subtype": "Headwear",
-        "audience": "Public",
-        "refreshrate": "high",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "imageURL": "https://cdn.shopify.com/s/files/1/1974/9705/files/kickstart-side_1024x1024_9e4b9278-4168-46fb-9845-9624b1f2d5c0_1024x1024.jpg?v=1572614044"
-    },
-    {   
-        "year": 2017,
-        "title": "Brake Free - The Smart Brake Light for Motorcyclists",
-        "published": "Online", 
-        "url": "http://www.brakefreetech.com",
-        "name": "BrakeFree",
-        "placement": "head",
-        "type": "Accessoire",
-        "subtype": "Headwear",
-        "audience": "Public",
-        "refreshrate": "high",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "imageURL": "http://v.fastcdn.co/u/79902f12/14196448-0-20170227-845a-Photos.jpg"
-    },
-    {
-        "year": 2018,
-        "title": "ShiftWear Sneakers",
-        "published": "Online", 
-        "url": "https://www.shiftwear.com",
-        "name": "ShiftWear",
-        "placement": "foot",
-        "type": "Accessoire",
-        "subtype": "Shoes",
-        "audience": "Public",
-        "refreshrate": "medium",
-        "persistence": "persistent",
-        "infodensity": "5",
-        "imageURL": "https://www.shiftwear.com/images/marketplace.jpg"
-    },
-    {
-        "year": "2018", 
-        "title": "Ringly - Smart jewelry that keeps you active, mindful, and in the moment.", 
-        "url": "https://ringly.com",
-        "name": "Ringly",
-        "placement": "hand",
-        "type": "Accessoire",
-        "subtype": "Watches & Bracelets",
-        "audience": "Intermediate",
-        "refreshrate": "high",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "imageURL": "https://cdn.shopify.com/s/files/1/1529/2383/products/front-_Moonstone_Yellow_Gold_large.jpg?v=1506711084"
-    },
-    {
-        "year": "1998",
-        "url": "https://doi.org/10.1145/289444.289490",
-        "type": "Accessoires",
-        "title": "Meme Tags and Community Mirrors: Moving from Conferences to Collaboration",
-        "subtype": "Chains & Necklaces",
-        "published": "CSCW '98",
-        "refreshrate": "high",
-        "placement": "torso",
-        "persistence": "ephemeral",
-        "infodensity": "4",
-        "authors": [
-            "Borovoy, Richard",
-            "Martin, Fred",
-            "Vemuri, Sunil",
-            "Resnick, Mitchel",
-            "Silverman, Brian",
-            "Hancock, Chris"
-        ],
-        "audience": "Public",
-        "name": "Meme Tags"
-    },
-    {
-        "year": "2013",
-        "url": "http://doi.acm.org/10.1145/2470654.2466161",
-        "type": "Skin & Body",
-        "title": "Pt Viz: Towards a Wearable Device for Visualizing Knee Rehabilitation Exercises",
-        "subtype": "Legs",
-        "published": "CHI '13",
-        "refreshrate": "high",
-        "placement": "legs",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Ananthanarayan, Swamy",
-            "Sheh, Miranda",
-            "Chien, Alice",
-            "Profita, Halley",
-            "Siek, Katie"
-        ],
-        "audience": "Intermediate",
-        "name": "Pt Viz"
-    },
-    {
-        "year": "2006",
-        "url": "http://doi.acm.org/10.1145/1124772.1124827",
-        "type": "Accessoires",
-        "title": "Prototyping Retractable String-based Interaction Techniques for Dual-display Mobile Devices",
-        "subtype": "Watches & Bracelets",
-        "published": "CHI '06",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Blasko, Gabor",
-            "Narayanaswami, Chandra",
-            "Feiner, Steven"
-        ],
-        "audience": "Private",
-        "name": "Retractable Strings"
-    },
-    {
-        "year": "2012",
-        "url": "http://doi.acm.org/10.1145/2212776.2223803",
-        "type": "Accessoires",
-        "title": "Activmon: Encouraging Physical Activity Through Ambient Social Awareness",
-        "subtype": "Watches & Bracelets",
-        "published": "CHI EA '12",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Burns, Patrick",
-            "Lueg, Christopher",
-            "Berkovsky, Shlomo"
-        ],
-        "audience": "Intermediate",
-        "name": "ActivMON"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2677199.2680596",
-        "type": "Accessoires",
-        "title": "DisplaySkin: Exploring Pose-Aware Displays on a Flexible Electrophoretic Wristband",
-        "subtype": "Watches & Bracelets",
-        "published": "TEI '15",
-        "refreshrate": "medium",
-        "placement": "wrist",
-        "persistence": "persistent",
-        "infodensity": "5",
-        "authors": [
-            "Burstyn, Jesse",
-            "Strohmeier, Paul",
-            "Vertegaal, Roel"
-        ],
-        "audience": "Private",
-        "name": "DisplaySkin"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3240167.3240218",
-        "type": "Accessoires",
-        "title": "Towards Reducing Alarm Fatigue: Peripheral Light Pattern Design for Critical Care Alarms",
-        "subtype": "Eyewear",
-        "published": "NordiCHI '18",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Cobus, Vanessa",
-            "Meyer, Hannah",
-            "Ananthanarayan, Swamy",
-            "Boll, Susanne",
-            "Heuten, Wilko"
-        ],
-        "audience": "Private",
-        "name": "Reducing Alarm Fatigue"
-    },
-    {
-        "year": "2016",
-        "url": "http://doi.acm.org/10.1145/2875194.2875212",
-        "type": "Accessoires",
-        "title": "Smart Handbag As a Wearable Public Display - Exploring Concepts and User Perceptions",
-        "subtype": "Bags",
-        "published": "AH '16",
-        "refreshrate": "high",
-        "placement": "body",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Colley, Ashley",
-            "Pakanen, Minna",
-            "Koskinen, Saara",
-            "Mikkonen, Kirsi",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Public",
-        "name": "Smart Handbag"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3240167.3240216",
-        "type": "Accessoires",
-        "title": "Shoe Integrated Displays: A Prototype Sports Shoe Display and Design Space",
-        "subtype": "Shoes",
-        "published": "NordiCHI '18",
-        "refreshrate": "high",
-        "placement": "foot",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Colley, Ashley",
-            "Wo\u017aniak, Pawe\u0142 W.",
-            "Kiss, Francisco",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Intermediate",
-        "name": "Shoe Integrated Displays"
-    },
-    {
-        "year": "2006",
-        "url": "http://doi.acm.org/10.1145/1152215.1152261",
-        "type": "Accessoires",
-        "title": "Eye-q: Eyeglass Peripheral Display for Subtle Intimate Notifications",
-        "subtype": "Eyewear",
-        "published": "MobileHCI '06",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Costanza, Enrico",
-            "Inverso, Samuel A.",
-            "Pavlov, Elan",
-            "Allen, Rebecca",
-            "Maes, Pattie"
-        ],
-        "audience": "Private",
-        "name": "Eye-q"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2785830.2785876",
-        "type": "Skin & Body",
-        "title": "Map Navigation Using a Wearable Mid-air Display",
-        "subtype": "Arm",
-        "published": "MobileHCI '15",
-        "refreshrate": "high",
-        "placement": "arm",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Dancu, Alexandru",
-            "Fourgeaud, Micka\\\"el",
-            "Obaid, Mohammad",
-            "Fjeld, Morten",
-            "Elmqvist, Niklas"
-        ],
-        "audience": "Private",
-        "name": "Wearable Mid-air Display"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3173574.3173794",
-        "type": "Accessoires, Clothing",
-        "title": "AlterWear: Battery-Free Wearable Displays for Opportunistic Interactions",
-        "subtype": "Shoes, Shirts & Tops, Headwear",
-        "published": "CHI '18",
-        "refreshrate": "medium",
-        "placement": "foot, torso, head",
-        "persistence": "persistent",
-        "infodensity": "5",
-        "authors": [
-            "Dierk, Christine",
-            "Nicholas, Molly Jane Pearce",
-            "Paulos, Eric"
-        ],
-        "audience": "Public",
-        "name": "AlterWear"
-    },
-    {
-        "year": "2008",
-        "url": "http://doi.acm.org/10.1145/1517744.1517762",
-        "type": "Accessoires",
-        "title": "ExternalEyes: Evaluating the Visual Abstraction of Human Emotion on a Public Wearable Display Device",
-        "subtype": "Watches & Bracelets",
-        "published": "OZCHI '08",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Fajardo, Noelene",
-            "Moere, Andrew Vande"
-        ],
-        "audience": ["Public", "Intermediate"],
-        "name": "ExternalEyes"
-    },
-    {
-        "year": "1999",
-        "url": "http://doi.acm.org/10.1145/632716.632909",
-        "type": "Accessoires",
-        "title": "The BubbleBadge: A Wearable Public Display",
-        "subtype": "Broaches",
-        "published": "CHI EA '99",
-        "refreshrate": "high",
-        "placement": "torso",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Falk, Jennica",
-            "Björk, Staffan"
-        ],
-        "audience": "Public",
-        "name": "BubbleBadge"
-    },
-    {
-        "year": "2013",
-        "url": "http://doi.acm.org/10.1145/2494091.2495970",
-        "type": "Accessoires",
-        "title": "Illumee: Aesthetic Light Bracelet As a Wearable Information Display for Everyday Life",
-        "subtype": "Watches & Bracelets",
-        "published": "UbiComp '13 Adjunct",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Fortmann, Jutta",
-            "Müller, Heiko",
-            "Boll, Susanne",
-            "Heuten, Wilko"
-        ],
-        "audience": "Intermediate",
-        "name": "Illumee"
-    },
-    {
-        "year": "2014",
-        "url": "http://doi.acm.org/10.1145/2639189.2670249",
-        "type": "Accessoires",
-        "title": "How to Present Information on Wrist-worn Point-light Displays",
-        "subtype": "Watches & Bracelets",
-        "published": "NordiCHI '14",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Fortmann, Jutta",
-            "Müller, Heiko",
-            "Heuten, Wilko",
-            "Boll, Susanne"
-        ],
-        "audience": "Intermediate",
-        "name": "Wrist-worn Point-light Displays"
-    },
-    {
-        "year": "2014",
-        "url": "http://doi.acm.org/10.1145/2677972.2677976",
-        "type": "Accessoires",
-        "title": "WaterJewel: Design and Evaluation of a Bracelet to Promote a Better Drinking Behaviour",
-        "subtype": "Watches & Bracelets",
-        "published": "MUM '14",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Fortmann, Jutta",
-            "Cobus, Vanessa",
-            "Heuten, Wilko",
-            "Boll, Susanne"
-        ],
-        "audience": "Intermediate",
-        "name": "WaterJewel"
-    },
-    {
-        "year": "2019",
-        "url": "http://doi.acm.org/10.1145/3290607.3312857",
-        "type": "Accessoires",
-        "title": "Howel: A Soft Wearable with Dynamic Textile Patterns As an Ambient Display for Cardio Training",
-        "subtype": "Armstrap",
-        "published": "CHI EA '19",
-        "refreshrate": "high",
-        "placement": "arm",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Gen\u00e7, \u00c7a\u011flar",
-            "Ekmek\u00e7io\u011flu, Yavuz Ali",
-            "Balci, Fuat",
-            "Ūrey, Hakan",
-            "Özcan, Oguzhan"
-        ],
-        "audience": "Intermediate",
-        "name": "Howel",
-        "imageURL": "https://dl.acm.org/cms/attachment/fe4d97d5-7da5-4578-9ed8-3e72aa3ca5d0/3290607.3312857.key.jpg"
-    },
-    {
-        "year": "2016",
-        "url": "http://doi.acm.org/10.1145/2858036.2858449",
-        "type": "Accessoires",
-        "title": "Head Mounted Projection Display & Visual Attention: Visual Attentional Processing of Head Referenced Static and Dynamic Displays While in Motion and Standing",
-        "subtype": "Headwear",
-        "published": "CHI '16",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Gen\u00e7, \u00c7a\u011flar",
-            "Soomro, Shoaib",
-            "Duyan, Yal\u00e7\u0131n",
-            "Öl\u00e7er, Selim",
-            "Balc\u0131, Fuat",
-            "ürey, Hakan",
-            "özcan, O\u011fuzhan"
-        ],
-        "audience": "Public",
-        "name": "Head Mounted Projection Display",
-        "imageURL": "https://dl.acm.org/cms/attachment/17b7e310-655c-4e25-88bf-3b5b3b773b1e/2858036.2858449.key.jpg"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2790044.2790059",
-        "type": "Clothing",
-        "title": "Enhancing Traffic Safety with Wearable Low-resolution Displays",
-        "subtype": "Jackets",
-        "published": "iWOAR '15",
-        "refreshrate": "high",
-        "placement": "torso, arm",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Grosse-Puppendahl, Tobias",
-            "Bechtold, Oskar",
-            "Strassel, Lukas",
-            "Jakob, David",
-            "Braun, Andreas",
-            "Kuijper, Arjan"
-        ],
-        "audience": "Public",
-        "name": "Wearable Low-resolution Displays"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3267305.3267702",
-        "type": "Clothing",
-        "title": "Designing an Interactive Ice Skating Dress for Young Athletes",
-        "subtype": "Pants & Skirts",
-        "published": "UbiComp '18",
-        "refreshrate": "high",
-        "placement": "legs",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Häkkilä, Jonna",
-            "Helander, Veera",
-            "Jamoido, Diana",
-            "Colley, Ashley"
-        ],
-        "audience": ["Intermediate", "Public"],
-        "name": "Interactive Ice Skating Dress"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3267242.3267303",
-        "type": "Clothing",
-        "title": "Idle Stripes Shirt: Ambient Wearable Display for Activity Tracking",
-        "subtype": "Shirts & Tops",
-        "published": "ISWC '18",
-        "refreshrate": "high",
-        "placement": "torso",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Harjuniemi, Emmi",
-            "Colley, Ashley",
-            "Rytilahti, Piia",
-            "Li, Hong",
-            "Forest, Jesse",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Intermediate",
-        "name": "Idle Stripes Shirt"
-    },
-    {
-        "year": "2017",
-        "url": "http://doi.acm.org/10.1145/3024969.3025055",
-        "type": "Accessoires",
-        "title": "Brighter Than a Thousand Suns: A Uniform to Detect and Display Radiation",
-        "subtype": "Headwear",
-        "published": "TEI '17",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Hertrich, Susanna",
-            "Honda, Aiktoshi"
-        ],
-        "audience": "Public",
-        "name": "Brighter Than a Thousand Suns",
-        "imageURL": "https://dl.acm.org/cms/attachment/d3804ddb-1649-4edc-997e-9cc4f21acdaf/3024969.3025055.key.jpg"
-    },
-    {
-        "year": "2004",
-        "url": "http://doi.acm.org/10.1145/1186155.1186163",
-        "type": "Clothing",
-        "title": "HearWear: The Fashion of Environmental Noise Display",
-        "subtype": "Pants & Skirts",
-        "published": "SIGGRAPH '04",
-        "refreshrate": "high",
-        "placement": "legs",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Iossifova, Milena",
-            "Kim, Younghui"
-        ],
-        "audience": "Public",
-        "name": "HearWear"
-    },
-    {
-        "year": "2005",
-        "url": "http://doi.acm.org/10.1145/1056808.1056949",
-        "type": "Accessoires",
-        "title": "Reach: Dynamic Textile Patterns for Communication and Social Expression",
-        "subtype": "Headwear",
-        "published": "CHI EA '05",
-        "refreshrate": "slow",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "3",
-        "authors": [
-            "Jacobs, Margot",
-            "Worbin, Linda"
-        ],
-        "audience": "Intermediate",
-        "name": "Reach"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2702613.2732833",
-        "type": "Accessoires",
-        "title": "CueSense: A Wearable Proximity-Aware Display Enhancing Encounters",
-        "subtype": "Chains & Necklaces",
-        "published": "CHI EA '15",
-        "refreshrate": "high",
-        "placement": "torso",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Jarusriboonchai, Pradthana",
-            "Olsson, Thomas",
-            "Prabhu, Vikas",
-            "Väänänen-Vainio-Mattila, Kaisa"
-        ],
-        "audience": "Public",
-        "name": "CueSense"
-    },
-    {
-        "year": "2019",
-        "url": "http://doi.acm.org/10.1145/3341162.3343787",
-        "type": "Accessoires",
-        "title": "Exploring Non-emissive Wearable Display As a Clothing Accessory",
-        "subtype": "Headwear",
-        "published": "UbiComp/ISWC '19 Adjunct",
-        "refreshrate": ["medium", "high"],
-        "placement": "head",
-        "persistence": ["persistent", "ephemeral"],
-        "infodensity": "1",
-        "authors": [
-            "Jarusriboonchai, Pradthana",
-            "Napari, Emma",
-            "Juhlin, Oskar",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Public",
-        "name": "Non-emissive Wearable Displays"
-    },
-    {
-        "year": "2019",
-        "url": "http://doi.acm.org/10.1145/3341163.3346934",
-        "type": "Clothing",
-        "title": "Linn Dress: Enabling a Dynamically Adjustable Neckline",
-        "subtype": "Dresses",
-        "published": "ISWC '19",
-        "refreshrate": "medium",
-        "placement": ["torso", "waist"],
-        "persistence": "persistent",
-        "infodensity": "1",
-        "authors": [
-            "Jarusriboonchai, Pradthana",
-            "Harjuniemi, Emmi",
-            "Müller, Heiko",
-            "Colley, Ashley",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Public",
-        "name": "Linn Dress"
-    },
-    {
-        "year": "2019",
-        "url": "http://doi.acm.org/10.1145/3341163.3346937",
-        "type": "Accessoires",
-        "title": "VitaBoot: Footwear with Dynamic Graphical Patterning",
-        "subtype": "Shoes",
-        "published": "ISWC '19",
-        "refreshrate": "medium",
-        "placement": "foot",
-        "persistence": "persistent",
-        "infodensity": "1",
-        "authors": [
-            "Jensen, Walther",
-            "Colley, Ashley",
-            "Löchtefeld, Markus"
-        ],
-        "audience": ["Public", "Intermediate"],
-        "name": "VitaBoot"
-    },
-    {
-        "year": "2017",
-        "url": "http://doi.acm.org/10.1145/3027063.3052754",
-        "type": "Skin & Body",
-        "title": "EarthTones: Chemical Sensing Powders to Detect and Display Environmental Hazards Through Color Variation",
-        "subtype": "Skin",
-        "published": "CHI EA '17",
-        "refreshrate": "slow",
-        "placement": "body",
-        "persistence": "persistent",
-        "infodensity": "2",
-        "authors": [
-            "Kao, Cindy Hsin-Liu",
-            "Nguyen, Bichlien",
-            "Roseway, Asta",
-            "Dickey, Michael"
-        ],
-        "audience": "Intermediate",
-        "name": "EarthTones",
-        "imageURL": "https://dl.acm.org/cms/attachment/674d1711-c10f-46ab-b4a8-d1a564347203/3027063.3052754.key.jpg"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3173225.3173250",
-        "type": "Clothing",
-        "title": "Digitally Enchanted Wear: A Novel Approach in the Field of Dresses As Dynamic Digital Displays",
-        "subtype": "Dresses",
-        "published": "TEI '18",
-        "refreshrate": "high",
-        "placement": "body",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Kleinberger, Rebecca",
-            "Panjwani, Alisha"
-        ],
-        "audience": "Public",
-        "name": "Digitally Enchanted Wear",
-        "imageURL": "https://dl.acm.org/cms/attachment/344d1af9-a3b4-428c-9946-05bebb91cba5/3173225.3173250.key.jpg"
-    },
-    {
-        "year": "2011",
-        "url": "http://doi.acm.org/10.1145/1979742.1979882",
-        "type": "Accessoires",
-        "title": "Designing a Personal Visualization Projection of Online Social Identity",
-        "subtype": "Bags",
-        "published": "CHI EA '11",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Leung, Mandy",
-            "Tomitsch, Martin",
-            "Vande Moere, Andrew"
-        ],
-        "audience": "Public",
-        "name": "Online Social Identity"
-    },
-    {
-        "year": "2016",
-        "url": "http://doi.acm.org/10.1145/2901790.2901885",
-        "type": "Skin & Body",
-        "title": "Skintillates: Designing and Creating Epidermal Interactions",
-        "subtype": "Skin",
-        "published": "DIS '16",
-        "refreshrate": "high",
-        "placement": "body",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Lo, Joanne",
-            "Lee, Doris Jung Lin",
-            "Wong, Nathan",
-            "Bui, David",
-            "Paulos, Eric"
-        ],
-        "audience": ["Public", "Intermediate", "Private"],
-        "name": "Skintillates",
-        "imageURL": "https://dl.acm.org/cms/attachment/21a7cb1e-e6ed-4dca-b75f-70fd40de51a4/2901790.2901885.key.jpg"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3170427.3180651",
-        "type": "Accessoires",
-        "title": "Wearable Aura: Interactive Personal Projection to Bring People Closer",
-        "subtype": "Shoes",
-        "published": "CHI EA '18",
-        "refreshrate": "high",
-        "placement": "foot",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Lugaresi, Laura",
-            "Lin, Kaiyuan",
-            "Zheng, Dingding"
-        ],
-        "audience": "Public",
-        "name": "Wearable Aura"
-    },
-    {
-        "year": "2012",
-        "url": "http://doi.acm.org/10.1145/2380116.2380134",
-        "type": "Accessoires",
-        "title": "Facet: A Multi-segment Wrist Worn System",
-        "subtype": "Watches & Bracelets",
-        "published": "UIST '12",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Lyons, Kent",
-            "Nguyen, David",
-            "Ashbrook, Daniel",
-            "White, Sean"
-        ],
-        "audience": ["Public", "Private"],
-        "name": "Facet",
-        "imageURL": "https://dl.acm.org/cms/attachment/c3fcb692-0033-4ee4-85b9-8485e1b215da/2380116.2380134.key.jpg"
-    },
-    {
-        "year": "2014",
-        "url": "http://doi.acm.org/10.1145/2556288.2557299",
-        "type": "Clothing",
-        "title": "Social Fabric Fitness: The Design and Evaluation of Wearable E-textile Displays to Support Group Running",
-        "subtype": "Shirts & Tops",
-        "published": "CHI '14",
-        "refreshrate": ["medium", "high"],
-        "placement": "waist",
-        "persistence": ["persistent", "ephemeral"],
-        "infodensity": ["4","5"],
-        "authors": [
-            "Mauriello, Matthew",
-            "Gubbels, Michael",
-            "Froehlich, Jon E."
-        ],
-        "audience": "Public",
-        "name": "Social Fabric Fitness"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2735711.2735805",
-        "type": "Accessoires",
-        "title": "Bio-Collar: A Wearable Optic-kinetic Display for Awareness of Bio-status",
-        "subtype": "Chains & Necklaces",
-        "published": "AH '15",
-        "refreshrate": "fast",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Nojima, Takuya",
-            "Yamamura, Miki",
-            "Kanebako, Junichi",
-            "Ishigami, Lisako",
-            "Xue, Mage",
-            "Uchiyama, Hiroko",
-            "Yamazaki, Naoko"
-        ],
-        "audience": "Intermediate",
-        "name": "Bio-Collar"
-    },
-    {
-        "year": "2013",
-        "url": "http://doi.acm.org/10.1145/2459236.2459239",
-        "type": "Accessoires",
-        "title": "AugmentedForearm: Exploring the Design Space of a Display-enhanced Forearm",
-        "subtype": "Armstrap",
-        "published": "AH '13",
-        "refreshrate": "high",
-        "placement": "arm",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Olberding, Simon",
-            "Yeo, Kian Peen",
-            "Nanayakkara, Suranga",
-            "Steimle, Jurgen"
-        ],
-        "audience": ["Public", "Private"],
-        "name": "AugmentedForearm"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3267242.3267288",
-        "type": "Accessoires",
-        "title": "1D Eyewear: Peripheral, Hidden LEDs and Near-eye Holographic Displays for Unobtrusive Augmentation",
-        "subtype": "Eyewear",
-        "published": "ISWC '18",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "3",
-        "authors": [
-            "Olwal, Alex",
-            "Kress, Bernard"
-        ],
-        "audience": "Private",
-        "name": "1D Eyewear"
-    },
-    {
-        "year": "2016",
-        "url": "http://doi.acm.org/10.1145/2968219.2971350",
-        "type": "Clothing",
-        "title": "Solar Shirt: Design of an Environmental Awareness Wearable",
-        "subtype": "Shirts & Tops",
-        "published": "UbiComp '16",
-        "refreshrate": "medium",
-        "placement": ["torso", "waist"],
-        "persistence": "persistent",
-        "infodensity": "1",
-        "authors": [
-            "Roinesalo, Paula",
-            "Virtanen, Lasse",
-            "Lappalainen, Tuomas",
-            "Kylmänen, Anu",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Intermediate",
-        "name": "Solar Shirt",
-        "imageURL": "https://dl.acm.org/cms/attachment/a9347df9-72d8-496e-b07a-c8255cf2b954/2968219.2971350.key.jpg"
-    },
-    {
-        "year": "2017",
-        "url": "http://doi.acm.org/10.1145/3123021.3123074",
-        "type": "Clothing",
-        "title": "Breaking of the Dawn Jacket: Light in the Arctic Winter",
-        "subtype": "Jackets & Suits",
-        "published": "ISWC '17",
-        "refreshrate": "slow, high",
-        "placement": ["torso", "waist"],
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Roinesalo, Paula",
-            "Lappalainen, Tuomas",
-            "Colley, Ashley",
-            "Häkkilä, Jonna"
-        ],
-        "audience": "Public",
-        "name": "Breaking of the Dawn Jacket"
-    },
-    {
-        "year": "2013",
-        "url": "http://doi.acm.org/10.1145/2466816.2466831",
-        "type": "Accessoires",
-        "title": "Mixed Reality with Multimodal Head-mounted Pico Projector",
-        "subtype": "Headwear",
-        "published": "VRIC '13",
-        "refreshrate": "high",
-        "placement": "head",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Sand, Antti",
-            "Rakkolainen, Ismo"
-        ],
-        "audience": "Public",
-        "name": "Multimodal Head-mounted Pico Projector"
-    },
-    {
-        "year": "2016",
-        "url": "http://doi.acm.org/10.1145/2914920.2915021",
-        "type": "Clothing",
-        "title": "Using On-body Displays for Extending the Output of Wearable Devices",
-        "subtype": "Shirts & Tops",
-        "published": "PerDis '16",
-        "refreshrate": "high",
-        "placement": ["torso", "waist"],
-        "persistence": "ephemeral",
-        "infodensity": "4",
-        "authors": [
-            "Schneegass, Stefan",
-            "Ogando, Sophie",
-            "Alt, Florian"
-        ],
-        "audience": "Public",
-        "name": "On-body Displays"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3197391.3205393",
-        "type": "Clothing",
-        "title": "HeartMe: Thermochromic Display As An Expression of Heart Health",
-        "subtype": "Dresses",
-        "published": "DIS '18 Companion",
-        "refreshrate": "slow",
-        "placement": ["torso", "waist"],
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Song, Manlin",
-            "Vega, Katia"
-        ],
-        "audience": "Public",
-        "name": "HeartMe"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2786567.2793710",
-        "type": "Accessoires",
-        "title": "Effects of Display Sizes on a Scrolling Task Using a Cylindrical Smartwatch",
-        "subtype": "Watches & Bracelets",
-        "published": "MobileHCI '15",
-        "refreshrate": "medium",
-        "placement": "wrist",
-        "persistence": "persistent",
-        "infodensity": "5",
-        "authors": [
-            "Strohmeier, Paul",
-            "Burstyn, Jesse",
-            "Vertegaal, Roel"
-        ],
-        "audience": "Private",
-        "name": "Cylindrical Smartwatch"
-    },
-    {
-        "year": "2018",
-        "url": "http://doi.acm.org/10.1145/3284398.3284415",
-        "type": "Accessoires",
-        "title": "Public/Private Interactive Wearable Projection Display",
-        "subtype": "Armstrap",
-        "published": "VRCAI '18",
-        "refreshrate": "high",
-        "placement": "arm",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Sugiura, Yuta",
-            "Chong, Toby",
-            "Kawai, Wataru",
-            "Thomas, Bruce H."
-        ],
-        "audience": ["Public", "Private"],
-        "name": "Interactive Wearable Projection Display"
-    },
-    {
-        "year": "2017",
-        "url": "http://doi.acm.org/10.1145/3123021.3123039",
-        "type": "Skin & Body",
-        "title": "The Dermal Abyss: Interfacing with the Skin by Tattooing Biosensors",
-        "subtype": "Skin",
-        "published": "ISWC '17",
-        "refreshrate": "slow",
-        "placement": "body",
-        "persistence": "persistent",
-        "infodensity": "2",
-        "authors": [
-            "Vega, Katia",
-            "Jiang, Nan",
-            "Liu, Xin",
-            "Kan, Viirj",
-            "Barry, Nick",
-            "Maes, Pattie",
-            "Yetisen, Ali",
-            "Paradiso, Joe"
-        ],
-        "audience": ["Intermediate", "Private"],
-        "name": "The Dermal Abyss"
-    },
-    {
-        "year": "2014",
-        "url": "http://doi.acm.org/10.1145/2669485.2669507",
-        "type": "Accessoires",
-        "title": "SleeD: Using a Sleeve Display to Interact with Touch-sensitive Display Walls",
-        "subtype": "Watches & Bracelets",
-        "published": "ITS '14",
-        "refreshrate": ["medium", "high"],
-        "placement": "arm",
-        "persistence": ["persistent", "ephemeral"],
-        "infodensity": "5",
-        "authors": [
-            "von Zadow, Ulrich",
-            "Büschel, Wolfgang",
-            "Langner, Ricardo",
-            "Dachselt, Raimund"
-        ],
-        "audience": "Private",
-        "name": "SleeD",
-        "imageURL": "https://dl.acm.org/cms/attachment/55d4eb54-f100-4f21-b989-bc645afce520/2669485.2669507.key.jpg"
-    },
-    {
-        "year": "2006",
-        "url": "http://doi.acm.org/10.1145/1178823.1178880",
-        "type": "Clothing",
-        "title": "Mosaic Textile: Wearable Ambient Display with Non-emissive Color-changing Modules",
-        "subtype": "Pants & Skirts, Shirts & Tops",
-        "published": "ACE '06",
-        "refreshrate": "slow",
-        "placement": ["torso", "legs"],
-        "persistence": "ephemeral",
-        "infodensity": "2",
-        "authors": [
-            "Wakita, Akira",
-            "Shibutani, Midori"
-        ],
-        "audience": "Private",
-        "name": "Mosaic Textile"
-    },
-    {
-        "year": "2017",
-        "url": "http://doi.acm.org/10.1145/3025453.3025852",
-        "type": "Accessoires",
-        "title": "WatchThru: Expanding Smartwatch Displays with Mid-air Visuals and Wrist-worn Augmented Reality",
-        "subtype": "Watches & Bracelets",
-        "published": "CHI '17",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Wenig, Dirk",
-            "Schöning, Johannes",
-            "Olwal, Alex",
-            "Oben, Mathias",
-            "Malaka, Rainer"
-        ],
-        "audience": "Private",
-        "name": "WatchThru",
-        "imageURL": "https://dl.acm.org/cms/attachment/a8ea0bd0-2ddb-495a-a6e9-8396ec591002/3025453.3025852.key.jpg"
-    },
-    {
-        "year": "2006",
-        "url": "http://doi.acm.org/10.1145/1125451.1125731",
-        "type": "Accessoires",
-        "title": "Exploring Wearable Ambient Displays for Social Awareness",
-        "subtype": "Watches & Bracelets",
-        "published": "CHI EA '06",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "1",
-        "authors": [
-            "Williams, Amanda",
-            "Farnham, Shelly",
-            "Counts, Scott"
-        ],
-        "audience": "Intermediate",
-        "name": "Wearable Ambient Displays"
-    },
-    {
-        "year": "2013",
-        "url": "http://doi.acm.org/10.1145/2468356.2468524",
-        "type": "Skin & Body",
-        "title": "Exploring the Benefits of Fingernail Displays",
-        "subtype": "Hands & Fingers",
-        "published": "CHI EA '13",
-        "refreshrate": "high",
-        "placement": "hand",
-        "persistence": "ephemeral",
-        "infodensity": "5",
-        "authors": [
-            "Wimmer, Raphael",
-            "Echtler, Florian"
-        ],
-        "audience": "Public",
-        "name": "Fingernail Displays",
-        "imageURL": "https://dl.acm.org/cms/attachment/64bf9ba4-ed7c-485d-8c08-76756da676ce/2468356.2468524.key.jpg"
-    },
-    {
-        "year": "2015",
-        "url": "http://doi.acm.org/10.1145/2677199.2680599",
-        "type": "Accessoires",
-        "title": "Shimmering Smartwatches: Exploring the Smartwatch Design Space",
-        "subtype": "Watches & Bracelets",
-        "published": "TEI '15",
-        "refreshrate": "high",
-        "placement": "wrist",
-        "persistence": "ephemeral",
-        "infodensity": "3",
-        "authors": [
-            "Xu, Cheng",
-            "Lyons, Kent"
-        ],
-        "audience": ["Intermediate","Private"],
-        "name": "Shimmering Smartwatches",
-        "imageURL": "https://dl.acm.org/cms/attachment/00cdc085-bf21-4824-8256-c3e903a1c454/2677199.2680599.key.jpg"
-    }
+  {
+    "name" : "Focals",
+    "title" : "Focals Smart Glasses",
+    "authors" : [
+      "North"
+    ],
+    "published" : "Online",
+    "year" : 2018,
+    "url" : "https://www.bynorth.com/focals",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://assets.bynorth.com/quartz/final/focals/Focals_Desktop_Tease_Oahu_02.png"
+  },
+  {
+    "name" : "HärIÖ",
+    "title" : "HäirIÖ: Human Hair As Interactive Material",
+    "authors" : [
+      "Dierk, Christine",
+      "Sterman, Sarah",
+      "Nicholas, Molly Jane Pearce",
+      "Paulos, Eric"
+    ],
+    "published" : "TEI '18",
+    "year" : 2018,
+    "url" : "http://doi.acm.org/10.1145/3173225.3173232",
+    "placement" : "head",
+    "subplacement" : "hair",
+    "type" : "Skin & Body",
+    "subtype" : "Hair",
+    "audience" : "Public",
+    "infodensity" : "1",
+    "refreshrate" : "slow",
+    "persistence" : "ephemeral",
+    "imageURL" : "https://dl.acm.org/cms/attachment/a9887e63-5fcd-44cd-9803-181d0dba331d/3173225.3173232.key.jpg",
+    "technology" : "thermochromic"
+  },
+  {
+    "name" : "HM3DD",
+    "title" : "A Head-mounted Three Dimensional Display",
+    "authors" : [
+      "Sutherland, Ivan"
+    ],
+    "published" : "AFIPS '68 (Fall, part I)",
+    "year" : 1968,
+    "url" : "http://doi.acm.org/10.1145/1476589.1476686",
+    "placement" : "head",
+    "subplacement" : "eye",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "infodensity" : "5",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "technology" : "CRT"
+  },
+  {
+    "name" : "EyeTap",
+    "title" : "Continuous Lifelong Capture of Personal Experience with EyeTap",
+    "authors" : [
+      "Mann, Steve"
+    ],
+    "published" : "CARPE '04",
+    "year" : 2004,
+    "url" : "http://doi.acm.org/10.1145/1026653.1026654",
+    "placement" : "head",
+    "subplacement" : "eye",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD"
+  },
+  {
+    "name" : "BuddyBeads",
+    "title" : "BuddyBeads: techno-jewelry for non-verbal communication within teenager girls groups",
+    "authors" : [
+      "Kikin-Gil, Ruth"
+    ],
+    "published" : "Pers. & Ubiqu. Comp. Vol. 10 (2-3)",
+    "year" : 2006,
+    "url" : "http://dx.doi.org/10.1007/s00779-005-0015-x",
+    "placement" : "wrist",
+    "type" : "Accessoires",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Public",
+    "infodensity" : "2",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "imageURL" : "https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs00779-005-0015-x/MediaObjects/779_2005_15_Fig3_HTML.jpg",
+    "technology" : "LED"
+  },
+  {
+    "name" : "TeamAwear",
+    "title" : "Evaluating a Wearable Display Jersey for Augmenting Team Sports Awareness",
+    "authors" : [
+      "Page, Mitchell",
+      "Vande Moere, Andrew"
+    ],
+    "published" : "Pervasive Computing",
+    "year" : 2007,
+    "url" : "http://dx.doi.org/10.1007/978-3-540-72037-9_6",
+    "placement" : "torso",
+    "type" : "Clothing",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "subtype" : "Shirts & Tops",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Turn Signal Biking Jacket",
+    "title" : "Turn Signal Biking Jacket",
+    "authors" : [
+      "Buechly, Leah"
+    ],
+    "published" : "Instructables",
+    "year" : 2008,
+    "url" : "https://www.instructables.com/id/turn-signal-biking-jacket/",
+    "placement" : "torso",
+    "type" : "Clothing",
+    "subtype" : "Shirts & Tops",
+    "audience" : "Public",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "imageURL" : "https://cdn.instructables.com/FRC/II3V/FHY0I8RW/FRCII3VFHY0I8RW.LARGE.jpg",
+    "imageSourceTitle" : "Instructables"
+  },
+  {
+    "name" : "The North Skirt",
+    "title" : "The North Skirt",
+    "authors" : [
+      "Scheff, Meredith"
+    ],
+    "published" : "Online",
+    "year" : 2010,
+    "url" : "http://steampunkworkshop.com/north-skirt/",
+    "placement" : "legs",
+    "type" : "Clothing",
+    "subtype" : "Pants & Skirts",
+    "audience" : "Public",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "imageURL" : "https://farm5.static.flickr.com/4039/4643719128_4477247158.jpg",
+    "imageSource" : "http://steampunkworkshop.com/north-skirt/"
+  },
+  {
+    "name" : "Tago Arc",
+    "title" : "Tago Arc - The jewelry from the future",
+    "authors" : [],
+    "published" : "Online",
+    "year" : 2018,
+    "url" : "https://www.liber8tech.com/tago-arc",
+    "placement" : "wrist",
+    "type" : "Accessoires",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Public",
+    "refreshrate" : "medium",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "imageURL" : "https://liber8tech.com/image/featured/normal/caab0cb82ca1ec0592af3cfa2d730028.png",
+    "imageSourceTitle" : "liber8tech"
+  },
+  {
+    "name" : "Form Goggles",
+    "title" : "Form Goggles - Swim goggles with a smart display.",
+    "authors" : [],
+    "published" : "Online",
+    "year" : 2019,
+    "url" : "https://www.formswim.com/",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "4",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/0216/5991/0208/products/product-main1_720x.jpg?v=1564427929",
+    "imageSourceTitle" : "Form",
+    "technology" : "LCD"
+  },
+  {
+    "name" : "Hyperface",
+    "title" : "Hyperface",
+    "authors" : [
+      "Eun Kyung Shin"
+    ],
+    "published" : "Online",
+    "year" : 2017,
+    "url" : "https://eunkyungshin.myportfolio.com/enhanced-interface",
+    "placement" : "Head",
+    "type" : "Accessoires",
+    "audience" : "Private",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://pro2-bar-s3-cdn-cf3.myportfolio.com/48e2a556d727f0a481902b8b2b706b59/ea50f933-f00f-4f11-9e54-2756c782ce38_rw_3840.jpg?h=828ab8011fe12ebb9655ec8c992ac3b1",
+    "imageSourceTitle" : "EUN KYUNG SHIN",
+    "technology" : "Projection"
+  },
+  {
+    "name" : "1Bit Textile",
+    "title" : "1-Bit Textile",
+    "authors" : [
+      "Ebru Kurbak",
+      "Irene Posch"
+    ],
+    "published" : "Online",
+    "year" : 2015,
+    "url" : "http://etextile-summercamp.org/swatch-exchange/1-bit-textile/",
+    "placement" : "Body",
+    "type" : "Clothing",
+    "subtype" : "",
+    "audience" : "Public",
+    "refreshrate" : "medium",
+    "persistence" : "persistent",
+    "infodensity" : "1",
+    "imageURL" : "http://etextile-summercamp.org/swatch-exchange/wp-content/uploads/2015/05/square_black_01.jpg",
+    "imageSource" : "http://etextile-summercamp.org",
+    "technology" : "Electrophoretic"
+  },
+  {
+    "name" : "Glass",
+    "title" : "Google Glass",
+    "authors" : [],
+    "published" : "Online",
+    "year" : 2010,
+    "url" : "https://x.company/glass/",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://lh3.googleusercontent.com/FKs5XMvwuBYfUfNSEk_R5VQmXvJSrz1GatoJetoVgpYW4q47UFocEHdVvLpHEHZQLMmmuh32XdYXZ1PLt_AB2rAV284AP6MuFwX8Dw=s300"
+  },
+  {
+    "name" : "NailDisplay",
+    "title" : "NailDisplay: Bringing an Always Available Visual Display to Fingertips",
+    "authors" : [
+      "Su, Chao-Huai",
+      "Chan, Liwei",
+      " Weng, Chien-Ting",
+      "Liang, Rong-Hao",
+      "Cheng, Kai-Yin",
+      "Chen, Bing-Yu"
+    ],
+    "published" : "CHI '13",
+    "year" : 2013,
+    "url" : "http://doi.acm.org/10.1145/2470654.2466193",
+    "placement" : "hand",
+    "type" : "Skin & Body",
+    "subtype" : "Hands & Fingers",
+    "audience" : "Public",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://dl.acm.org/cms/attachment/1bff4bfd-c2b2-4b1a-b5fd-859cc2a5a5a0/2470654.2466193.key.jpg"
+  },
+  {
+    "name" : "Loupe",
+    "title" : "Loupe: a handheld near-eye display",
+    "authors" : [
+      "Lyons, Kent",
+      "Kim, Seung Wook",
+      "Seko, Shigeyuki",
+      "Nguyen, David",
+      "Desjardins, Audrey",
+      "Vidal, Mélodie",
+      "Dobbelstein, David",
+      "Rubin, Jeremy"
+    ],
+    "published" : "UIST '14",
+    "year" : 2014,
+    "url" : "http://doi.acm.org/10.1145/2642918.2647361",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://dl.acm.org/cms/attachment/61f8af50-7e48-43a3-b4f4-58d34168b7cf/2642918.2647361.key.jpg"
+  },
+  {
+    "name" : "Cicret",
+    "year" : 2018,
+    "title" : "Cicret Bracelet",
+    "published" : "Online",
+    "url" : "https://www.cicret.com",
+    "placement" : "wrist",
+    "type" : "Accessoires",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5"
+  },
+  {
+    "name" : "WT6000",
+    "year" : 2018,
+    "title" : "Zebra WT6000 Wearable Computer",
+    "published" : "Online",
+    "url" : "https://www.zebra.com/us/en/products/mobile-computers/wearable-computers/wt6000.html",
+    "placement" : "arm",
+    "type" : "Accessoires",
+    "subtype" : "Straps & Belts",
+    "audience" : [
+      "Private",
+      "Intermediate",
+      "Public"
+    ],
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://www.zebra.com//us/en/products/mobile-computers/wearable-computers/wt6000/jcr:content/mainpar/fullwidthimage_736b/fullWidthImage.transform/image-full/image.jpg",
+    "imageSourceTitle" : "Zebra"
+  },
+  {
+    "year" : "2018",
+    "title" : "Lumos Helmet",
+    "published" : "Online",
+    "url" : "https://lumoshelmet.co",
+    "name" : "Lumos",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Headwear",
+    "audience" : "Public",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/1974/9705/files/kickstart-side_1024x1024_9e4b9278-4168-46fb-9845-9624b1f2d5c0_1024x1024.jpg?v=1572614044"
+  },
+  {
+    "year" : 2017,
+    "title" : "Brake Free - The Smart Brake Light for Motorcyclists",
+    "published" : "Online",
+    "url" : "http://www.brakefreetech.com",
+    "name" : "BrakeFree",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Headwear",
+    "audience" : "Public",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "imageURL" : "http://v.fastcdn.co/u/79902f12/14196448-0-20170227-845a-Photos.jpg"
+  },
+  {
+    "year" : 2018,
+    "title" : "ShiftWear Sneakers",
+    "published" : "Online",
+    "url" : "https://www.shiftwear.com",
+    "name" : "ShiftWear",
+    "placement" : "foot",
+    "type" : "Accessoires",
+    "subtype" : "Shoes",
+    "audience" : "Public",
+    "refreshrate" : "medium",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "imageURL" : "https://www.shiftwear.com/images/marketplace.jpg"
+  },
+  {
+    "year" : 2016,
+    "title" : "MAREA is a jacket that reminds city dwellers about the soft changes in nature",
+    "published" : "Online",
+    "url" : "http://cargocollective.com/bia/MAREA",
+    "authors" : [
+      "Bianca Cheng Costanzo"
+    ],
+    "name" : "MAREA",
+    "placement" : "waist",
+    "type" : "Clothing",
+    "subtype" : "Jackets & Suits",
+    "audience" : "Public",
+    "refreshrate" : "medium",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "imageURL" : "https://payload.cargocollective.com/1/0/4277/11701464/_DSC1483-Edit_1250.jpg",
+    "imageSourceTitle" : "Photos courtesy of Cristopher Santos"
+  },
+  {
+    "year" : "2018",
+    "title" : "Ringly - Smart jewelry that keeps you active, mindful, and in the moment.",
+    "url" : "https://ringly.com",
+    "name" : "Ringly",
+    "placement" : "hand",
+    "type" : "Accessoires",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Intermediate",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/1529/2383/products/front-_Moonstone_Yellow_Gold_large.jpg?v=1506711084"
+  },
+  {
+    "year" : "1998",
+    "url" : "https://doi.org/10.1145/289444.289490",
+    "type" : "Accessoires",
+    "title" : "Meme Tags and Community Mirrors: Moving from Conferences to Collaboration",
+    "subtype" : "Chains & Necklaces",
+    "published" : "CSCW '98",
+    "refreshrate" : "high",
+    "placement" : "torso",
+    "persistence" : "ephemeral",
+    "infodensity" : "4",
+    "authors" : [
+      "Borovoy, Richard",
+      "Martin, Fred",
+      "Vemuri, Sunil",
+      "Resnick, Mitchel",
+      "Silverman, Brian",
+      "Hancock, Chris"
+    ],
+    "audience" : "Public",
+    "name" : "Meme Tags"
+  },
+  {
+    "year" : "2013",
+    "url" : "http://doi.acm.org/10.1145/2470654.2466161",
+    "type" : "Accessoires",
+    "title" : "Pt Viz: Towards a Wearable Device for Visualizing Knee Rehabilitation Exercises",
+    "subtype" : "Straps",
+    "published" : "CHI '13",
+    "refreshrate" : "high",
+    "placement" : "legs",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Ananthanarayan, Swamy",
+      "Sheh, Miranda",
+      "Chien, Alice",
+      "Profita, Halley",
+      "Siek, Katie"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Pt Viz"
+  },
+  {
+    "year" : "2006",
+    "url" : "http://doi.acm.org/10.1145/1124772.1124827",
+    "type" : "Accessoires",
+    "title" : "Prototyping Retractable String-based Interaction Techniques for Dual-display Mobile Devices",
+    "subtype" : "Watches & Bracelets",
+    "published" : "CHI '06",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Blasko, Gabor",
+      "Narayanaswami, Chandra",
+      "Feiner, Steven"
+    ],
+    "audience" : "Private",
+    "name" : "Retractable Strings"
+  },
+  {
+    "year" : "2012",
+    "url" : "http://doi.acm.org/10.1145/2212776.2223803",
+    "type" : "Accessoires",
+    "title" : "Activmon: Encouraging Physical Activity Through Ambient Social Awareness",
+    "subtype" : "Watches & Bracelets",
+    "published" : "CHI EA '12",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Burns, Patrick",
+      "Lueg, Christopher",
+      "Berkovsky, Shlomo"
+    ],
+    "audience" : "Intermediate",
+    "name" : "ActivMON"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2677199.2680596",
+    "type" : "Accessoires",
+    "title" : "DisplaySkin: Exploring Pose-Aware Displays on a Flexible Electrophoretic Wristband",
+    "subtype" : "Watches & Bracelets",
+    "published" : "TEI '15",
+    "refreshrate" : "medium",
+    "placement" : "wrist",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "authors" : [
+      "Burstyn, Jesse",
+      "Strohmeier, Paul",
+      "Vertegaal, Roel"
+    ],
+    "audience" : "Private",
+    "name" : "DisplaySkin"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3240167.3240218",
+    "type" : "Accessoires",
+    "title" : "Towards Reducing Alarm Fatigue: Peripheral Light Pattern Design for Critical Care Alarms",
+    "subtype" : "Eyewear",
+    "published" : "NordiCHI '18",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Cobus, Vanessa",
+      "Meyer, Hannah",
+      "Ananthanarayan, Swamy",
+      "Boll, Susanne",
+      "Heuten, Wilko"
+    ],
+    "audience" : "Private",
+    "name" : "Reducing Alarm Fatigue"
+  },
+  {
+    "year" : "2016",
+    "url" : "http://doi.acm.org/10.1145/2875194.2875212",
+    "type" : "Accessoires",
+    "title" : "Smart Handbag As a Wearable Public Display - Exploring Concepts and User Perceptions",
+    "subtype" : "Bags",
+    "published" : "AH '16",
+    "refreshrate" : "high",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Colley, Ashley",
+      "Pakanen, Minna",
+      "Koskinen, Saara",
+      "Mikkonen, Kirsi",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Public",
+    "name" : "Smart Handbag"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3240167.3240216",
+    "type" : "Accessoires",
+    "title" : "Shoe Integrated Displays: A Prototype Sports Shoe Display and Design Space",
+    "subtype" : "Shoes",
+    "published" : "NordiCHI '18",
+    "refreshrate" : "high",
+    "placement" : "foot",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Colley, Ashley",
+      "Woźniak, Paweł W.",
+      "Kiss, Francisco",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Shoe Integrated Displays"
+  },
+  {
+    "year" : "2006",
+    "url" : "http://doi.acm.org/10.1145/1152215.1152261",
+    "type" : "Accessoires",
+    "title" : "Eye-q: Eyeglass Peripheral Display for Subtle Intimate Notifications",
+    "subtype" : "Eyewear",
+    "published" : "MobileHCI '06",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Costanza, Enrico",
+      "Inverso, Samuel A.",
+      "Pavlov, Elan",
+      "Allen, Rebecca",
+      "Maes, Pattie"
+    ],
+    "audience" : "Private",
+    "name" : "Eye-q"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2785830.2785876",
+    "type" : "Skin & Body",
+    "title" : "Map Navigation Using a Wearable Mid-air Display",
+    "subtype" : [
+      "wrist",
+      "torso"
+    ],
+    "published" : "MobileHCI '15",
+    "refreshrate" : "high",
+    "placement" : "arm",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Dancu, Alexandru",
+      "Fourgeaud, Micka\\\"el",
+      "Obaid, Mohammad",
+      "Fjeld, Morten",
+      "Elmqvist, Niklas"
+    ],
+    "audience" : "Private",
+    "name" : "Wearable Mid-air Display"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3173574.3173794",
+    "type" : "Accessoires, Clothing",
+    "title" : "AlterWear: Battery-Free Wearable Displays for Opportunistic Interactions",
+    "subtype" : "Shoes, Shirts & Tops, Headwear",
+    "published" : "CHI '18",
+    "refreshrate" : "medium",
+    "placement" : "foot, torso, head",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "authors" : [
+      "Dierk, Christine",
+      "Nicholas, Molly Jane Pearce",
+      "Paulos, Eric"
+    ],
+    "audience" : "Public",
+    "name" : "AlterWear"
+  },
+  {
+    "year" : "2008",
+    "url" : "http://doi.acm.org/10.1145/1517744.1517762",
+    "type" : "Accessoires",
+    "title" : "ExternalEyes: Evaluating the Visual Abstraction of Human Emotion on a Public Wearable Display Device",
+    "subtype" : "Watches & Bracelets",
+    "published" : "OZCHI '08",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Fajardo, Noelene",
+      "Moere, Andrew Vande"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
+    "name" : "ExternalEyes"
+  },
+  {
+    "year" : "1999",
+    "url" : "http://doi.acm.org/10.1145/632716.632909",
+    "type" : "Accessoires",
+    "title" : "The BubbleBadge: A Wearable Public Display",
+    "subtype" : "Broaches",
+    "published" : "CHI EA '99",
+    "refreshrate" : "high",
+    "placement" : "torso",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Falk, Jennica",
+      "Björk, Staffan"
+    ],
+    "audience" : "Public",
+    "name" : "BubbleBadge"
+  },
+  {
+    "year" : "2013",
+    "url" : "http://doi.acm.org/10.1145/2494091.2495970",
+    "type" : "Accessoires",
+    "title" : "Illumee: Aesthetic Light Bracelet As a Wearable Information Display for Everyday Life",
+    "subtype" : "Watches & Bracelets",
+    "published" : "UbiComp '13 Adjunct",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Fortmann, Jutta",
+      "Müller, Heiko",
+      "Boll, Susanne",
+      "Heuten, Wilko"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Illumee"
+  },
+  {
+    "year" : "2014",
+    "url" : "http://doi.acm.org/10.1145/2639189.2670249",
+    "type" : "Accessoires",
+    "title" : "How to Present Information on Wrist-worn Point-light Displays",
+    "subtype" : "Watches & Bracelets",
+    "published" : "NordiCHI '14",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Fortmann, Jutta",
+      "Müller, Heiko",
+      "Heuten, Wilko",
+      "Boll, Susanne"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Wrist-worn Point-light Displays"
+  },
+  {
+    "year" : "2014",
+    "url" : "http://doi.acm.org/10.1145/2677972.2677976",
+    "type" : "Accessoires",
+    "title" : "WaterJewel: Design and Evaluation of a Bracelet to Promote a Better Drinking Behaviour",
+    "subtype" : "Watches & Bracelets",
+    "published" : "MUM '14",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Fortmann, Jutta",
+      "Cobus, Vanessa",
+      "Heuten, Wilko",
+      "Boll, Susanne"
+    ],
+    "audience" : "Intermediate",
+    "name" : "WaterJewel"
+  },
+  {
+    "year" : "2019",
+    "url" : "http://doi.acm.org/10.1145/3290607.3312857",
+    "type" : "Accessoires",
+    "title" : "Howel: A Soft Wearable with Dynamic Textile Patterns As an Ambient Display for Cardio Training",
+    "subtype" : "Straps",
+    "published" : "CHI EA '19",
+    "refreshrate" : "high",
+    "placement" : "arm",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Genç, Çağlar",
+      "Ekmekçioğlu, Yavuz Ali",
+      "Balci, Fuat",
+      "Ūrey, Hakan",
+      "Özcan, Oguzhan"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Howel",
+    "imageURL" : "https://dl.acm.org/cms/attachment/fe4d97d5-7da5-4578-9ed8-3e72aa3ca5d0/3290607.3312857.key.jpg"
+  },
+  {
+    "year" : "2016",
+    "url" : "http://doi.acm.org/10.1145/2858036.2858449",
+    "type" : "Accessoires",
+    "title" : "Head Mounted Projection Display & Visual Attention: Visual Attentional Processing of Head Referenced Static and Dynamic Displays While in Motion and Standing",
+    "subtype" : "Headwear",
+    "published" : "CHI '16",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Genç, Çağlar",
+      "Soomro, Shoaib",
+      "Duyan, Yalçın",
+      "Ölçer, Selim",
+      "Balcı, Fuat",
+      "ürey, Hakan",
+      "özcan, Oğuzhan"
+    ],
+    "audience" : "Public",
+    "name" : "Head Mounted Projection Display",
+    "imageURL" : "https://dl.acm.org/cms/attachment/17b7e310-655c-4e25-88bf-3b5b3b773b1e/2858036.2858449.key.jpg"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2790044.2790059",
+    "type" : "Clothing",
+    "title" : "Enhancing Traffic Safety with Wearable Low-resolution Displays",
+    "subtype" : "Jackets",
+    "published" : "iWOAR '15",
+    "refreshrate" : "high",
+    "placement" : "torso, arm",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Grosse-Puppendahl, Tobias",
+      "Bechtold, Oskar",
+      "Strassel, Lukas",
+      "Jakob, David",
+      "Braun, Andreas",
+      "Kuijper, Arjan"
+    ],
+    "audience" : "Public",
+    "name" : "Wearable Low-resolution Displays"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3267305.3267702",
+    "type" : "Clothing",
+    "title" : "Designing an Interactive Ice Skating Dress for Young Athletes",
+    "subtype" : "Pants & Skirts",
+    "published" : "UbiComp '18",
+    "refreshrate" : "high",
+    "placement" : "legs",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Häkkilä, Jonna",
+      "Helander, Veera",
+      "Jamoido, Diana",
+      "Colley, Ashley"
+    ],
+    "audience" : [
+      "Intermediate",
+      "Public"
+    ],
+    "name" : "Interactive Ice Skating Dress"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3267242.3267303",
+    "type" : "Clothing",
+    "title" : "Idle Stripes Shirt: Ambient Wearable Display for Activity Tracking",
+    "subtype" : "Shirts & Tops",
+    "published" : "ISWC '18",
+    "refreshrate" : "high",
+    "placement" : "torso",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Harjuniemi, Emmi",
+      "Colley, Ashley",
+      "Rytilahti, Piia",
+      "Li, Hong",
+      "Forest, Jesse",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Idle Stripes Shirt"
+  },
+  {
+    "year" : "2017",
+    "url" : "http://doi.acm.org/10.1145/3024969.3025055",
+    "type" : "Accessoires",
+    "title" : "Brighter Than a Thousand Suns: A Uniform to Detect and Display Radiation",
+    "subtype" : "Headwear",
+    "published" : "TEI '17",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Hertrich, Susanna",
+      "Honda, Aiktoshi"
+    ],
+    "audience" : "Public",
+    "name" : "Brighter Than a Thousand Suns",
+    "imageURL" : "https://dl.acm.org/cms/attachment/d3804ddb-1649-4edc-997e-9cc4f21acdaf/3024969.3025055.key.jpg"
+  },
+  {
+    "year" : "2004",
+    "url" : "http://doi.acm.org/10.1145/1186155.1186163",
+    "type" : "Clothing",
+    "title" : "HearWear: The Fashion of Environmental Noise Display",
+    "subtype" : "Pants & Skirts",
+    "published" : "SIGGRAPH '04",
+    "refreshrate" : "high",
+    "placement" : "legs",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Iossifova, Milena",
+      "Kim, Younghui"
+    ],
+    "audience" : "Public",
+    "name" : "HearWear"
+  },
+  {
+    "year" : "2005",
+    "url" : "http://doi.acm.org/10.1145/1056808.1056949",
+    "type" : "Accessoires",
+    "title" : "Reach: Dynamic Textile Patterns for Communication and Social Expression",
+    "subtype" : [
+      "Headwear",
+      "Bags"
+    ],
+    "published" : "CHI EA '05",
+    "refreshrate" : [
+      "slow",
+      "fast"
+    ],
+    "placement" : [
+      "head",
+      "torso"
+    ],
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "authors" : [
+      "Jacobs, Margot",
+      "Worbin, Linda"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Reach"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2702613.2732833",
+    "type" : "Accessoires",
+    "title" : "CueSense: A Wearable Proximity-Aware Display Enhancing Encounters",
+    "subtype" : "Chains & Necklaces",
+    "published" : "CHI EA '15",
+    "refreshrate" : "high",
+    "placement" : "torso",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Jarusriboonchai, Pradthana",
+      "Olsson, Thomas",
+      "Prabhu, Vikas",
+      "Väänänen-Vainio-Mattila, Kaisa"
+    ],
+    "audience" : "Public",
+    "name" : "CueSense"
+  },
+  {
+    "year" : "2019",
+    "url" : "http://doi.acm.org/10.1145/3341162.3343787",
+    "type" : "Accessoires",
+    "title" : "Exploring Non-emissive Wearable Display As a Clothing Accessory",
+    "subtype" : "Headwear",
+    "published" : "UbiComp/ISWC '19 Adjunct",
+    "refreshrate" : [
+      "medium",
+      "high"
+    ],
+    "placement" : "head",
+    "persistence" : [
+      "persistent",
+      "ephemeral"
+    ],
+    "infodensity" : "1",
+    "authors" : [
+      "Jarusriboonchai, Pradthana",
+      "Napari, Emma",
+      "Juhlin, Oskar",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Public",
+    "name" : "Non-emissive Wearable Displays"
+  },
+  {
+    "year" : "2019",
+    "url" : "http://doi.acm.org/10.1145/3341163.3346934",
+    "type" : "Clothing",
+    "title" : "Linn Dress: Enabling a Dynamically Adjustable Neckline",
+    "subtype" : "Dresses",
+    "published" : "ISWC '19",
+    "refreshrate" : "medium",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "persistence" : "persistent",
+    "infodensity" : "1",
+    "authors" : [
+      "Jarusriboonchai, Pradthana",
+      "Harjuniemi, Emmi",
+      "Müller, Heiko",
+      "Colley, Ashley",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Public",
+    "name" : "Linn Dress"
+  },
+  {
+    "year" : "2019",
+    "url" : "http://doi.acm.org/10.1145/3341163.3346937",
+    "type" : "Accessoires",
+    "title" : "VitaBoot: Footwear with Dynamic Graphical Patterning",
+    "subtype" : "Shoes",
+    "published" : "ISWC '19",
+    "refreshrate" : "medium",
+    "placement" : "foot",
+    "persistence" : "persistent",
+    "infodensity" : "1",
+    "authors" : [
+      "Jensen, Walther",
+      "Colley, Ashley",
+      "Löchtefeld, Markus"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
+    "name" : "VitaBoot"
+  },
+  {
+    "year" : "2017",
+    "url" : "http://doi.acm.org/10.1145/3027063.3052754",
+    "type" : "Skin & Body",
+    "title" : "EarthTones: Chemical Sensing Powders to Detect and Display Environmental Hazards Through Color Variation",
+    "subtype" : "Skin",
+    "published" : "CHI EA '17",
+    "refreshrate" : "slow",
+    "placement" : "body",
+    "persistence" : "persistent",
+    "infodensity" : "2",
+    "authors" : [
+      "Kao, Cindy Hsin-Liu",
+      "Nguyen, Bichlien",
+      "Roseway, Asta",
+      "Dickey, Michael"
+    ],
+    "audience" : "Intermediate",
+    "name" : "EarthTones",
+    "imageURL" : "https://dl.acm.org/cms/attachment/674d1711-c10f-46ab-b4a8-d1a564347203/3027063.3052754.key.jpg"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3173225.3173250",
+    "type" : "Clothing",
+    "title" : "Digitally Enchanted Wear: A Novel Approach in the Field of Dresses As Dynamic Digital Displays",
+    "subtype" : "Dresses",
+    "published" : "TEI '18",
+    "refreshrate" : "high",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Kleinberger, Rebecca",
+      "Panjwani, Alisha"
+    ],
+    "audience" : "Public",
+    "name" : "Digitally Enchanted Wear",
+    "imageURL" : "https://dl.acm.org/cms/attachment/344d1af9-a3b4-428c-9946-05bebb91cba5/3173225.3173250.key.jpg"
+  },
+  {
+    "year" : "2011",
+    "url" : "http://doi.acm.org/10.1145/1979742.1979882",
+    "type" : "Accessoires",
+    "title" : "Designing a Personal Visualization Projection of Online Social Identity",
+    "subtype" : "Bags",
+    "published" : "CHI EA '11",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Leung, Mandy",
+      "Tomitsch, Martin",
+      "Vande Moere, Andrew"
+    ],
+    "audience" : "Public",
+    "name" : "Online Social Identity"
+  },
+  {
+    "year" : "2016",
+    "url" : "http://doi.acm.org/10.1145/2901790.2901885",
+    "type" : "Skin & Body",
+    "title" : "Skintillates: Designing and Creating Epidermal Interactions",
+    "subtype" : "Skin",
+    "published" : "DIS '16",
+    "refreshrate" : "high",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Lo, Joanne",
+      "Lee, Doris Jung Lin",
+      "Wong, Nathan",
+      "Bui, David",
+      "Paulos, Eric"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
+    "name" : "Skintillates",
+    "imageURL" : "https://dl.acm.org/cms/attachment/21a7cb1e-e6ed-4dca-b75f-70fd40de51a4/2901790.2901885.key.jpg"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3170427.3180651",
+    "type" : "Accessoires",
+    "title" : "Wearable Aura: Interactive Personal Projection to Bring People Closer",
+    "subtype" : "Shoes",
+    "published" : "CHI EA '18",
+    "refreshrate" : "high",
+    "placement" : "foot",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Lugaresi, Laura",
+      "Lin, Kaiyuan",
+      "Zheng, Dingding"
+    ],
+    "audience" : "Public",
+    "name" : "Wearable Aura"
+  },
+  {
+    "year" : "2012",
+    "url" : "http://doi.acm.org/10.1145/2380116.2380134",
+    "type" : "Accessoires",
+    "title" : "Facet: A Multi-segment Wrist Worn System",
+    "subtype" : "Watches & Bracelets",
+    "published" : "UIST '12",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Lyons, Kent",
+      "Nguyen, David",
+      "Ashbrook, Daniel",
+      "White, Sean"
+    ],
+    "audience" : [
+      "Public",
+      "Private"
+    ],
+    "name" : "Facet",
+    "imageURL" : "https://dl.acm.org/cms/attachment/c3fcb692-0033-4ee4-85b9-8485e1b215da/2380116.2380134.key.jpg"
+  },
+  {
+    "year" : "2014",
+    "url" : "http://doi.acm.org/10.1145/2556288.2557299",
+    "type" : "Clothing",
+    "title" : "Social Fabric Fitness: The Design and Evaluation of Wearable E-textile Displays to Support Group Running",
+    "subtype" : "Shirts & Tops",
+    "published" : "CHI '14",
+    "refreshrate" : [
+      "medium",
+      "high"
+    ],
+    "placement" : "waist",
+    "persistence" : [
+      "persistent",
+      "ephemeral"
+    ],
+    "infodensity" : [
+      "4",
+      "5"
+    ],
+    "authors" : [
+      "Mauriello, Matthew",
+      "Gubbels, Michael",
+      "Froehlich, Jon E."
+    ],
+    "audience" : "Public",
+    "name" : "Social Fabric Fitness"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2735711.2735805",
+    "type" : "Accessoires",
+    "title" : "Bio-Collar: A Wearable Optic-kinetic Display for Awareness of Bio-status",
+    "subtype" : "Chains & Necklaces",
+    "published" : "AH '15",
+    "refreshrate" : "fast",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Nojima, Takuya",
+      "Yamamura, Miki",
+      "Kanebako, Junichi",
+      "Ishigami, Lisako",
+      "Xue, Mage",
+      "Uchiyama, Hiroko",
+      "Yamazaki, Naoko"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Bio-Collar"
+  },
+  {
+    "year" : "2013",
+    "url" : "http://doi.acm.org/10.1145/2459236.2459239",
+    "type" : "Accessoires",
+    "title" : "AugmentedForearm: Exploring the Design Space of a Display-enhanced Forearm",
+    "subtype" : "Straps",
+    "published" : "AH '13",
+    "refreshrate" : "high",
+    "placement" : "arm",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Olberding, Simon",
+      "Yeo, Kian Peen",
+      "Nanayakkara, Suranga",
+      "Steimle, Jurgen"
+    ],
+    "audience" : [
+      "Public",
+      "Private"
+    ],
+    "name" : "AugmentedForearm"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3267242.3267288",
+    "type" : "Accessoires",
+    "title" : "1D Eyewear: Peripheral, Hidden LEDs and Near-eye Holographic Displays for Unobtrusive Augmentation",
+    "subtype" : "Eyewear",
+    "published" : "ISWC '18",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "authors" : [
+      "Olwal, Alex",
+      "Kress, Bernard"
+    ],
+    "audience" : "Private",
+    "name" : "1D Eyewear"
+  },
+  {
+    "year" : "2016",
+    "url" : "http://doi.acm.org/10.1145/2968219.2971350",
+    "type" : "Clothing",
+    "title" : "Solar Shirt: Design of an Environmental Awareness Wearable",
+    "subtype" : "Shirts & Tops",
+    "published" : "UbiComp '16",
+    "refreshrate" : "medium",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "persistence" : "persistent",
+    "infodensity" : "1",
+    "authors" : [
+      "Roinesalo, Paula",
+      "Virtanen, Lasse",
+      "Lappalainen, Tuomas",
+      "Kylmänen, Anu",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Solar Shirt",
+    "imageURL" : "https://dl.acm.org/cms/attachment/a9347df9-72d8-496e-b07a-c8255cf2b954/2968219.2971350.key.jpg"
+  },
+  {
+    "year" : "2017",
+    "url" : "http://doi.acm.org/10.1145/3123021.3123074",
+    "type" : "Clothing",
+    "title" : "Breaking of the Dawn Jacket: Light in the Arctic Winter",
+    "subtype" : "Jackets & Suits",
+    "published" : "ISWC '17",
+    "refreshrate" : "slow, high",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Roinesalo, Paula",
+      "Lappalainen, Tuomas",
+      "Colley, Ashley",
+      "Häkkilä, Jonna"
+    ],
+    "audience" : "Public",
+    "name" : "Breaking of the Dawn Jacket"
+  },
+  {
+    "year" : "2013",
+    "url" : "http://doi.acm.org/10.1145/2466816.2466831",
+    "type" : "Accessoires",
+    "title" : "Mixed Reality with Multimodal Head-mounted Pico Projector",
+    "subtype" : "Headwear",
+    "published" : "VRIC '13",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Sand, Antti",
+      "Rakkolainen, Ismo"
+    ],
+    "audience" : "Public",
+    "name" : "Multimodal Head-mounted Pico Projector"
+  },
+  {
+    "year" : "2016",
+    "url" : "http://doi.acm.org/10.1145/2914920.2915021",
+    "type" : "Clothing",
+    "title" : "Using On-body Displays for Extending the Output of Wearable Devices",
+    "subtype" : "Shirts & Tops",
+    "published" : "PerDis '16",
+    "refreshrate" : "high",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "persistence" : "ephemeral",
+    "infodensity" : "4",
+    "authors" : [
+      "Schneegass, Stefan",
+      "Ogando, Sophie",
+      "Alt, Florian"
+    ],
+    "audience" : "Public",
+    "name" : "On-body Displays"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3197391.3205393",
+    "type" : "Clothing",
+    "title" : "HeartMe: Thermochromic Display As An Expression of Heart Health",
+    "subtype" : "Dresses",
+    "published" : "DIS '18 Companion",
+    "refreshrate" : "slow",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Song, Manlin",
+      "Vega, Katia"
+    ],
+    "audience" : "Public",
+    "name" : "HeartMe"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2786567.2793710",
+    "type" : "Accessoires",
+    "title" : "Effects of Display Sizes on a Scrolling Task Using a Cylindrical Smartwatch",
+    "subtype" : "Watches & Bracelets",
+    "published" : "MobileHCI '15",
+    "refreshrate" : "medium",
+    "placement" : "wrist",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "authors" : [
+      "Strohmeier, Paul",
+      "Burstyn, Jesse",
+      "Vertegaal, Roel"
+    ],
+    "audience" : "Private",
+    "name" : "Cylindrical Smartwatch"
+  },
+  {
+    "year" : "2018",
+    "url" : "http://doi.acm.org/10.1145/3284398.3284415",
+    "type" : "Accessoires",
+    "title" : "Public/Private Interactive Wearable Projection Display",
+    "subtype" : "Straps",
+    "published" : "VRCAI '18",
+    "refreshrate" : "high",
+    "placement" : "arm",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Sugiura, Yuta",
+      "Chong, Toby",
+      "Kawai, Wataru",
+      "Thomas, Bruce H."
+    ],
+    "audience" : [
+      "Public",
+      "Private"
+    ],
+    "name" : "Interactive Wearable Projection Display"
+  },
+  {
+    "year" : "2017",
+    "url" : "http://doi.acm.org/10.1145/3123021.3123039",
+    "type" : "Skin & Body",
+    "title" : "The Dermal Abyss: Interfacing with the Skin by Tattooing Biosensors",
+    "subtype" : "Skin",
+    "published" : "ISWC '17",
+    "refreshrate" : "slow",
+    "placement" : "body",
+    "persistence" : "persistent",
+    "infodensity" : "2",
+    "authors" : [
+      "Vega, Katia",
+      "Jiang, Nan",
+      "Liu, Xin",
+      "Kan, Viirj",
+      "Barry, Nick",
+      "Maes, Pattie",
+      "Yetisen, Ali",
+      "Paradiso, Joe"
+    ],
+    "audience" : [
+      "Intermediate",
+      "Private"
+    ],
+    "name" : "The Dermal Abyss"
+  },
+  {
+    "year" : "2014",
+    "url" : "http://doi.acm.org/10.1145/2669485.2669507",
+    "type" : "Accessoires",
+    "title" : "SleeD: Using a Sleeve Display to Interact with Touch-sensitive Display Walls",
+    "subtype" : "Straps",
+    "published" : "ITS '14",
+    "refreshrate" : [
+      "medium",
+      "high"
+    ],
+    "placement" : "arm",
+    "persistence" : [
+      "persistent",
+      "ephemeral"
+    ],
+    "infodensity" : "5",
+    "authors" : [
+      "von Zadow, Ulrich",
+      "Büschel, Wolfgang",
+      "Langner, Ricardo",
+      "Dachselt, Raimund"
+    ],
+    "audience" : "Private",
+    "name" : "SleeD",
+    "imageURL" : "https://dl.acm.org/cms/attachment/55d4eb54-f100-4f21-b989-bc645afce520/2669485.2669507.key.jpg"
+  },
+  {
+    "year" : "2006",
+    "url" : "http://doi.acm.org/10.1145/1178823.1178880",
+    "type" : "Clothing",
+    "title" : "Mosaic Textile: Wearable Ambient Display with Non-emissive Color-changing Modules",
+    "subtype" : "Pants & Skirts, Shirts & Tops",
+    "published" : "ACE '06",
+    "refreshrate" : "slow",
+    "placement" : [
+      "torso",
+      "legs"
+    ],
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "authors" : [
+      "Wakita, Akira",
+      "Shibutani, Midori"
+    ],
+    "audience" : "Private",
+    "name" : "Mosaic Textile"
+  },
+  {
+    "year" : "2017",
+    "url" : "http://doi.acm.org/10.1145/3025453.3025852",
+    "type" : "Accessoires",
+    "title" : "WatchThru: Expanding Smartwatch Displays with Mid-air Visuals and Wrist-worn Augmented Reality",
+    "subtype" : "Watches & Bracelets",
+    "published" : "CHI '17",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Wenig, Dirk",
+      "Schöning, Johannes",
+      "Olwal, Alex",
+      "Oben, Mathias",
+      "Malaka, Rainer"
+    ],
+    "audience" : "Private",
+    "name" : "WatchThru",
+    "imageURL" : "https://dl.acm.org/cms/attachment/a8ea0bd0-2ddb-495a-a6e9-8396ec591002/3025453.3025852.key.jpg"
+  },
+  {
+    "year" : "2006",
+    "url" : "http://doi.acm.org/10.1145/1125451.1125731",
+    "type" : "Accessoires",
+    "title" : "Exploring Wearable Ambient Displays for Social Awareness",
+    "subtype" : "Watches & Bracelets",
+    "published" : "CHI EA '06",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : [
+      "Williams, Amanda",
+      "Farnham, Shelly",
+      "Counts, Scott"
+    ],
+    "audience" : "Intermediate",
+    "name" : "Wearable Ambient Displays"
+  },
+  {
+    "year" : "2013",
+    "url" : "http://doi.acm.org/10.1145/2468356.2468524",
+    "type" : "Skin & Body",
+    "title" : "Exploring the Benefits of Fingernail Displays",
+    "subtype" : "Hands & Fingers",
+    "published" : "CHI EA '13",
+    "refreshrate" : "high",
+    "placement" : "hand",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "authors" : [
+      "Wimmer, Raphael",
+      "Echtler, Florian"
+    ],
+    "audience" : "Public",
+    "name" : "Fingernail Displays",
+    "imageURL" : "https://dl.acm.org/cms/attachment/64bf9ba4-ed7c-485d-8c08-76756da676ce/2468356.2468524.key.jpg"
+  },
+  {
+    "year" : "2015",
+    "url" : "http://doi.acm.org/10.1145/2677199.2680599",
+    "type" : "Accessoires",
+    "title" : "Shimmering Smartwatches: Exploring the Smartwatch Design Space",
+    "subtype" : "Watches & Bracelets",
+    "published" : "TEI '15",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "authors" : [
+      "Xu, Cheng",
+      "Lyons, Kent"
+    ],
+    "audience" : [
+      "Intermediate",
+      "Private"
+    ],
+    "name" : "Shimmering Smartwatches",
+    "imageURL" : "https://dl.acm.org/cms/attachment/00cdc085-bf21-4824-8256-c3e903a1c454/2677199.2680599.key.jpg"
+  },
+  {
+    "year" : "2008",
+    "url" : "https://doi.org/10.1145/1349026.1349036",
+    "title" : "Emerging Display Technologies for Organic User Interfaces",
+    "author" : [
+      "Co, Elise",
+      "Pashenkov, Nikita"
+    ],
+    "name" : "Puddlejumper",
+    "technology" : "Electroluminescence",
+    "subtype" : "Jackets & Suits",
+    "series" : "CHI EA '09",
+    "refreshrate" : "high",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "audience" : "Public"
+  },
+  {
+    "year" : "2009",
+    "url" : "https://doi.org/10.1145/1520340.1520626",
+    "type" : "Accessoires",
+    "title" : "WUW - Wear Ur World: A Wearable Gestural Interface",
+    "technology" : "Projector",
+    "subtype" : "Headwear",
+    "series" : "CHI EA '09",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "author" : [
+      "Mistry, Pranav",
+      "Maes, Pattie",
+      "Chang, Liyan"
+    ],
+    "audience" : "Public",
+    "name" : "Wear Ur World"
+  },
+  {
+    "year" : "2009",
+    "url" : "https://doi.org/10.1145/1667146.1667160",
+    "type" : "Accessoires",
+    "title" : "SixthSense: A Wearable Gestural Interface",
+    "technology" : "Projector",
+    "subtype" : "Chains & Necklaces",
+    "series" : "SIGGRAPH ASIA '09",
+    "refreshrate" : "high",
+    "placement" : "torso",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "author" : [
+      "Mistry, Pranav",
+      "Maes, Pattie"
+    ],
+    "audience" : "Public",
+    "name" : "SixthSense"
+  },
+  {
+    "year" : "2010",
+    "url" : "https://doi.org/10.1145/1753326.1753394",
+    "type" : "Skin & Body",
+    "title" : "Skinput: Appropriating the Body as an Input Surface",
+    "technology" : "Projector",
+    "subtype" : "Skin",
+    "series" : "CHI '10",
+    "refreshrate" : "high",
+    "placement" : "arm",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "author" : [
+      "Harrison, Chris",
+      "Tan, Desney",
+      "Morris, Dan"
+    ],
+    "audience" : "Public",
+    "name" : "Skinput"
+  },
+  {
+    "year" : "2014",
+    "url" : "https://doi.org/10.1145/2540930.2540970",
+    "type" : "Accessoires",
+    "title" : "Displaying Heart Rate Data on a Bicycle Helmet to Support Social Exertion Experiences",
+    "technology" : "LCD",
+    "subtype" : "Headwear",
+    "series" : "TEI '14",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "author" : [
+      "Walmink, Wouter",
+      "Wilde, Danielle",
+      "Mueller, Florian ``Floyd''"
+    ],
+    "audience" : "Public",
+    "name" : "Heartrate Helmet"
+  },
+  {
+    "year" : "2014",
+    "url" : "https://doi.org/10.1145/2559206.2581155",
+    "type" : "Clothing",
+    "title" : "Suit up! Enabling Eyes-Free Interactions on Jacket Buttons",
+    "technology" : "LED, LCD",
+    "subtype" : "Notions",
+    "series" : "CHI EA '14",
+    "refreshrate" : "high",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "1,2,5",
+    "author" : [
+      "Todi, Kashyap",
+      "Luyten, Kris"
+    ],
+    "audience" : "Public",
+    "name" : "Suit up!",
+    "imageURL" : "https://dl.acm.org/cms/attachment/6c274a7b-051d-4691-9466-634410dbc4d7/2559206.2581155.key.jpg"
+  },
+  {
+    "year" : "2015",
+    "url" : "https://doi.org/10.1145/2785830.2785831",
+    "type" : "Accessoires",
+    "title" : "LEaD: Utilizing Light Movement as Peripheral Visual Guidance for Scooter Navigation",
+    "technology" : "LED",
+    "subtype" : "Headwear",
+    "series" : "MobileHCI '15",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "author" : [
+      "Tseng, Hung-Yu",
+      "Liang, Rong-Hao",
+      "Chan, Liwei",
+      "Chen, Bing-Yu"
+    ],
+    "audience" : "Private",
+    "name" : "LEaD"
+  },
+  {
+    "year" : "2016",
+    "url" : "https://doi.org/10.1145/2851581.2890270",
+    "type" : "Skin & Body",
+    "title" : "ChromoSkin: Towards Interactive Cosmetics Using Thermochromic Pigments",
+    "technology" : "Thermochromic",
+    "subtype" : "Face & Neck",
+    "series" : "CHI EA '16",
+    "refreshrate" : "slow",
+    "placement" : "body",
+    "persistence" : [
+      "persistent",
+      "ephemeral"
+    ],
+    "infodensity" : "1",
+    "author" : [
+      "Kao, Hsin-Liu (Cindy)",
+      "Mohan, Manisha",
+      "Schmandt, Chris",
+      "Paradiso, Joseph A.",
+      "Vega, Katia"
+    ],
+    "audience" : "Public",
+    "name" : "ChromoSkin",
+    "imageURL" : "https://dl.acm.org/cms/attachment/4054fb20-2830-4c6c-b23b-185cc51affca/2851581.2890270.key.jpg"
+  },
+  {
+    "year" : "2016",
+    "url" : "https://doi.org/10.1145/2858036.2858339",
+    "type" : "Accessoires",
+    "title" : "Hidden in Plain Sight: An Exploration of a Visual Language for Near-Eye Out-of-Focus Displays in the Peripheral View",
+    "technology" : "LCD",
+    "subtype" : "Eyewear",
+    "series" : "CHI '16",
+    "refreshrate" : "high",
+    "placement" : "head",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "author" : [
+      "Luyten, Kris",
+      "Degraen, Donald",
+      "Rovelo Ruiz, Gustavo",
+      "Coppers, Sven",
+      "Vanacken, Davy"
+    ],
+    "audience" : "Private",
+    "name" : "Hidden in Plain Sight",
+    "imageURL" : "https://dl.acm.org/cms/attachment/820f1b11-0c47-4718-9489-01b39b844f01/2858036.2858339.key.jpg"
+  },
+  {
+    "year" : "2016",
+    "url" : "https://doi.org/10.1145/2935334.2935351",
+    "type" : "Accessoires",
+    "title" : "ScatterWatch: Subtle Notifications via Indirect Illumination Scattered in the Skin",
+    "technology" : "LED",
+    "subtype" : "Watches & Bracelets",
+    "series" : "MobileHCI '16",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "author" : [
+      "Pohl, Henning",
+      "Medrek, Justyna",
+      "Rohs, Michael"
+    ],
+    "audience" : "Intermediate",
+    "name" : "ScatterWatch"
+  },
+  {
+    "year" : "2016",
+    "url" : "https://doi.org/10.1145/2971763.2971777",
+    "type" : "Skin & Body",
+    "title" : "DuoSkin: Rapidly Prototyping on-Skin User Interfaces Using Skin-Friendly Materials",
+    "technology" : "Thermochromic",
+    "subtype" : "Skin",
+    "series" : "ISWC '16",
+    "refreshrate" : "slow",
+    "placement" : "body",
+    "persistence" : [
+      "persistent",
+      "ephemeral"
+    ],
+    "infodensity" : "1",
+    "author" : [
+      "Kao, Hsin-Liu (Cindy)",
+      "Holz, Christian",
+      "Roseway, Asta",
+      "Calvo, Andres",
+      "Schmandt, Chris"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
+    "name" : "DuoSkin",
+    "imageURL" : "https://dl.acm.org/cms/attachment/764ea530-3941-45fe-90ac-be23e687bcc1/2971763.2971777.key.jpg"
+  },
+  {
+    "year" : "2016",
+    "url" : "https://doi.org/10.1145/2984511.2984521",
+    "type" : "Skin & Body",
+    "title" : "Stretchis: Fabricating Highly Stretchable User Interfaces",
+    "technology" : "Electroluminescence ",
+    "subtype" : "Skin",
+    "series" : "UIST '16",
+    "refreshrate" : "high",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "author" : [
+      "Wessely, Michael",
+      "Tsandilas, Theophanis",
+      "Mackay, Wendy E."
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
+    "name" : "Stretchis",
+    "imageURL" : "https://dl.acm.org/cms/attachment/5f7da862-acb5-444a-bff3-ca6ec642b362/2984511.2984521.key.jpg"
+  },
+  {
+    "year" : "2017",
+    "url" : "https://doi.org/10.1145/3025453.3025704",
+    "type" : "Skin & Body",
+    "title" : "SkinMarks: Enabling Interactions on Body Landmarks Using Conformal Skin Electronics",
+    "technology" : "Electroluminescence",
+    "subtype" : "Skin",
+    "series" : "CHI '17",
+    "refreshrate" : "high",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "author" : [
+      "Weigel, Martin",
+      "Nittala, Aditya Shekhar",
+      "Olwal, Alex",
+      "Steimle, Jürgen"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
+    "name" : "SkinMarks",
+    "imageURL" : "https://dl.acm.org/cms/attachment/93fd9a29-1c58-4c2d-86a1-a08d75f6ea55/3025453.3025704.key.jpg"
+  },
+  {
+    "year" : "2017",
+    "url" : "https://doi.org/10.1145/3025453.3025924",
+    "type" : "Skin & Body",
+    "title" : "AlterNail: Ambient, Batteryless, Stateful, Dynamic Displays at Your Fingertips",
+    "technology" : "LED Electroluminescence Electrophoretic Electrochromic Thermochromic Projector LCD",
+    "subtype" : "Hands & Fingers",
+    "series" : "CHI '17",
+    "refreshrate" : "medium",
+    "placement" : "arm",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "author" : [
+      "Dierk, Christine",
+      "Vega Gálvez, Tomás",
+      "Paulos, Eric"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
+    "name" : "AlterNail"
+  },
+  {
+    "year" : "2017",
+    "url" : "https://doi.org/10.1145/3064663.3064687",
+    "type" : "Skin & Body",
+    "title" : "AnimSkin: Fabricating Epidermis with Interactive, Functional and Aesthetic Color Animation",
+    "technology" : "Thermochromic",
+    "subtype" : "Skin",
+    "series" : "DIS '17",
+    "refreshrate" : "slow",
+    "placement" : "body",
+    "persistence" : [
+      "persistent",
+      "ephemeral"
+    ],
+    "infodensity" : "1",
+    "author" : [
+      "Wang, Yanan",
+      "Luo, Shijian",
+      "Lu, Yujia",
+      "Gong, Hebo",
+      "Zhou, Yexing",
+      "Liu, Shuai",
+      "Hansen, Preben"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
+    "name" : "AnimSkin"
+  },
+  {
+    "year" : "2018",
+    "url" : "https://doi.org/10.1145/3173574.3173669",
+    "type" : "Accessoires",
+    "title" : "LumiWatch: On-Arm Projected Graphics and Touch Input",
+    "technology" : "Projector",
+    "subtype" : "Watches & Bracelets",
+    "series" : "CHI '18",
+    "refreshrate" : "high",
+    "placement" : "wrist",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "author" : [
+      "Xiao, Robert",
+      "Cao, Teng",
+      "Guo, Ning",
+      "Zhuo, Jun",
+      "Zhang, Yang",
+      "Harrison, Chris"
+    ],
+    "audience" : "Public",
+    "name" : "LumiWatch",
+    "imageURL" : "https://dl.acm.org/cms/attachment/0b0dbd03-001d-4503-b6bb-664fc31319b8/3173574.3173669.key.jpg"
+  },
+  {
+    "name" : "Moverio",
+    "title" : "Epson Moverio Smart Glasses",
+    "authors" : [
+      "North"
+    ],
+    "published" : "Online",
+    "year" : 2016,
+    "url" : "https://moverio.epson.com/",
+    "placement" : "head",
+    "type" : "Accessoires",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "imageURL" : "https://assets.bynorth.com/quartz/final/focals/Focals_Desktop_Tease_Oahu_02.png",
+    "technology" : "LCD"
+  },
+  {
+    "name" : "Zackees",
+    "title" : "Zackees Turn Signal Gloves",
+    "authors" : [
+      "North"
+    ],
+    "published" : "Online",
+    "year" : 2016,
+    "url" : "https://zackees.com/",
+    "placement" : "hand",
+    "type" : "Accessoires",
+    "subtype" : "Gloves",
+    "audience" : "Private",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "imageURL" : "https://zackees.com/wp-content/uploads/2016/01/glove-info-bubbles.jpg",
+    "technology" : "LED"
+  },
+  {
+    "name" : "One & Track",
+    "title" : "Orphe One & Orphe Track Shoes",
+    "authors" : [
+      "North"
+    ],
+    "published" : "Online",
+    "year" : 2018,
+    "url" : "https://orphe.shoes",
+    "placement" : "foot",
+    "type" : "Accessoires",
+    "subtype" : "Shoes",
+    "audience" : "Public",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "imageURL" : "https://cdn.shortpixel.ai/client/q_lossless,ret_img/https://orphe.shoes/images/track/about_track_ph02.jpg",
+    "technology" : "LED"
+  },
+  {
+    "name" : "Fire",
+    "title" : "The Unseen Fire",
+    "authors" : [
+      "North"
+    ],
+    "published" : "Online",
+    "year" : 2017,
+    "url" : "http://seetheunseen.co.uk/",
+    "placement" : "head",
+    "type" : "Skin & Body",
+    "subtype" : "Hair",
+    "audience" : "Public",
+    "refreshrate" : "slow",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "imageURL" : "http://seetheunseen.co.uk/assets/_medium/theunseen_fire_hair.jpg",
+    "technology" : "Thermochromic"
+  }
 ]
