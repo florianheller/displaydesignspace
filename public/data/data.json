@@ -592,18 +592,15 @@
     "url" : "http://doi.acm.org/10.1145/2785830.2785876",
     "type" : "Skin & Body",
     "title" : "Map Navigation Using a Wearable Mid-air Display",
-    "subtype" : [
-      "wrist",
-      "torso"
-    ],
+    "subtype" : "Arm",
     "published" : "MobileHCI '15",
     "refreshrate" : "high",
-    "placement" : "arm",
+    "placement" : ["arm", "torso"],
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
       "Dancu, Alexandru",
-      "Fourgeaud, Micka\\\"el",
+      "Fourgeaud, Mickaël",
       "Obaid, Mohammad",
       "Fjeld, Morten",
       "Elmqvist, Niklas"
