@@ -175,14 +175,16 @@
 
 fieldset {
 	padding: 0px 1em;
+	text-align: left;
 }
+
 
 .active {
 	border-color: #F00 ;
 }
 
 .segmented-control {
-    display: inline table;
+    display: inline-table;
     width: 90%;
     margin: 0.25em 1em;
     padding: 0;
