@@ -63,7 +63,7 @@
 		},
 		{
 		'key': 'type',
-		'values': ["Accessoire", "Clothing", "Skin & Body"],
+		'values': ["Accessoires", "Clothing", "Skin & Body"],
 		'filterValues': [], 
 		'multipleSelection': false,
 		'subfilters': [] // Subfilters only work with multipleSelection: false
@@ -79,9 +79,9 @@
 	const subFilters = [
 	{
 		'parent': 'type',
-		'parentValue': 'Accessoire', 
+		'parentValue': 'Accessoires', 
 		'key': 'subtype', 		
-		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes"],  		
+		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes", "Bags", "Straps"],  		
 		'filterValues': [],	
 		'multipleSelection': false 
 	},
