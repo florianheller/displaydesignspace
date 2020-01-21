@@ -1531,14 +1531,14 @@
     "year" : "2008",
     "url" : "https://doi.org/10.1145/1349026.1349036",
     "title" : "Emerging Display Technologies for Organic User Interfaces",
-    "author" : [
+    "authors" : [
       "Co, Elise",
       "Pashenkov, Nikita"
     ],
     "name" : "Puddlejumper",
     "technology" : "Electroluminescence",
     "subtype" : "Jackets & Suits",
-    "series" : "CHI EA '09",
+    "published" : "CHI EA '09",
     "refreshrate" : "high",
     "placement" : [
       "torso",
@@ -1555,12 +1555,12 @@
     "title" : "WUW - Wear Ur World: A Wearable Gestural Interface",
     "technology" : "Projector",
     "subtype" : "Headwear",
-    "series" : "CHI EA '09",
+    "published" : "CHI EA '09",
     "refreshrate" : "high",
     "placement" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Mistry, Pranav",
       "Maes, Pattie",
       "Chang, Liyan"
@@ -1575,12 +1575,12 @@
     "title" : "SixthSense: A Wearable Gestural Interface",
     "technology" : "Projector",
     "subtype" : "Chains & Necklaces",
-    "series" : "SIGGRAPH ASIA '09",
+    "published" : "SIGGRAPH ASIA '09",
     "refreshrate" : "high",
     "placement" : "torso",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Mistry, Pranav",
       "Maes, Pattie"
     ],
@@ -1594,12 +1594,12 @@
     "title" : "Skinput: Appropriating the Body as an Input Surface",
     "technology" : "Projector",
     "subtype" : "Skin",
-    "series" : "CHI '10",
+    "published" : "CHI '10",
     "refreshrate" : "high",
     "placement" : "arm",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Harrison, Chris",
       "Tan, Desney",
       "Morris, Dan"
@@ -1614,12 +1614,12 @@
     "title" : "Displaying Heart Rate Data on a Bicycle Helmet to Support Social Exertion Experiences",
     "technology" : "LCD",
     "subtype" : "Headwear",
-    "series" : "TEI '14",
+    "published" : "TEI '14",
     "refreshrate" : "high",
     "placement" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Walmink, Wouter",
       "Wilde, Danielle",
       "Mueller, Florian ``Floyd''"
@@ -1634,12 +1634,12 @@
     "title" : "Suit up! Enabling Eyes-Free Interactions on Jacket Buttons",
     "technology" : "LED, LCD",
     "subtype" : "Notions",
-    "series" : "CHI EA '14",
+    "published" : "CHI EA '14",
     "refreshrate" : "high",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1,2,5",
-    "author" : [
+    "authors" : [
       "Todi, Kashyap",
       "Luyten, Kris"
     ],
@@ -1654,12 +1654,12 @@
     "title" : "LEaD: Utilizing Light Movement as Peripheral Visual Guidance for Scooter Navigation",
     "technology" : "LED",
     "subtype" : "Headwear",
-    "series" : "MobileHCI '15",
+    "published" : "MobileHCI '15",
     "refreshrate" : "high",
     "placement" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "2",
-    "author" : [
+    "authors" : [
       "Tseng, Hung-Yu",
       "Liang, Rong-Hao",
       "Chan, Liwei",
@@ -1675,12 +1675,12 @@
     "title" : "ChromoSkin: Towards Interactive Cosmetics Using Thermochromic Pigments",
     "technology" : "Thermochromic",
     "subtype" : "Face & Neck",
-    "series" : "CHI EA '16",
+    "published" : "CHI EA '16",
     "refreshrate" : "slow",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "author" : [
+    "authors" : [
       "Kao, Hsin-Liu (Cindy)",
       "Mohan, Manisha",
       "Schmandt, Chris",
@@ -1698,12 +1698,12 @@
     "title" : "Hidden in Plain Sight: An Exploration of a Visual Language for Near-Eye Out-of-Focus Displays in the Peripheral View",
     "technology" : "LCD",
     "subtype" : "Eyewear",
-    "series" : "CHI '16",
+    "published" : "CHI '16",
     "refreshrate" : "high",
     "placement" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Luyten, Kris",
       "Degraen, Donald",
       "Rovelo Ruiz, Gustavo",
@@ -1721,12 +1721,12 @@
     "title" : "ScatterWatch: Subtle Notifications via Indirect Illumination Scattered in the Skin",
     "technology" : "LED",
     "subtype" : "Watches & Bracelets",
-    "series" : "MobileHCI '16",
+    "published" : "MobileHCI '16",
     "refreshrate" : "high",
     "placement" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
-    "author" : [
+    "authors" : [
       "Pohl, Henning",
       "Medrek, Justyna",
       "Rohs, Michael"
@@ -1741,12 +1741,12 @@
     "title" : "DuoSkin: Rapidly Prototyping on-Skin User Interfaces Using Skin-Friendly Materials",
     "technology" : "Thermochromic",
     "subtype" : "Skin",
-    "series" : "ISWC '16",
+    "published" : "ISWC '16",
     "refreshrate" : "slow",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "author" : [
+    "authors" : [
       "Kao, Hsin-Liu (Cindy)",
       "Holz, Christian",
       "Roseway, Asta",
@@ -1768,12 +1768,12 @@
     "title" : "Stretchis: Fabricating Highly Stretchable User Interfaces",
     "technology" : "Electroluminescence ",
     "subtype" : "Skin",
-    "series" : "UIST '16",
+    "published" : "UIST '16",
     "refreshrate" : "high",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "3",
-    "author" : [
+    "authors" : [
       "Wessely, Michael",
       "Tsandilas, Theophanis",
       "Mackay, Wendy E."
@@ -1793,12 +1793,12 @@
     "title" : "SkinMarks: Enabling Interactions on Body Landmarks Using Conformal Skin Electronics",
     "technology" : "Electroluminescence",
     "subtype" : "Skin",
-    "series" : "CHI '17",
+    "published" : "CHI '17",
     "refreshrate" : "high",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "author" : [
+    "authors" : [
       "Weigel, Martin",
       "Nittala, Aditya Shekhar",
       "Olwal, Alex",
@@ -1818,12 +1818,12 @@
     "title" : "AlterNail: Ambient, Batteryless, Stateful, Dynamic Displays at Your Fingertips",
     "technology" : "LED Electroluminescence Electrophoretic Electrochromic Thermochromic Projector LCD",
     "subtype" : "Hands & Fingers",
-    "series" : "CHI '17",
+    "published" : "CHI '17",
     "refreshrate" : "medium",
     "placement" : "arm",
     "persistence" : "persistent",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Dierk, Christine",
       "Vega Gálvez, Tomás",
       "Paulos, Eric"
@@ -1841,12 +1841,12 @@
     "title" : "AnimSkin: Fabricating Epidermis with Interactive, Functional and Aesthetic Color Animation",
     "technology" : "Thermochromic",
     "subtype" : "Skin",
-    "series" : "DIS '17",
+    "published" : "DIS '17",
     "refreshrate" : "slow",
     "placement" : "body",
     "persistence" :"ephemeral",
     "infodensity" : "1",
-    "author" : [
+    "authors" : [
       "Wang, Yanan",
       "Luo, Shijian",
       "Lu, Yujia",
@@ -1870,12 +1870,12 @@
     "title" : "LumiWatch: On-Arm Projected Graphics and Touch Input",
     "technology" : "Projector",
     "subtype" : "Watches & Bracelets",
-    "series" : "CHI '18",
+    "published" : "CHI '18",
     "refreshrate" : "high",
     "placement" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "author" : [
+    "authors" : [
       "Xiao, Robert",
       "Cao, Teng",
       "Guo, Ning",
@@ -1910,7 +1910,7 @@
     "name" : "Zackees",
     "title" : "Zackees Turn Signal Gloves",
     "authors" : [
-      "North"
+      "Zach Vorhies"
     ],
     "published" : "Online",
     "year" : 2016,
@@ -1962,5 +1962,31 @@
     "infodensity" : "2",
     "imageURL" : "http://seetheunseen.co.uk/assets/_medium/theunseen_fire_hair.jpg",
     "technology" : "Thermochromic"
+  },
+  {
+    "year" : "2016",
+    "url" : "https://doi.org/10.1145/2858036.2858192",
+    "type" : "Clothing",
+    "title" : "\"I Don’t Want to Wear a Screen\": Probing Perceptions of and Possibilities for Dynamic Displays on Clothing",
+    "technology" : "Thermochromic",
+    "subtype" : "",
+    "published" : "CHI '16",
+    "refreshrate" : "low",
+    "placement" : "body",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "authors" : ["Laura Devendorf",
+                "Joanne  Lo",
+"Noura Howell ",
+"Doris Jung Lin Lee ",
+"Nan-Wei Gong" ,
+"Mustafa Emre Karagozler" ,
+"Shiho  Fukuhara" ,
+"Ivan  Poupyrev" ,
+"Eric Paulos" ,
+"Kimiko Ryokai" ],
+    "audience" : ["Public","Intermediate","Private"],
+    "name" : "Ebb",
+    "imageURL" : "https://dl.acm.org/cms/attachment/3953c436-8a43-4c27-bb84-0a513f322161/2858036.2858192.key.jpg"
   }
 ]
