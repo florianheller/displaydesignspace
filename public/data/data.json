@@ -15,7 +15,8 @@
     "refreshrate" : "fast",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "imageURL" : "https://assets.bynorth.com/quartz/final/focals/Focals_Desktop_Tease_Oahu_02.png"
+    "imageURL" : "https://assets.bynorth.com/quartz/final/focals/Focals_Desktop_Tease_Oahu_02.png",
+    "technology": "LCD"
   },
   {
     "name" : "HärIÖ",
@@ -38,7 +39,7 @@
     "refreshrate" : "slow",
     "persistence" : "ephemeral",
     "imageURL" : "https://dl.acm.org/cms/attachment/a9887e63-5fcd-44cd-9803-181d0dba331d/3173225.3173232.key.jpg",
-    "technology" : "thermochromic"
+    "technology" : "Thermochromic"
   },
   {
     "name" : "HM3DD",
@@ -151,7 +152,8 @@
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "imageURL" : "https://farm5.static.flickr.com/4039/4643719128_4477247158.jpg",
-    "imageSource" : "http://steampunkworkshop.com/north-skirt/"
+    "imageSource" : "http://steampunkworkshop.com/north-skirt/",
+    "technology": "LED"
   },
   {
     "name" : "Tago Arc",
@@ -168,7 +170,8 @@
     "persistence" : "persistent",
     "infodensity" : "5",
     "imageURL" : "https://liber8tech.com/image/featured/normal/caab0cb82ca1ec0592af3cfa2d730028.png",
-    "imageSourceTitle" : "liber8tech"
+    "imageSourceTitle" : "liber8tech",
+    "technology": "Electrophoretic"
   },
   {
     "name" : "Form Goggles",
@@ -200,6 +203,7 @@
     "placement" : "head",
     "type" : "Accessoires",
     "audience" : "Private",
+    "subtype" : "Headwear",
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "5",
@@ -1674,10 +1678,7 @@
     "series" : "CHI EA '16",
     "refreshrate" : "slow",
     "placement" : "body",
-    "persistence" : [
-      "persistent",
-      "ephemeral"
-    ],
+    "persistence" : "ephemeral",
     "infodensity" : "1",
     "author" : [
       "Kao, Hsin-Liu (Cindy)",
@@ -1743,10 +1744,7 @@
     "series" : "ISWC '16",
     "refreshrate" : "slow",
     "placement" : "body",
-    "persistence" : [
-      "persistent",
-      "ephemeral"
-    ],
+    "persistence" : "ephemeral",
     "infodensity" : "1",
     "author" : [
       "Kao, Hsin-Liu (Cindy)",
@@ -1846,10 +1844,7 @@
     "series" : "DIS '17",
     "refreshrate" : "slow",
     "placement" : "body",
-    "persistence" : [
-      "persistent",
-      "ephemeral"
-    ],
+    "persistence" :"ephemeral",
     "infodensity" : "1",
     "author" : [
       "Wang, Yanan",
@@ -1865,7 +1860,8 @@
       "Intermediate",
       "Private"
     ],
-    "name" : "AnimSkin"
+    "name" : "AnimSkin",
+    "technology": "Thermochromic"
   },
   {
     "year" : "2018",
