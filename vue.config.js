@@ -1,4 +1,6 @@
 module.exports = {
-  publicPath: "/displaydesignspace",
+  publicPath: process.env.RENDER_PATH == undefined
+    ? '/displaydesignspace/'
+    : '/',
   outputDir: "docs"
 };
