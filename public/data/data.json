@@ -1988,5 +1988,25 @@
     "audience" : ["Public","Intermediate","Private"],
     "name" : "Ebb",
     "imageURL" : "https://dl.acm.org/cms/attachment/3953c436-8a43-4c27-bb84-0a513f322161/2858036.2858192.key.jpg"
-  }
+  },
+  {
+    "year" : "2020",
+    "url" : "https://doi.org/10.1145/3313831.3376199",
+    "type" : "Accessoires",
+    "title" : "Watch+Strap: Extending Smartwatches withInteractive StrapDisplays",
+    "technology" : "Electrophoretic",
+    "subtype" : "Watches & Bracelets",
+    "published" : "CHI '20",
+    "refreshrate" : "medium",
+    "placement" : "wrist",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "authors" : [
+      "Konstantin Klamka",
+      "Tom Horak",
+      "Raimund Dachselt"
+    ],
+    "audience" : ["Public", "Intermediate", "Private"],
+    "name" : "Watch+Strap"
+    }
 ]
