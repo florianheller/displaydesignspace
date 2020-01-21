@@ -57,7 +57,7 @@
 	const wearableFilters = [
 		{
 		'key': 'placement',
-		'values': ["head", "torso", "waist", "legs", "foot", "hand", "arm", "wrist"],
+		'values': ["body", "head", "torso", "waist", "legs", "foot", "hand", "arm", "wrist"],
 		'filterValues': [], 
 		'multipleSelection': true,
 		},
