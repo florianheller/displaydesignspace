@@ -1820,7 +1820,7 @@
     "subtype" : "Hands & Fingers",
     "published" : "CHI '17",
     "refreshrate" : "medium",
-    "placement" : "arm",
+    "placement" : "hand",
     "persistence" : "persistent",
     "infodensity" : "5",
     "authors" : [
