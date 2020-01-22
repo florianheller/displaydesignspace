@@ -1948,7 +1948,6 @@
     "name" : "Fire",
     "title" : "The Unseen Fire",
     "authors" : [
-      "North"
     ],
     "published" : "Online",
     "year" : 2017,
@@ -2008,5 +2007,23 @@
     ],
     "audience" : ["Public", "Intermediate", "Private"],
     "name" : "Watch+Strap"
-    }
+    },
+    {
+    "name" : "Fashion Module",
+    "title" : "E-Ink Fashion Module",
+    "authors" : [
+      "Maggie Orth"
+    ],
+    "published" : "Online",
+    "year" : 2002,
+    "url" : "http://www.maggieorth.com/art_FashionModule.html",
+    "placement" : "Body",
+    "type" : "Accessoires",
+    "subtype" : "Broaches",
+    "audience" : "Public",
+    "refreshrate" : "medium",
+    "persistence" : "persistent",
+    "infodensity" : "1",
+    "technology" : "Electrophoretic"
+  }
 ]
