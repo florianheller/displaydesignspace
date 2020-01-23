@@ -213,8 +213,8 @@ module.exports = {
 		fill: #f5f6f8;
 	}
 
-	g.selected path.background { fill: green; }
-	g:hover path.background { fill: blue; }
+	g.selected path.background { fill: #C5CBD4; }
+	g:hover path.background { fill: #D0E0FA; }
 
 	circle {
 		stroke-width: 2px;
