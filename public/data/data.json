@@ -2025,5 +2025,23 @@
     "persistence" : "persistent",
     "infodensity" : "1",
     "technology" : "Electrophoretic"
+  },
+  {
+    "name" : "Matrix Collection",
+    "title" : "Lumen Couture Matrix Collection",
+    "authors" : [
+      "Klukas, Chelsea"
+    ],
+    "published" : "Online",
+    "year" : 2019,
+    "url" : "https://www.lumencouture.com/ultra-thin-led-matrix-fashiontech/",
+    "placement" : "Torso",
+    "type" : "Clothing",
+    "subtype" : "Dresses",
+    "audience" : "Public",
+    "refreshrate" : "fast",
+    "persistence" : "ephemeral",
+    "infodensity" : "4",
+    "technology" : "LED"
   }
 ]
