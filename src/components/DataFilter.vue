@@ -128,6 +128,8 @@
 			.catch(error => console.log(error));
 		},
 		mounted() {
+			this.$root.$emit('body-filter', wearableFilters[0]);
+
 			this.$root.$on('body-area-selected', (a) => {
 				// Get the ID of the area filter 
 				let filter = this.filters.find(element => element.key == 'placement');
@@ -139,7 +141,8 @@
 					filter['filterValues'].push(area);
 					this.activeFilters.push(this.filters.indexOf(filter));
 				}
-			})
+			});
+
 		},
 		methods: {
 			subFiltersForFilter(filter) {
