@@ -56,6 +56,10 @@
 				<td class="detail">Persistence</td>
 				<td>{{item.persistence.toString() | capitalize}}</td>
 			</tr>
+			<tr v-if="item.technology">
+				<td class="detail" >Technology</td>
+				<td>{{item.technology.toString() | capitalize}}</td>
+			</tr>
 		</table>
 	</div>
 </template>
