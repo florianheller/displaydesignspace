@@ -168,6 +168,8 @@
 <style scoped>
 #DataFilter {
 	width:50%;
+	margin-right:30%;
+	margin-left:20%;
 }
 /* The filter part */
 [type="radio"]{

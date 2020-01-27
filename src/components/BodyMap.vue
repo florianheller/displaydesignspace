@@ -205,8 +205,9 @@ module.exports = {
 <style scoped>
 	#bodyMap {
 		width: 20%;
-		top: 0px;
-		position: sticky;
+		top: 0;
+		left:0;
+		position: fixed;
 	}
 	#bodyoutline {
 		fill:none; 
