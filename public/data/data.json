@@ -16,7 +16,7 @@
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "imageURL" : "https://assets.bynorth.com/quartz/final/focals/Focals_Desktop_Tease_Oahu_02.png",
-    "technology": "LCD"
+    "technology" : "LCD"
   },
   {
     "name" : "HärIÖ",
@@ -114,7 +114,8 @@
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "subtype" : "Shirts & Tops",
-    "audience" : "Public"
+    "audience" : "Public",
+    "technology" : "Electroluminescent"
   },
   {
     "name" : "Turn Signal Biking Jacket",
@@ -133,7 +134,8 @@
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "imageURL" : "https://cdn.instructables.com/FRC/II3V/FHY0I8RW/FRCII3VFHY0I8RW.LARGE.jpg",
-    "imageSourceTitle" : "Instructables"
+    "imageSourceTitle" : "Instructables",
+    "technology" : "LED"
   },
   {
     "name" : "The North Skirt",
@@ -153,7 +155,7 @@
     "infodensity" : "1",
     "imageURL" : "https://farm5.static.flickr.com/4039/4643719128_4477247158.jpg",
     "imageSource" : "http://steampunkworkshop.com/north-skirt/",
-    "technology": "LED"
+    "technology" : "LED"
   },
   {
     "name" : "Tago Arc",
@@ -171,7 +173,7 @@
     "infodensity" : "5",
     "imageURL" : "https://liber8tech.com/image/featured/normal/caab0cb82ca1ec0592af3cfa2d730028.png",
     "imageSourceTitle" : "liber8tech",
-    "technology": "Electrophoretic"
+    "technology" : "Electrophoretic"
   },
   {
     "name" : "Form Goggles",
@@ -246,7 +248,8 @@
     "refreshrate" : "fast",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "imageURL" : "https://lh3.googleusercontent.com/FKs5XMvwuBYfUfNSEk_R5VQmXvJSrz1GatoJetoVgpYW4q47UFocEHdVvLpHEHZQLMmmuh32XdYXZ1PLt_AB2rAV284AP6MuFwX8Dw=s300"
+    "imageURL" : "https://lh3.googleusercontent.com/FKs5XMvwuBYfUfNSEk_R5VQmXvJSrz1GatoJetoVgpYW4q47UFocEHdVvLpHEHZQLMmmuh32XdYXZ1PLt_AB2rAV284AP6MuFwX8Dw=s300",
+    "technology" : "LCD"
   },
   {
     "name" : "NailDisplay",
@@ -269,7 +272,8 @@
     "refreshrate" : "fast",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "imageURL" : "https://dl.acm.org/cms/attachment/1bff4bfd-c2b2-4b1a-b5fd-859cc2a5a5a0/2470654.2466193.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/1bff4bfd-c2b2-4b1a-b5fd-859cc2a5a5a0/2470654.2466193.key.jpg",
+    "technology" : "OLED"
   },
   {
     "name" : "Loupe",
@@ -294,7 +298,8 @@
     "refreshrate" : "fast",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "imageURL" : "https://dl.acm.org/cms/attachment/61f8af50-7e48-43a3-b4f4-58d34168b7cf/2642918.2647361.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/61f8af50-7e48-43a3-b4f4-58d34168b7cf/2642918.2647361.key.jpg",
+    "technology" : "LCD"
   },
   {
     "name" : "Cicret",
@@ -308,7 +313,8 @@
     "audience" : "Private",
     "refreshrate" : "fast",
     "persistence" : "ephemeral",
-    "infodensity" : "5"
+    "infodensity" : "5",
+    "technology" : "Projection"
   },
   {
     "name" : "WT6000",
@@ -328,7 +334,8 @@
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "imageURL" : "https://www.zebra.com//us/en/products/mobile-computers/wearable-computers/wt6000/jcr:content/mainpar/fullwidthimage_736b/fullWidthImage.transform/image-full/image.jpg",
-    "imageSourceTitle" : "Zebra"
+    "imageSourceTitle" : "Zebra",
+    "technology" : "LCD"
   },
   {
     "year" : "2018",
@@ -343,7 +350,8 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "imageURL" : "https://cdn.shopify.com/s/files/1/1974/9705/files/kickstart-side_1024x1024_9e4b9278-4168-46fb-9845-9624b1f2d5c0_1024x1024.jpg?v=1572614044"
+    "imageURL" : "https://cdn.shopify.com/s/files/1/1974/9705/files/kickstart-side_1024x1024_9e4b9278-4168-46fb-9845-9624b1f2d5c0_1024x1024.jpg?v=1572614044",
+    "technology" : "LED"
   },
   {
     "year" : 2017,
@@ -358,7 +366,8 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "imageURL" : "http://v.fastcdn.co/u/79902f12/14196448-0-20170227-845a-Photos.jpg"
+    "imageURL" : "http://v.fastcdn.co/u/79902f12/14196448-0-20170227-845a-Photos.jpg",
+    "technology" : "LED"
   },
   {
     "year" : 2018,
@@ -373,7 +382,8 @@
     "refreshrate" : "medium",
     "persistence" : "persistent",
     "infodensity" : "5",
-    "imageURL" : "https://www.shiftwear.com/images/marketplace.jpg"
+    "imageURL" : "https://www.shiftwear.com/images/marketplace.jpg",
+    "technology" : "Electrophoretic"
   },
   {
     "year" : 2016,
@@ -392,7 +402,8 @@
     "persistence" : "persistent",
     "infodensity" : "5",
     "imageURL" : "https://payload.cargocollective.com/1/0/4277/11701464/_DSC1483-Edit_1250.jpg",
-    "imageSourceTitle" : "Photos courtesy of Cristopher Santos"
+    "imageSourceTitle" : "Photos courtesy of Cristopher Santos",
+    "technology" : "Electrophoretic"
   },
   {
     "year" : "2018",
@@ -406,7 +417,8 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "2",
-    "imageURL" : "https://cdn.shopify.com/s/files/1/1529/2383/products/front-_Moonstone_Yellow_Gold_large.jpg?v=1506711084"
+    "imageURL" : "https://cdn.shopify.com/s/files/1/1529/2383/products/front-_Moonstone_Yellow_Gold_large.jpg?v=1506711084",
+    "technology" : "LED"
   },
   {
     "year" : "1998",
@@ -428,7 +440,8 @@
       "Hancock, Chris"
     ],
     "audience" : "Public",
-    "name" : "Meme Tags"
+    "name" : "Meme Tags",
+    "technology" : "LCD"
   },
   {
     "year" : "2013",
@@ -449,7 +462,8 @@
       "Siek, Katie"
     ],
     "audience" : "Intermediate",
-    "name" : "Pt Viz"
+    "name" : "Pt Viz",
+    "technology" : "Electroluminescent"
   },
   {
     "year" : "2006",
@@ -468,7 +482,8 @@
       "Feiner, Steven"
     ],
     "audience" : "Private",
-    "name" : "Retractable Strings"
+    "name" : "Retractable Strings",
+    "technology" : "LED"
   },
   {
     "year" : "2012",
@@ -487,7 +502,8 @@
       "Berkovsky, Shlomo"
     ],
     "audience" : "Intermediate",
-    "name" : "ActivMON"
+    "name" : "ActivMON",
+    "technology" : "LED"
   },
   {
     "year" : "2015",
@@ -506,7 +522,8 @@
       "Vertegaal, Roel"
     ],
     "audience" : "Private",
-    "name" : "DisplaySkin"
+    "name" : "DisplaySkin",
+    "technology" : "Electrophoretic"
   },
   {
     "year" : "2018",
@@ -527,7 +544,8 @@
       "Heuten, Wilko"
     ],
     "audience" : "Private",
-    "name" : "Reducing Alarm Fatigue"
+    "name" : "Reducing Alarm Fatigue",
+    "technology" : "LED"
   },
   {
     "year" : "2016",
@@ -548,7 +566,8 @@
       "Häkkilä, Jonna"
     ],
     "audience" : "Public",
-    "name" : "Smart Handbag"
+    "name" : "Smart Handbag",
+    "technology" : "LCD"
   },
   {
     "year" : "2018",
@@ -568,7 +587,8 @@
       "Häkkilä, Jonna"
     ],
     "audience" : "Intermediate",
-    "name" : "Shoe Integrated Displays"
+    "name" : "Shoe Integrated Displays",
+    "technology" : "LED"
   },
   {
     "year" : "2006",
@@ -589,7 +609,8 @@
       "Maes, Pattie"
     ],
     "audience" : "Private",
-    "name" : "Eye-q"
+    "name" : "Eye-q",
+    "technology" : "LED"
   },
   {
     "year" : "2015",
@@ -599,7 +620,10 @@
     "subtype" : "Arm",
     "published" : "MobileHCI '15",
     "refreshrate" : "high",
-    "placement" : ["arm", "torso"],
+    "placement" : [
+      "arm",
+      "torso"
+    ],
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -610,7 +634,8 @@
       "Elmqvist, Niklas"
     ],
     "audience" : "Private",
-    "name" : "Wearable Mid-air Display"
+    "name" : "Wearable Mid-air Display",
+    "technology" : "Projection"
   },
   {
     "year" : "2018",
@@ -629,7 +654,8 @@
       "Paulos, Eric"
     ],
     "audience" : "Public",
-    "name" : "AlterWear"
+    "name" : "AlterWear",
+    "technology" : "Electrophoretic"
   },
   {
     "year" : "2008",
@@ -650,14 +676,15 @@
       "Public",
       "Intermediate"
     ],
-    "name" : "ExternalEyes"
+    "name" : "ExternalEyes",
+    "technology" : "OLED"
   },
   {
     "year" : "1999",
     "url" : "http://doi.acm.org/10.1145/632716.632909",
     "type" : "Accessoires",
     "title" : "The BubbleBadge: A Wearable Public Display",
-    "subtype" : "Broaches",
+    "subtype" : "Brooches",
     "published" : "CHI EA '99",
     "refreshrate" : "high",
     "placement" : "torso",
@@ -668,7 +695,8 @@
       "Björk, Staffan"
     ],
     "audience" : "Public",
-    "name" : "BubbleBadge"
+    "name" : "BubbleBadge",
+    "technology" : "LCD"
   },
   {
     "year" : "2013",
@@ -688,7 +716,8 @@
       "Heuten, Wilko"
     ],
     "audience" : "Intermediate",
-    "name" : "Illumee"
+    "name" : "Illumee",
+    "technology" : "LED"
   },
   {
     "year" : "2014",
@@ -708,7 +737,8 @@
       "Boll, Susanne"
     ],
     "audience" : "Intermediate",
-    "name" : "Wrist-worn Point-light Displays"
+    "name" : "Wrist-worn Point-light Displays",
+    "technology" : "LED"
   },
   {
     "year" : "2014",
@@ -728,7 +758,8 @@
       "Boll, Susanne"
     ],
     "audience" : "Intermediate",
-    "name" : "WaterJewel"
+    "name" : "WaterJewel",
+    "technology" : "LED"
   },
   {
     "year" : "2019",
@@ -750,7 +781,8 @@
     ],
     "audience" : "Intermediate",
     "name" : "Howel",
-    "imageURL" : "https://dl.acm.org/cms/attachment/fe4d97d5-7da5-4578-9ed8-3e72aa3ca5d0/3290607.3312857.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/fe4d97d5-7da5-4578-9ed8-3e72aa3ca5d0/3290607.3312857.key.jpg",
+    "technology" : "Thermochromic"
   },
   {
     "year" : "2016",
@@ -774,7 +806,8 @@
     ],
     "audience" : "Public",
     "name" : "Head Mounted Projection Display",
-    "imageURL" : "https://dl.acm.org/cms/attachment/17b7e310-655c-4e25-88bf-3b5b3b773b1e/2858036.2858449.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/17b7e310-655c-4e25-88bf-3b5b3b773b1e/2858036.2858449.key.jpg",
+    "technology" : "Projection"
   },
   {
     "year" : "2015",
@@ -796,7 +829,8 @@
       "Kuijper, Arjan"
     ],
     "audience" : "Public",
-    "name" : "Wearable Low-resolution Displays"
+    "name" : "Wearable Low-resolution Displays",
+    "technology" : "LED"
   },
   {
     "year" : "2018",
@@ -819,7 +853,8 @@
       "Intermediate",
       "Public"
     ],
-    "name" : "Interactive Ice Skating Dress"
+    "name" : "Interactive Ice Skating Dress",
+    "technology" : "LED"
   },
   {
     "year" : "2018",
@@ -841,7 +876,8 @@
       "Häkkilä, Jonna"
     ],
     "audience" : "Intermediate",
-    "name" : "Idle Stripes Shirt"
+    "name" : "Idle Stripes Shirt",
+    "technology" : "LED"
   },
   {
     "year" : "2017",
@@ -860,7 +896,8 @@
     ],
     "audience" : "Public",
     "name" : "Brighter Than a Thousand Suns",
-    "imageURL" : "https://dl.acm.org/cms/attachment/d3804ddb-1649-4edc-997e-9cc4f21acdaf/3024969.3025055.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/d3804ddb-1649-4edc-997e-9cc4f21acdaf/3024969.3025055.key.jpg",
+    "technology" : "LED"
   },
   {
     "year" : "2004",
@@ -878,7 +915,11 @@
       "Kim, Younghui"
     ],
     "audience" : "Public",
-    "name" : "HearWear"
+    "name" : "HearWear",
+    "technology" : [
+      "LED",
+      "Elecroluminescent"
+    ]
   },
   {
     "year" : "2005",
@@ -905,7 +946,11 @@
       "Worbin, Linda"
     ],
     "audience" : "Intermediate",
-    "name" : "Reach"
+    "name" : "Reach",
+    "technology" : [
+      "Thermochromic",
+      "Electroluminescent"
+    ]
   },
   {
     "year" : "2015",
@@ -925,7 +970,8 @@
       "Väänänen-Vainio-Mattila, Kaisa"
     ],
     "audience" : "Public",
-    "name" : "CueSense"
+    "name" : "CueSense",
+    "technology" : "LCD"
   },
   {
     "year" : "2019",
@@ -935,7 +981,7 @@
     "subtype" : "Headwear",
     "published" : "UbiComp/ISWC '19 Adjunct",
     "refreshrate" : [
-      "medium",
+      "slow",
       "high"
     ],
     "placement" : "head",
@@ -951,7 +997,11 @@
       "Häkkilä, Jonna"
     ],
     "audience" : "Public",
-    "name" : "Non-emissive Wearable Displays"
+    "name" : "Non-emissive Wearable Displays",
+    "technology" : [
+      "Thermochromic",
+      "Electrophoretic"
+    ]
   },
   {
     "year" : "2019",
@@ -975,7 +1025,8 @@
       "Häkkilä, Jonna"
     ],
     "audience" : "Public",
-    "name" : "Linn Dress"
+    "name" : "Linn Dress",
+    "technology" : "Electrochromic"
   },
   {
     "year" : "2019",
@@ -997,7 +1048,8 @@
       "Public",
       "Intermediate"
     ],
-    "name" : "VitaBoot"
+    "name" : "VitaBoot",
+    "technology" : "Electrochromic"
   },
   {
     "year" : "2017",
@@ -1018,7 +1070,8 @@
     ],
     "audience" : "Intermediate",
     "name" : "EarthTones",
-    "imageURL" : "https://dl.acm.org/cms/attachment/674d1711-c10f-46ab-b4a8-d1a564347203/3027063.3052754.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/674d1711-c10f-46ab-b4a8-d1a564347203/3027063.3052754.key.jpg",
+    "technology" : "Biochemical"
   },
   {
     "year" : "2018",
@@ -1037,7 +1090,12 @@
     ],
     "audience" : "Public",
     "name" : "Digitally Enchanted Wear",
-    "imageURL" : "https://dl.acm.org/cms/attachment/344d1af9-a3b4-428c-9946-05bebb91cba5/3173225.3173250.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/344d1af9-a3b4-428c-9946-05bebb91cba5/3173225.3173250.key.jpg",
+    "technology" : [
+      "Projection",
+      "LED",
+      "Thermochromic"
+    ]
   },
   {
     "year" : "2011",
@@ -1056,7 +1114,8 @@
       "Vande Moere, Andrew"
     ],
     "audience" : "Public",
-    "name" : "Online Social Identity"
+    "name" : "Online Social Identity",
+    "technology" : "Projection"
   },
   {
     "year" : "2016",
@@ -1082,7 +1141,8 @@
       "Private"
     ],
     "name" : "Skintillates",
-    "imageURL" : "https://dl.acm.org/cms/attachment/21a7cb1e-e6ed-4dca-b75f-70fd40de51a4/2901790.2901885.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/21a7cb1e-e6ed-4dca-b75f-70fd40de51a4/2901790.2901885.key.jpg",
+    "technology" : "LED"
   },
   {
     "year" : "2018",
@@ -1101,7 +1161,8 @@
       "Zheng, Dingding"
     ],
     "audience" : "Public",
-    "name" : "Wearable Aura"
+    "name" : "Wearable Aura",
+    "technology" : "Projection"
   },
   {
     "year" : "2012",
@@ -1125,7 +1186,8 @@
       "Private"
     ],
     "name" : "Facet",
-    "imageURL" : "https://dl.acm.org/cms/attachment/c3fcb692-0033-4ee4-85b9-8485e1b215da/2380116.2380134.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/c3fcb692-0033-4ee4-85b9-8485e1b215da/2380116.2380134.key.jpg",
+    "technology" : "LCD"
   },
   {
     "year" : "2014",
@@ -1153,7 +1215,11 @@
       "Froehlich, Jon E."
     ],
     "audience" : "Public",
-    "name" : "Social Fabric Fitness"
+    "name" : "Social Fabric Fitness",
+    "technology" : [
+      "LED",
+      "Electrophoretic"
+    ]
   },
   {
     "year" : "2015",
@@ -1176,7 +1242,8 @@
       "Yamazaki, Naoko"
     ],
     "audience" : "Intermediate",
-    "name" : "Bio-Collar"
+    "name" : "Bio-Collar",
+    "technology" : "LED"
   },
   {
     "year" : "2013",
@@ -1199,7 +1266,8 @@
       "Public",
       "Private"
     ],
-    "name" : "AugmentedForearm"
+    "name" : "AugmentedForearm",
+    "technology" : "LCD"
   },
   {
     "year" : "2018",
@@ -1217,7 +1285,11 @@
       "Kress, Bernard"
     ],
     "audience" : "Private",
-    "name" : "1D Eyewear"
+    "name" : "1D Eyewear",
+    "technology" : [
+      "LED",
+      "Laser"
+    ]
   },
   {
     "year" : "2016",
@@ -1242,7 +1314,8 @@
     ],
     "audience" : "Intermediate",
     "name" : "Solar Shirt",
-    "imageURL" : "https://dl.acm.org/cms/attachment/a9347df9-72d8-496e-b07a-c8255cf2b954/2968219.2971350.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/a9347df9-72d8-496e-b07a-c8255cf2b954/2968219.2971350.key.jpg",
+    "technology" : "Electrochromic"
   },
   {
     "year" : "2017",
@@ -1265,7 +1338,11 @@
       "Häkkilä, Jonna"
     ],
     "audience" : "Public",
-    "name" : "Breaking of the Dawn Jacket"
+    "name" : "Breaking of the Dawn Jacket",
+    "technology" : [
+      "LED",
+      "Thermochromic"
+    ]
   },
   {
     "year" : "2013",
@@ -1283,7 +1360,8 @@
       "Rakkolainen, Ismo"
     ],
     "audience" : "Public",
-    "name" : "Multimodal Head-mounted Pico Projector"
+    "name" : "Multimodal Head-mounted Pico Projector",
+    "technology" : "Projection"
   },
   {
     "year" : "2016",
@@ -1305,7 +1383,8 @@
       "Alt, Florian"
     ],
     "audience" : "Public",
-    "name" : "On-body Displays"
+    "name" : "On-body Displays",
+    "technology" : "LED"
   },
   {
     "year" : "2018",
@@ -1326,7 +1405,8 @@
       "Vega, Katia"
     ],
     "audience" : "Public",
-    "name" : "HeartMe"
+    "name" : "HeartMe",
+    "technology" : "Thermochromic"
   },
   {
     "year" : "2015",
@@ -1345,7 +1425,8 @@
       "Vertegaal, Roel"
     ],
     "audience" : "Private",
-    "name" : "Cylindrical Smartwatch"
+    "name" : "Cylindrical Smartwatch",
+    "technology" : "Electrophoretic"
   },
   {
     "year" : "2018",
@@ -1368,7 +1449,8 @@
       "Public",
       "Private"
     ],
-    "name" : "Interactive Wearable Projection Display"
+    "name" : "Interactive Wearable Projection Display",
+    "technology" : "Projection"
   },
   {
     "year" : "2017",
@@ -1395,7 +1477,8 @@
       "Intermediate",
       "Private"
     ],
-    "name" : "The Dermal Abyss"
+    "name" : "The Dermal Abyss",
+    "technology" : "Biochemical"
   },
   {
     "year" : "2014",
@@ -1422,7 +1505,11 @@
     ],
     "audience" : "Private",
     "name" : "SleeD",
-    "imageURL" : "https://dl.acm.org/cms/attachment/55d4eb54-f100-4f21-b989-bc645afce520/2669485.2669507.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/55d4eb54-f100-4f21-b989-bc645afce520/2669485.2669507.key.jpg",
+    "technology" : [
+      "Electrophoretic",
+      "LCD"
+    ]
   },
   {
     "year" : "2006",
@@ -1443,7 +1530,8 @@
       "Shibutani, Midori"
     ],
     "audience" : "Private",
-    "name" : "Mosaic Textile"
+    "name" : "Mosaic Textile",
+    "technology" : "Thermochromic"
   },
   {
     "year" : "2017",
@@ -1465,7 +1553,8 @@
     ],
     "audience" : "Private",
     "name" : "WatchThru",
-    "imageURL" : "https://dl.acm.org/cms/attachment/a8ea0bd0-2ddb-495a-a6e9-8396ec591002/3025453.3025852.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/a8ea0bd0-2ddb-495a-a6e9-8396ec591002/3025453.3025852.key.jpg",
+    "technology" : "LCD"
   },
   {
     "year" : "2006",
@@ -1484,7 +1573,8 @@
       "Counts, Scott"
     ],
     "audience" : "Intermediate",
-    "name" : "Wearable Ambient Displays"
+    "name" : "Wearable Ambient Displays",
+    "technology" : "LED"
   },
   {
     "year" : "2013",
@@ -1503,7 +1593,8 @@
     ],
     "audience" : "Public",
     "name" : "Fingernail Displays",
-    "imageURL" : "https://dl.acm.org/cms/attachment/64bf9ba4-ed7c-485d-8c08-76756da676ce/2468356.2468524.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/64bf9ba4-ed7c-485d-8c08-76756da676ce/2468356.2468524.key.jpg",
+    "technology" : "OLED"
   },
   {
     "year" : "2015",
@@ -1525,7 +1616,8 @@
       "Private"
     ],
     "name" : "Shimmering Smartwatches",
-    "imageURL" : "https://dl.acm.org/cms/attachment/00cdc085-bf21-4824-8256-c3e903a1c454/2677199.2680599.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/00cdc085-bf21-4824-8256-c3e903a1c454/2677199.2680599.key.jpg",
+    "technology" : "LED"
   },
   {
     "year" : "2008",
@@ -1844,7 +1936,7 @@
     "published" : "DIS '17",
     "refreshrate" : "slow",
     "placement" : "body",
-    "persistence" :"ephemeral",
+    "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
       "Wang, Yanan",
@@ -1860,8 +1952,7 @@
       "Intermediate",
       "Private"
     ],
-    "name" : "AnimSkin",
-    "technology": "Thermochromic"
+    "name" : "AnimSkin"
   },
   {
     "year" : "2018",
@@ -1947,8 +2038,7 @@
   {
     "name" : "Fire",
     "title" : "The Unseen Fire",
-    "authors" : [
-    ],
+    "authors" : [],
     "published" : "Online",
     "year" : 2017,
     "url" : "http://seetheunseen.co.uk/",
@@ -1974,17 +2064,23 @@
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "authors" : ["Laura Devendorf",
-                "Joanne  Lo",
-"Noura Howell ",
-"Doris Jung Lin Lee ",
-"Nan-Wei Gong" ,
-"Mustafa Emre Karagozler" ,
-"Shiho  Fukuhara" ,
-"Ivan  Poupyrev" ,
-"Eric Paulos" ,
-"Kimiko Ryokai" ],
-    "audience" : ["Public","Intermediate","Private"],
+    "authors" : [
+      "Laura Devendorf",
+      "Joanne  Lo",
+      "Noura Howell ",
+      "Doris Jung Lin Lee ",
+      "Nan-Wei Gong",
+      "Mustafa Emre Karagozler",
+      "Shiho  Fukuhara",
+      "Ivan  Poupyrev",
+      "Eric Paulos",
+      "Kimiko Ryokai"
+    ],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
     "name" : "Ebb",
     "imageURL" : "https://dl.acm.org/cms/attachment/3953c436-8a43-4c27-bb84-0a513f322161/2858036.2858192.key.jpg"
   },
@@ -2005,10 +2101,14 @@
       "Tom Horak",
       "Raimund Dachselt"
     ],
-    "audience" : ["Public", "Intermediate", "Private"],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
     "name" : "Watch+Strap"
-    },
-    {
+  },
+  {
     "name" : "Fashion Module",
     "title" : "E-Ink Fashion Module",
     "authors" : [
@@ -2019,7 +2119,7 @@
     "url" : "http://www.maggieorth.com/art_FashionModule.html",
     "placement" : "body",
     "type" : "Accessoires",
-    "subtype" : "Broaches",
+    "subtype" : "Brooches",
     "audience" : "Public",
     "refreshrate" : "medium",
     "persistence" : "persistent",
