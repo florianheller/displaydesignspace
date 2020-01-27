@@ -138,6 +138,67 @@
     "technology" : "LED"
   },
   {
+    "name" : "Fiber Optic Dress",
+    "title" : "Fiber Optic Dress",
+    "authors" : [
+      "Walsh, Natalie"
+    ],
+    "published" : "Instructables",
+    "year" : 2015,
+    "url" : "https://www.instructables.com/id/Fiber-Optic-Dress/",
+    "placement" : [
+      "torso",
+      "waist"
+    ],
+    "type" : "Clothing",
+    "subtype" : "Dresses",
+    "audience" : "Public",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "imageURL" : "https://cdn.instructables.com/F7D/I29Q/HTHKFLIK/F7DI29QHTHKFLIK.LARGE.jpg?auto=webp&frame=1&width=899&height=1024&fit=bounds",
+    "imageSourceTitle" : "AudreyObscura - Instructables",
+    "technology" : "LED"
+  },
+  {
+    "name" : "Wearable Noise Display",
+    "title" : "TfCD Wearable Noise Display",
+    "authors" : [
+      "Staal, Timon"
+    ],
+    "published" : "Instructables",
+    "year" : 2016,
+    "url" : "https://www.instructables.com/id/TfCD-Wearable-Noise-Display/",
+    "placement" : "wrist",
+    "type" : "Accessoires",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Intermediate",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "imageURL" : "https://cdn.instructables.com/F36/B945/IWWFOA55/F36B945IWWFOA55.LARGE.jpg?auto=webp&width=1024&fit=bounds",
+    "imageSourceTitle" : "Instructables",
+    "technology" : "LED"
+  },
+  {
+    "name" : "EqualAir",
+    "title" : "Wearable NeoPixel Display Triggered by Air Pollution Sensor",
+    "authors" : [
+      "Gao, Mary"
+    ],
+    "published" : "Instructables",
+    "year" : 2019,
+    "url" : "https://www.instructables.com/id/EqualAir-Wearable-NeoPixel-Display-Triggered-by-Ai/",
+    "placement" : "Torso",
+    "type" : "Clothing",
+    "subtype" : "Shirts & Tops",
+    "audience" : "Intermediate",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED"
+  },
+  {
     "name" : "The North Skirt",
     "title" : "The North Skirt",
     "authors" : [
@@ -1638,7 +1699,8 @@
     ],
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "audience" : "Public"
+    "audience" : "Public",
+    "type" : "Clothing"
   },
   {
     "year" : "2009",
