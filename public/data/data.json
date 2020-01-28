@@ -2044,7 +2044,7 @@
     "name" : "Moverio",
     "title" : "Epson Moverio Smart Glasses",
     "authors" : [
-      "North"
+      "Epson"
     ],
     "published" : "Online",
     "year" : 2016,
@@ -2056,7 +2056,8 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "imageURL" : "https://assets.bynorth.com/quartz/final/focals/Focals_Desktop_Tease_Oahu_02.png",
+    "imageURL" : "https://tech.moverio.epson.com/en/bt-30c/images/feature_01.png",
+    "imageSourceTitle": "Epson",
     "technology" : "LCD"
   },
   {
@@ -2082,7 +2083,7 @@
     "name" : "One & Track",
     "title" : "Orphe One & Orphe Track Shoes",
     "authors" : [
-      "North"
+      "Orphe"
     ],
     "published" : "Online",
     "year" : 2018,
