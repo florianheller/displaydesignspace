@@ -1,17 +1,17 @@
-<!-- 
-	A component that allows to apply a series of filters to a dataset and visualize it. 
+<!--
+	A component that allows to apply a series of filters to a dataset and visualize it.
 	C2019 Florian Heller  (florian<at>uhasselt.be)
 	License: MIT
 -->
 <template>
 <div id="DataFilter">
 	<div id="filters">
-		<fieldset 
+		<fieldset
 			v-for="(filter, index) in filters"
 			v-bind:key="index"
 			:id="'filter-'+index"
 			v-bind:class="{ active: isFilterActive(filter) }"
-		>	
+		>
 		<legend>{{filter.key | capitalize }}</legend>
 			<input :id="'filter-'+index+'-enable'" type="checkbox" :value="index" v-model="activeFilters">
 			<ul	class="segmented-control">
@@ -25,7 +25,7 @@
 	</div>
 <!-- <span>Active filters: {{ activeFilters }}</span>
  --><ul class="userWrap">
-	<li 
+	<li
 	v-for="(entry, index) in filteredData"
 	:key="index"
 	:item="entry"
@@ -35,7 +35,7 @@
 		<h2 class="title">{{ entry.name }}</h2>
 		<span class="language"><strong>{{ entry.title }}</strong></span>
 	</li>
-</ul> 
+</ul>
 </div>
 </template>
 
@@ -58,48 +58,48 @@
 		{
 		'key': 'placement',
 		'values': ["body", "head", "torso", "waist", "legs", "foot", "hand", "arm", "wrist"],
-		'filterValues': [], 
+		'filterValues': [],
 		'multipleSelection': true,
 		},
 		{
 		'key': 'type',
-		'values': ["Accessoires", "Clothing", "Skin & Body"],
-		'filterValues': [], 
+		'values': ["Accessories", "Clothing", "Skin & Body"],
+		'filterValues': [],
 		'multipleSelection': false,
 		'subfilters': [] // Subfilters only work with multipleSelection: false
 		},
 		{
 		'key': 'audience',
 		'values': ["Public", "Intermediate", "Private"],
-		'filterValues': [], 
+		'filterValues': [],
 		'multipleSelection': true,
 		}
-	]; //End WearableFilters 
+	]; //End WearableFilters
 
 	const subFilters = [
 	{
 		'parent': 'type',
-		'parentValue': 'Accessoires', 
-		'key': 'subtype', 		
-		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes", "Bags", "Straps"],  		
-		'filterValues': [],	
-		'multipleSelection': false 
+		'parentValue': 'Accessories',
+		'key': 'subtype',
+		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes", "Bags", "Straps"],
+		'filterValues': [],
+		'multipleSelection': false
 	},
 	{
 		'parent': 'type',
-		'parentValue': 'Clothing', 
-		'key': 'subtype', 		
-		'values': ["Shirts & Tops", "Jackets & Suits", "Notions", "Pants & Skirts", "Dresses"],  		
-		'filterValues': [],	
-		'multipleSelection': false 
+		'parentValue': 'Clothing',
+		'key': 'subtype',
+		'values': ["Shirts & Tops", "Jackets & Suits", "Notions", "Pants & Skirts", "Dresses"],
+		'filterValues': [],
+		'multipleSelection': false
 	},
 	{
 		'parent': 'type',
-		'parentValue': 'Skin & Body', 
-		'key': 'subtype', 		
-		'values': ["Skin", "Hair", "Face & Neck", "Arms", "Hands & Fingers", "Legs"],  		
-		'filterValues': [],	
-		'multipleSelection': false 
+		'parentValue': 'Skin & Body',
+		'key': 'subtype',
+		'values': ["Skin", "Hair", "Face & Neck", "Arms", "Hands & Fingers", "Legs"],
+		'filterValues': [],
+		'multipleSelection': false
 	}];
 	// Alternative check https://gist.github.com/jherax/f11d669ba286f21b7a2dcff69621eb72
 	// Based on https://stackoverflow.com/questions/44590352/filter-by-multiple-keys-and-values-javascript
@@ -116,7 +116,7 @@
 		data: function() {
 			return {
 				filters: wearableFilters,		// The list of all possible filters, will be used later when the user can dynamically create a filter set
-				activeFilters: [],  // The active filters 
+				activeFilters: [],  // The active filters
 				data: []			// The data this component works on
 			};
 		},
@@ -131,7 +131,7 @@
 			this.$root.$emit('body-filter', wearableFilters[0]);
 
 			this.$root.$on('body-area-selected', (a) => {
-				// Get the ID of the area filter 
+				// Get the ID of the area filter
 				let filter = this.filters.find(element => element.key == 'placement');
 				let area = a;
 				if (area == "left-arm" || area == "right-arm") {
@@ -214,8 +214,8 @@ fieldset {
 
     border: 1px solid #ddd;
 
-    font: 14px/1.5 sans-serif; 
-    text-align: center;  
+    font: 14px/1.5 sans-serif;
+    text-align: center;
 
     cursor: pointer;
 }
@@ -226,7 +226,7 @@ fieldset {
 
 .segmented-control__input:checked + .segmented-control__label {
     background: #eee;
-    color: #333; 
+    color: #333;
 }
 
 /* Data UL */
