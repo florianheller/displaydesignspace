@@ -676,9 +676,9 @@
   {
     "year" : "2015",
     "url" : "http://doi.acm.org/10.1145/2785830.2785876",
-    "type" : "Skin & Body",
+    "type" : "Accessories",
     "title" : "Map Navigation Using a Wearable Mid-air Display",
-    "subtype" : "Arm",
+    "subtype" : "Straps & Belts",
     "published" : "MobileHCI '15",
     "refreshrate" : "high",
     "placement" : [
@@ -875,7 +875,7 @@
     "url" : "http://doi.acm.org/10.1145/2790044.2790059",
     "type" : "Clothing",
     "title" : "Enhancing Traffic Safety with Wearable Low-resolution Displays",
-    "subtype" : "Jackets",
+    "subtype" : "Jackets & Suits",
     "published" : "iWOAR '15",
     "refreshrate" : "high",
     "placement" : "torso, arm",
