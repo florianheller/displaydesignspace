@@ -265,7 +265,7 @@
     "url" : "https://eunkyungshin.myportfolio.com/enhanced-interface",
     "placement" : "head",
     "type" : "Accessories",
-    "audience" : "Private",
+    "audience" : "Public",
     "subtype" : "Headwear",
     "refreshrate" : "high",
     "persistence" : "ephemeral",
@@ -387,7 +387,6 @@
     "type" : "Accessories",
     "subtype" : "Straps & Belts",
     "audience" : [
-      "Private",
       "Intermediate",
       "Public"
     ],
@@ -1321,7 +1320,7 @@
       "Olberding, Simon",
       "Yeo, Kian Peen",
       "Nanayakkara, Suranga",
-      "Steimle, Jurgen"
+      "Steimle, Jürgen"
     ],
     "audience" : [
       "Public",
@@ -2072,7 +2071,7 @@
     "placement" : "hand",
     "type" : "Accessories",
     "subtype" : "Gloves",
-    "audience" : "Private",
+    "audience" : "Public",
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "1",
