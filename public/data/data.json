@@ -1673,7 +1673,7 @@
     ],
     "audience" : [
       "Intermediate",
-      "Private"
+      "Public"
     ],
     "name" : "Shimmering Smartwatches",
     "imageURL" : "https://dl.acm.org/cms/attachment/00cdc085-bf21-4824-8256-c3e903a1c454/2677199.2680599.key.jpg",
@@ -1959,7 +1959,8 @@
     ],
     "audience" : [
       "Public",
-      "Intermediate"
+      "Intermediate",
+      "Private"
     ],
     "name" : "SkinMarks",
     "imageURL" : "https://dl.acm.org/cms/attachment/93fd9a29-1c58-4c2d-86a1-a08d75f6ea55/3025453.3025704.key.jpg"
@@ -1981,10 +1982,7 @@
       "Vega Gálvez, Tomás",
       "Paulos, Eric"
     ],
-    "audience" : [
-      "Public",
-      "Intermediate"
-    ],
+    "audience" : "Intermediate",
     "name" : "AlterNail"
   },
   {
@@ -2150,7 +2148,7 @@
     "year" : "2020",
     "url" : "https://doi.org/10.1145/3313831.3376199",
     "type" : "Accessories",
-    "title" : "Watch+Strap: Extending Smartwatches withInteractive StrapDisplays",
+    "title" : "Watch+Strap: Extending Smartwatches with Interactive Strap Displays",
     "technology" : "Electrophoretic",
     "subtype" : "Watches & Bracelets",
     "published" : "CHI '20",
@@ -2205,5 +2203,77 @@
     "persistence" : "ephemeral",
     "infodensity" : "4",
     "technology" : "LED"
+  },
+  {
+    "name" : "HoloLens",
+    "title" : "HoloLens 2 - A New Vision for Computing",
+    "authors" : [
+      "Microsoft"
+    ],
+    "published" : "Online",
+    "year" : 2015,
+    "url" : "https://www.microsoft.com/en-us/hololens",
+    "placement" : "head",
+    "type" : "Accessories",
+    "subtype" : "Eyewear",
+    "audience" : "Private",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD"
+  },
+  {
+    "name" : "Steel HR",
+    "title" : "Steel HR - Hybrid Smartwatch",
+    "authors" : [
+      "Withings"
+    ],
+    "published" : "Online",
+    "year" : 2017,
+    "url" : "https://www.withings.com/uk/en/steel-hr",
+    "placement" : "wrist",
+    "type" : "Accessories",
+    "subtype" : "Watches & Bracelets",
+    "audience" : ["Public", "Intermediate"],
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "4",
+    "technology" : "OLED"
+  },
+  {
+    "name" : "Flex 2",
+    "title" : "Fitbit Flex 2 Fitness Tracker",
+    "authors" : [
+      "Fitbit"
+    ],
+    "published" : "Online",
+    "year" : 2017,
+    "url" : "https://www.fitbit.com/au/flex2",
+    "placement" : "wrist",
+    "type" : "Accessories",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Intermediate",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED"
+  },
+  {
+    "name" : "Apple Watch",
+    "title" : "Apple Watch",
+    "authors" : [
+      "Apple"
+    ],
+    "published" : "Online",
+    "year" : 2015,
+    "url" : "https://www.apple.com/watch/",
+    "placement" : "wrist",
+    "type" : "Accessories",
+    "subtype" : "Watches & Bracelets",
+    "audience" : ["Public", "Intermediate", "Private"],
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "OLED"
   }
 ]
