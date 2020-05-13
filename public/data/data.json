@@ -2054,7 +2054,7 @@
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "imageURL" : "https://tech.moverio.epson.com/en/bt-30c/images/feature_01.png",
-    "imageSourceTitle": "Epson",
+    "imageSourceTitle" : "Epson",
     "technology" : "LCD"
   },
   {
@@ -2234,7 +2234,10 @@
     "placement" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
-    "audience" : ["Public", "Intermediate"],
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "4",
@@ -2270,10 +2273,196 @@
     "placement" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
-    "audience" : ["Public", "Intermediate", "Private"],
+    "audience" : [
+      "Public",
+      "Intermediate",
+      "Private"
+    ],
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "technology" : "OLED"
+  },
+  {
+    "name" : "AmbiKraf",
+    "title" : "AmbiKraf: An embedded non-emissive and fast changing wearable display",
+    "authors" : [
+      "Roshan Lalintha Peiris",
+      "Adrian David Cheok",
+      "James Keng Soon Teh",
+      "Owen Noel Newton Fernando",
+      "Wen Yingqian",
+      "Andre Lim",
+      "Pan Yi",
+      "Doros Polydorou",
+      "Kian Peng Ong",
+      ""
+    ],
+    "published" : "SIGGRAPH '09 Emerging Technologies",
+    "year" : 2015,
+    "url" : "https://doi.org/10.1145/1597956.1597957",
+    "placement" : "torso",
+    "type" : "Clothing",
+    "subtype" : "Shirts & Tops",
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
+    "refreshrate" : "low",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "Thermochromic"
+  },
+  {
+    "name" : "Always with Me",
+    "title" : "Always with Me: Exploring Wearable Displays as a Lightweight Intimate Communication Channel",
+    "authors" : [
+      "Pradthana Jarusriboonchai",
+      "Hong Li",
+      "Emmi Harjuniemi",
+      "Heiko Müller",
+      "Jonna Häkkilä"
+    ],
+    "published" : "TEI '20",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1145/3374920.3375011",
+    "type" : "Accessories",
+    "audience" : [
+      "Public",
+      "Intermediate"
+    ],
+    "refreshrate" : "low",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "Electrochromic",
+    "placement" : [
+      "torso",
+      "hand"
+    ],
+    "subtype" : [
+      "Chains & Necklaces",
+      "Watches & Bracelets"
+    ]
+  },
+  {
+    "name" : "Bright Ideas",
+    "title" : "Bright ideas: A wearable interactive \"Inventometer\" (brainwave-based idea display)",
+    "authors" : [
+      "Steve Mann",
+      "Ryan E. Janzen",
+      "Hang Wu",
+      "Max Hao Lu",
+      "Nitin Guleria"
+    ],
+    "published" : "GEM '15",
+    "year" : 2015,
+    "url" : "https://doi.org/10.1109/GEM.2015.7377239",
+    "placement" : "head",
+    "type" : "Accessories",
+    "subtype" : "Headwear",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Expressive Wearable Sonification",
+    "title" : "Expressive Wearable Sonification and Visualisation: Design and Evaluation of a Flexible Display",
+    "authors" : [
+      "Kirsty A. Beilharz",
+      "Andrew Vande Moere",
+      "Barbara Stiel",
+      "Claudia Calo",
+      "Martin Tomitsch",
+      "Adrian Lombard"
+    ],
+    "published" : "NIME '10",
+    "year" : 2010,
+    "url" : "http://www.nime.org/proceedings/2010/nime2010_323.pdf",
+    "placement" : "torso",
+    "type" : "Accessories",
+    "subtype" : "Chains & Necklaces",
+    "audiences" : [
+      "Public",
+      "Intermediate"
+    ],
+    "refreshrate" : "low",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "Thermochromic",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Illuminated Ring",
+    "title" : "Illuminated Ring - A Wearable Display to Support Fluid Intake",
+    "authors" : [
+      "Bengt Lüers",
+      "Thomas Crone",
+      "Veronika Strokova",
+      "Jutta Fortmann ",
+      "Susanne Boll",
+      "Wilko Heuten"
+    ],
+    "published" : "Mensch und Computer 2014",
+    "year" : 2014,
+    "url" : "https://dl.gi.de/20.500.12116/7554",
+    "placement" : "hand",
+    "type" : "Accessories",
+    "subtype" : "Rings & Earrings",
+    "audience" : "Intermediate",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED"
+  },
+  {
+    "name" : "LightWatch",
+    "title" : "LightWatch: A Wearable Light Display for Personal Exertion",
+    "authors" : [
+      "Jutta Fortmann",
+      "Janko Timmermann",
+      "Bengt Lüers",
+      "Marius Wybrands",
+      "Wilko Heuten",
+      "Susanne Boll"
+    ],
+    "published" : "INTERACT 2015",
+    "2009" : 2015,
+    "url" : "https://doi.org/10.1145/1597956.1597957",
+    "placement" : "Wrist",
+    "type" : "Accessories",
+    "subtype" : "Watches & Bracelets",
+    "audience" : "Intermediate",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED"
+  },
+  {
+    "name" : "Wearable Wellness",
+    "title" : "Wearable augmented reality display for wellness",
+    "authors" : [
+      "Jonna Häkkilä",
+      "Ashley Colley",
+      "Paula Roinesalo",
+      "Tuomas Lappalainen",
+      "Inka Rantala",
+      "Jani Väyrynen"
+    ],
+    "published" : "PerDis 2017",
+    "year" : 2017,
+    "url" : "https://doi.org/10.1145/3078810.3084348",
+    "placement" : "arm",
+    "type" : "Clothing",
+    "subtype" : "Shirts & Tops",
+    "audience" : [
+      "Private",
+      "Intermediate"
+    ],
+    "refreshrate" : "low",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "technology" : "Thermochromic"
   }
 ]
