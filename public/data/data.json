@@ -2464,5 +2464,27 @@
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "technology" : "Thermochromic"
+  },
+  {
+    "name" : "Baroesque barometric skirt",
+    "title" : "Baroesque barometric skirt",
+    "authors" : [
+      "Rain Ashford"
+    ],
+    "published" : "ISWC ’14 Adjunct",
+    "year" : 2014,
+    "url" : "https://doi.org/10.1145/2641248.2641271",
+    "placement" : "legs",
+    "type" : "Clothing",
+    "subtype" : "Pants & Skirts",
+    "audience" : [
+      "Public"
+    ],
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED",
+    "imageURL" : "https://i2.wp.com/farm9.staticflickr.com/8334/8098016144_6b536120d5.jpg",
+    "imageSourceTitle" : "https://rainycatz.wordpress.com/2012/10/22/baroesque-barometric-skirt/"
   }
 ]
