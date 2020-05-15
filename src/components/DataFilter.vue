@@ -73,6 +73,12 @@
 		'values': ["Public", "Intermediate", "Private"],
 		'filterValues': [],
 		'multipleSelection': true,
+		},
+		{
+		'key': 'infodensity',
+		'values': ["1", "2", "3", "4", "5"],
+		'filterValues': [],
+		'multipleSelection': true,
 		}
 	]; //End WearableFilters
 
