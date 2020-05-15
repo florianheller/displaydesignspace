@@ -1436,7 +1436,7 @@
       "waist"
     ],
     "persistence" : "ephemeral",
-    "infodensity" : "4",
+    "infodensity" : "5",
     "authors" : [
       "Schneegass, Stefan",
       "Ogando, Sophie",
@@ -2367,33 +2367,6 @@
     "audience" : "Public"
   },
   {
-    "name" : "Expressive Wearable Sonification",
-    "title" : "Expressive Wearable Sonification and Visualisation: Design and Evaluation of a Flexible Display",
-    "authors" : [
-      "Kirsty A. Beilharz",
-      "Andrew Vande Moere",
-      "Barbara Stiel",
-      "Claudia Calo",
-      "Martin Tomitsch",
-      "Adrian Lombard"
-    ],
-    "published" : "NIME '10",
-    "year" : 2010,
-    "url" : "http://www.nime.org/proceedings/2010/nime2010_323.pdf",
-    "placement" : "torso",
-    "type" : "Accessories",
-    "subtype" : "Chains & Necklaces",
-    "audiences" : [
-      "Public",
-      "Intermediate"
-    ],
-    "refreshrate" : "low",
-    "persistence" : "ephemeral",
-    "infodensity" : "2",
-    "technology" : "Thermochromic",
-    "audience" : "Public"
-  },
-  {
     "name" : "Illuminated Ring",
     "title" : "Illuminated Ring - A Wearable Display to Support Fluid Intake",
     "authors" : [
@@ -2428,9 +2401,9 @@
       "Susanne Boll"
     ],
     "published" : "INTERACT 2015",
-    "2009" : 2015,
+    "year" : 2015,
     "url" : "https://doi.org/10.1145/1597956.1597957",
-    "placement" : "Wrist",
+    "placement" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Intermediate",
@@ -2486,5 +2459,27 @@
     "technology" : "LED",
     "imageURL" : "https://i2.wp.com/farm9.staticflickr.com/8334/8098016144_6b536120d5.jpg",
     "imageSourceTitle" : "https://rainycatz.wordpress.com/2012/10/22/baroesque-barometric-skirt/"
+  },
+  {
+    "name" : "Interactive Dirt",
+    "title" : "Interactive Dirt: Increasing Mobile Work Performance with a Wearable Projector-Camera System",
+    "authors" : [
+      "Daniel C. McFarlane",
+      "Steven M. Wilder"
+    ],
+    "published" : "Ubicomp 2009",
+    "year" : 2009,
+    "url" : "https://doi.org/10.1145/1620545.1620577",
+    "placement" : "Torso",
+    "type" : "Clothing",
+    "subtype" : "Jackets & Suits",
+    "audience" : [
+      "Public",
+      "Private"
+    ],
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "Projection"
   }
 ]
