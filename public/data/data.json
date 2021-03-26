@@ -2364,7 +2364,7 @@
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "technology" : "LED",
-    "audience" : "Public"
+    "audience" : "Intermediate"
   },
   {
     "name" : "Illuminated Ring",
