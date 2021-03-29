@@ -115,7 +115,9 @@
     "infodensity" : "2",
     "subtype" : "Shirts & Tops",
     "audience" : "Public",
-    "technology" : "Electroluminescent"
+    "technology" : "Electroluminescent",
+    "imageURL" : "https://rxd.architectuur.kuleuven.be/wp-content/uploads/teamawear_1.jpg",
+    "imageSourceTitle" : "KU Leuven"
   },
   {
     "name" : "Turn Signal Biking Jacket",
@@ -133,7 +135,7 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "imageURL" : "https://cdn.instructables.com/FRC/II3V/FHY0I8RW/FRCII3VFHY0I8RW.LARGE.jpg",
+    "imageURL" : "https://content.instructables.com/ORIG/FRC/II3V/FHY0I8RW/FRCII3VFHY0I8RW.jpg\n",
     "imageSourceTitle" : "Instructables",
     "technology" : "LED"
   },
@@ -156,7 +158,7 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "1",
-    "imageURL" : "https://cdn.instructables.com/F7D/I29Q/HTHKFLIK/F7DI29QHTHKFLIK.LARGE.jpg?auto=webp&frame=1&width=899&height=1024&fit=bounds",
+    "imageURL" : "https://content.instructables.com/ORIG/F29/C8XB/HTIWHFHP/F29C8XBHTIWHFHP.jpg",
     "imageSourceTitle" : "AudreyObscura - Instructables",
     "technology" : "LED"
   },
@@ -176,7 +178,7 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "2",
-    "imageURL" : "https://cdn.instructables.com/F36/B945/IWWFOA55/F36B945IWWFOA55.LARGE.jpg?auto=webp&width=1024&fit=bounds",
+    "imageURL" : "https://content.instructables.com/ORIG/F36/B945/IWWFOA55/F36B945IWWFOA55.jpg",
     "imageSourceTitle" : "Instructables",
     "technology" : "LED"
   },
@@ -196,7 +198,9 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "2",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://content.instructables.com/ORIG/FVC/H6LK/JW4TJ4J6/FVCH6LKJW4TJ4J6.png",
+    "imageSourceTitle" : "Instructables"
   },
   {
     "name" : "The North Skirt",
@@ -232,7 +236,7 @@
     "refreshrate" : "medium",
     "persistence" : "persistent",
     "infodensity" : "5",
-    "imageURL" : "https://liber8tech.com/image/featured/normal/caab0cb82ca1ec0592af3cfa2d730028.png",
+    "imageURL" : "https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,f_auto,h_460,w_695/v1424356428/wil2w6b82uwx7nxhurrm.jpg",
     "imageSourceTitle" : "liber8tech",
     "technology" : "Electrophoretic"
   },
@@ -501,7 +505,9 @@
     ],
     "audience" : "Public",
     "name" : "Meme Tags",
-    "technology" : "LCD"
+    "technology" : "LCD",
+    "imageURL" : "https://www.researchgate.net/profile/Mitchel-Resnick/publication/234825587/figure/fig2/AS:299860155748358@1448503640941/Meme-Exchange-Bob-and-Nancy_W640.jpg",
+    "imageSourceTitle" : "researchgate.net"
   },
   {
     "year" : "2013",
@@ -1086,7 +1092,9 @@
     ],
     "audience" : "Public",
     "name" : "Linn Dress",
-    "technology" : "Electrochromic"
+    "technology" : "Electrochromic",
+    "imageURL" : "https://iswc.net/iswc19/images/design/iswcdx_linn_dress.jpg",
+    "imageSourceTitle" : "iswc.net"
   },
   {
     "year" : "2019",
@@ -1109,7 +1117,9 @@
       "Intermediate"
     ],
     "name" : "VitaBoot",
-    "technology" : "Electrochromic"
+    "technology" : "Electrochromic",
+    "imageURL" : "https://iswc.net/iswc19/images/design/iswcdx_vitaboot.jpg",
+    "imageSourceTitle" : "iswc.net"
   },
   {
     "year" : "2017",
@@ -1222,7 +1232,9 @@
     ],
     "audience" : "Public",
     "name" : "Wearable Aura",
-    "technology" : "Projection"
+    "technology" : "Projection",
+    "imageURL" : "https://www.researchgate.net/profile/Dingding-Zheng/publication/324673498/figure/fig5/AS:617694000861190@1524281134257/Interaction-during-Keio-Grad-School-Forum-in-November-2017_W640.jpg\n",
+    "imageSourceTitle" : "researchgate.net"
   },
   {
     "year" : "2012",
@@ -2334,6 +2346,7 @@
     "refreshrate" : "low",
     "persistence" : "ephemeral",
     "infodensity" : "2",
+    "imageURL" : "https://dl.acm.org/cms/asset/226da764-9b1b-47b7-9010-2511a8003437/3374920.3375011.key.jpg",
     "technology" : "Electrochromic",
     "placement" : [
       "torso",
@@ -2402,7 +2415,7 @@
     ],
     "published" : "INTERACT 2015",
     "year" : 2015,
-    "url" : "https://doi.org/10.1145/1597956.1597957",
+    "url" : "https://doi.org/10.1007/978-3-319-22723-8_66",
     "placement" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
