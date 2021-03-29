@@ -34,11 +34,11 @@
 			</tr>
 			<tr>
 				<td class="detail">Type</td>
-				<td>{{item.type}}</td>
+				<td>{{item.type.toString() | capitalize}}</td>
 			</tr>
 			<tr>
 				<td class="detail">Subtype</td>
-				<td>{{item.subtype}}</td>
+				<td>{{item.subtype.toString() | capitalize}}</td>
 			</tr>
 			<tr>
 				<td class="detail">Audience</td>
