@@ -138,14 +138,26 @@
 
 			this.$root.$on('body-area-selected', (a) => {
 				// Get the ID of the area filter
-				let filter = this.filters.find(element => element.key == 'placement');
-				let area = a;
-				if (area == "left-arm" || area == "right-arm") {
+				let filter = this.filters.find(element => element.key == 'placement');	//  Just make sure we only filter stuff that we know how to handle
+				let area = a; // a is immutable
+				if (area == "left-arm" || area == "right-arm") { // Arms have to be consolidated
 					area = "arm"
 				}
 				if (filter) {
-					filter['filterValues'].push(area);
-					this.activeFilters.push(this.filters.indexOf(filter));
+					// We want to toggle the filtervalues just as with the controls from this component
+					let i = filter['filterValues'].indexOf(area);
+					if (i>0) {
+						filter['filterValues'].splice(i, 1);
+					}
+					// If we remove the last element, deactivate the filter alltogether
+					else if (i==0) {
+						filter['filterValues'].splice(i, 1);
+						this.activeFilters.splice(this.filters.indexOf(filter), 1);
+					}
+					else {
+						filter['filterValues'].push(area);
+						this.activeFilters.push(this.filters.indexOf(filter));
+					}
 				}
 			});
 
