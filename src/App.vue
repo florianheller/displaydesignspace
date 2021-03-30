@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <BodyMap v-on:body-area-selected="onBodyAreaSelected($event)"></BodyMap>
-    <DataFilter></DataFilter>
+    <BodyMap v-on:body-area-selected="onBodyAreaSelected($event)" :filteredData="filteredData"></BodyMap>
+    <DataFilter v-model="filteredData"></DataFilter>
     <ItemDisplay></ItemDisplay>
   </div>
 </template>
@@ -18,6 +18,11 @@
       BodyMap: BodyMap,
       DataFilter: DataFilter,
       ItemDisplay: ItemDisplay
+    },
+    data: function()  {
+      return {
+        filteredData: []
+      }
     }
   };
 </script>

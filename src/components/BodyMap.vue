@@ -13,7 +13,7 @@
 							:id="item.name"
 							v-on:click="$root.$emit('did-select-item',item)"
 							class="bodyItemSelector"
-							:class="{selected: isSelected('body'), selectedItem: isSelectedItem(item.name)}"
+							:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 						/>
 				</g>
 				<g id="Head-Group" serif:id="Head Group" v-bind:class="{ selected: dataFilter.filterValues.includes('head')}">
@@ -28,7 +28,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('head'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Torso-Group" serif:id="Torso Group" v-bind:class="{ selected: dataFilter.filterValues.includes('torso')}">
@@ -43,7 +43,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: dataFilter.filterValues.includes('torso'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Right-Arm-Group" serif:id="Right Arm Group" v-bind:class="{ selected: dataFilter.filterValues.includes('arm')}">
@@ -59,7 +59,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('right-arm'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 					<circle 
 						v-for="(item, index) in dataForBodyArea('wrist')"
@@ -71,7 +71,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('right-arm'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 					<circle 
 						v-for="(item, index) in dataForBodyArea('hand')"
@@ -83,7 +83,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('right-arm'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Left-Arm-Group" serif:id="Left Arm Group"  v-bind:class="{ selected: dataFilter.filterValues.includes('arm')}">
@@ -105,7 +105,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('waist'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Leg-Group" serif:id="Leg Group" v-on:click="changeBodySelection('legs')" v-bind:class="{ selected: dataFilter.filterValues.includes('legs')}" >
@@ -123,7 +123,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('legs'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<g id="Feet-Group" serif:id="Feet Group" v-on:click="changeBodySelection('foot')" v-bind:class="{ selected: dataFilter.filterValues.includes('foot')}" >
@@ -141,7 +141,7 @@
 						:id="item.name"
 						v-on:click="$root.$emit('did-select-item',item)"
 						class="bodyItemSelector"
-						:class="{selected: isSelected('foot'), selectedItem: isSelectedItem(item.name)}"
+						:class="{selected: filteredData.find(({name}) => name === item.name) != undefined, selectedItem: isSelectedItem(item.name)}"
 					/>
 				</g>
 				<path id="wrist-path" ref="wrist" d="M549.55,623.821C551.018,623.424 550.532,612.551 552.938,611.412C555.804,610.055 553.994,628.381 557.633,627.723C559.146,627.449 558.525,609.686 560.804,607.521C562.772,605.651 564.282,631.161 567.596,630.122C568.987,629.686 566.02,606.617 567.596,604.193C568.951,602.111 575.232,628.09 577.417,627.723C578.787,627.493 570.323,600.401 572.363,604.193C579.388,617.251 584.373,623.12 579.05,607.521" class="positioning"/>
@@ -160,6 +160,7 @@
 <script>
 module.exports = {
 	name: "BodyMap",
+	props: ["filteredData"],
 	data: function() {
 		return {
 			selected: '',
@@ -246,11 +247,12 @@ module.exports = {
 	}
 
 	circle.bodyItemSelector {
-		fill: #A9CE38;
-		stroke: #384c6c;
+		stroke: #E1E4E9;
+		fill: #384c6c;
 	}
 	circle.selected {
-		stroke: #EB1B65;
+		fill: #A9CE38;
+		stroke: #384c6c;;
 	}
 
 	circle.selectedItem {

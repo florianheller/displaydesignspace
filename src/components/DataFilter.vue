@@ -162,6 +162,14 @@
 			});
 
 		},
+		watch: {
+			filteredData: {
+				handler: function (value) {
+					this.$emit("input", value);
+				},
+				immediate: true
+			}
+		},
 		methods: {
 			subFiltersForFilter(filter) {
 				return subFilters.filter( f => f.parent == filter.key && filter.filterValues.length > 0 && f.parentValue == filter.filterValues)
