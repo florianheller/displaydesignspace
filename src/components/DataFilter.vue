@@ -79,6 +79,24 @@
 		'values': ["1", "2", "3", "4", "5"],
 		'filterValues': [],
 		'multipleSelection': true,
+		},
+		{
+		'key': 'refreshrate',
+		'values': ["low", "medium", "high"],
+		'filterValues': [],
+		'multipleSelection': true,
+		},
+		{
+		'key': 'persistence',
+		'values': ["ephemeral", "persistent"],
+		'filterValues': [],
+		'multipleSelection': true,
+		},
+		{
+		'key': 'technology', 
+		'values': ["LCD", "Projection", "LED", "Electrophoretic", "Electroluminescent", "Biochemical", "Electrochromic", "OLED", "Thermochromic", "CRT"],
+		'filterValues': [],
+		'multipleSelection': true,
 		}
 	]; //End WearableFilters
 
