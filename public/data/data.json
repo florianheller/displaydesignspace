@@ -36,7 +36,7 @@
     "subtype" : "Hair",
     "audience" : "Public",
     "infodensity" : "1",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "persistence" : "ephemeral",
     "imageURL" : "https://dl.acm.org/cms/attachment/a9887e63-5fcd-44cd-9803-181d0dba331d/3173225.3173232.key.jpg",
     "technology" : "Thermochromic"
@@ -998,7 +998,7 @@
     ],
     "published" : "CHI EA '05",
     "refreshrate" : [
-      "slow",
+      "low",
       "high"
     ],
     "placement" : [
@@ -1047,7 +1047,7 @@
     "subtype" : "Headwear",
     "published" : "UbiComp/ISWC '19 Adjunct",
     "refreshrate" : [
-      "slow",
+      "low",
       "high"
     ],
     "placement" : "head",
@@ -1128,7 +1128,7 @@
     "title" : "EarthTones: Chemical Sensing Powders to Detect and Display Environmental Hazards Through Color Variation",
     "subtype" : "Skin",
     "published" : "CHI EA '17",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : "body",
     "persistence" : "persistent",
     "infodensity" : "2",
@@ -1396,7 +1396,6 @@
     "title" : "Breaking of the Dawn Jacket: Light in the Arctic Winter",
     "subtype" : "Jackets & Suits",
     "published" : "ISWC '17",
-    "refreshrate" : "slow, high",
     "placement" : [
       "torso",
       "waist"
@@ -1414,6 +1413,10 @@
     "technology" : [
       "LED",
       "Thermochromic"
+    ],
+    "refreshrate" : [
+      "low",
+      "high"
     ]
   },
   {
@@ -1465,7 +1468,7 @@
     "title" : "HeartMe: Thermochromic Display As An Expression of Heart Health",
     "subtype" : "Dresses",
     "published" : "DIS '18 Companion",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : [
       "torso",
       "waist"
@@ -1531,7 +1534,7 @@
     "title" : "The Dermal Abyss: Interfacing with the Skin by Tattooing Biosensors",
     "subtype" : "Skin",
     "published" : "ISWC '17",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : "body",
     "persistence" : "persistent",
     "infodensity" : "2",
@@ -1590,7 +1593,7 @@
     "title" : "Mosaic Textile: Wearable Ambient Display with Non-emissive Color-changing Modules",
     "subtype" : "Pants & Skirts, Shirts & Tops",
     "published" : "ACE '06",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : [
       "torso",
       "legs"
@@ -1797,7 +1800,6 @@
     "url" : "https://doi.org/10.1145/2559206.2581155",
     "type" : "Clothing",
     "title" : "Suit up! Enabling Eyes-Free Interactions on Jacket Buttons",
-    "technology" : "LED, LCD",
     "subtype" : "Notions",
     "published" : "CHI EA '14",
     "refreshrate" : "high",
@@ -1810,7 +1812,11 @@
     ],
     "audience" : "Public",
     "name" : "Suit up!",
-    "imageURL" : "https://dl.acm.org/cms/attachment/6c274a7b-051d-4691-9466-634410dbc4d7/2559206.2581155.key.jpg"
+    "imageURL" : "https://dl.acm.org/cms/attachment/6c274a7b-051d-4691-9466-634410dbc4d7/2559206.2581155.key.jpg",
+    "technology" : [
+      "LED",
+      "LCD"
+    ]
   },
   {
     "year" : "2015",
@@ -1841,7 +1847,7 @@
     "technology" : "Thermochromic",
     "subtype" : "Face & Neck",
     "published" : "CHI EA '16",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
@@ -1907,7 +1913,7 @@
     "technology" : "Thermochromic",
     "subtype" : "Skin",
     "published" : "ISWC '16",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
@@ -1931,7 +1937,7 @@
     "url" : "https://doi.org/10.1145/2984511.2984521",
     "type" : "Skin & Body",
     "title" : "Stretchis: Fabricating Highly Stretchable User Interfaces",
-    "technology" : "Electroluminescent ",
+    "technology" : "Electroluminescent",
     "subtype" : "Skin",
     "published" : "UIST '16",
     "refreshrate" : "high",
@@ -2005,7 +2011,7 @@
     "technology" : "Thermochromic",
     "subtype" : "Skin",
     "published" : "DIS '17",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
@@ -2118,7 +2124,7 @@
     "type" : "Skin & Body",
     "subtype" : "Hair",
     "audience" : "Public",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "imageURL" : "http://seetheunseen.co.uk/assets/_medium/theunseen_fire_hair.jpg",
@@ -2132,7 +2138,7 @@
     "technology" : "Thermochromic",
     "subtype" : "",
     "published" : "CHI '16",
-    "refreshrate" : "slow",
+    "refreshrate" : "low",
     "placement" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
