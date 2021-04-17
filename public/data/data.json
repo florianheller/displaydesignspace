@@ -2259,7 +2259,8 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "4",
-    "technology" : "OLED"
+    "technology" : "OLED",
+    "imageURL" : "https://image-cache.withings.com/pages/products/steel-hr/media/models/steel-hr-hero.jpg"
   },
   {
     "name" : "Flex 2",
@@ -2500,5 +2501,339 @@
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "technology" : "Projection"
+  },
+  {
+    "name" : "TagURit",
+    "title" : "TagURit: a proximity-based game of tag using lumalive e-textile displays",
+    "authors" : [
+      "Sylvia H. Cheng",
+      "Kibum Kim",
+      "Roel Vertegaal"
+    ],
+    "published" : "CHI EA '11",
+    "year" : 2011,
+    "url" : "https://doi.org/10.1145/1979742.1979707",
+    "placement" : "Torso",
+    "type" : "Clothing",
+    "subtype" : "Shirts & Tops",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "technology" : "LED",
+    "audience" : "Public",
+    "imageURL" : "https://dl.acm.org/cms/asset/8020fa37-c36e-4f42-ae93-db4da5cd2bd4/1979742.1979707.key.jpg"
+  },
+  {
+    "name" : "Snaplet",
+    "title" : "Snaplet: Using Body Shape to Inform Function in Mobile Flexible Display Devices",
+    "authors" : [
+      "Aneesh P. Tarun ",
+      "Byron Lahey",
+      "Audrey Girouard",
+      "Winslow Burleson",
+      "Roel Vertegaal"
+    ],
+    "published" : "CHI EA '11",
+    "year" : 2011,
+    "url" : "http://doi.acm.org/10.1145/1979742.1979701",
+    "placement" : "Arm",
+    "type" : "Accessoires",
+    "subtype" : "Belts & Straps",
+    "refreshrate" : "medium",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "technology" : "Electrophoretic",
+    "audience" : [
+      "Public",
+      "Private",
+      "Intermediate"
+    ],
+    "imageURL" : "https://dl.acm.org/cms/asset/097a80a1-0355-4bb1-b53d-2a3983189947/1979742.1979701.key.jpg"
+  },
+  {
+    "name" : "Put That Needle There",
+    "title" : "Put That Needle There: Customized Flexible On-Body Thin-Film Displays for Medical Navigation",
+    "authors" : [
+      "Marc Herrlich",
+      "Anke V. Reinschluessel",
+      "Markus Willems",
+      "Nils Langhorst",
+      "David Black",
+      "Tanja Döring",
+      "Christian Rieder",
+      "Ron Kikinis",
+      "Rainer Malaka"
+    ],
+    "published" : "ACM Trans. Comput. Heal.",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1145/3386307",
+    "placement" : "Body",
+    "type" : "Skin & Body",
+    "subtype" : "Skin",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "Electroluminescent",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Portalware",
+    "title" : "Portalware: A Smartphone-Wearable Dual-Display System for Expanding the Free-Hand Interaction Region in Augmented Reality",
+    "authors" : [
+      "Jing Qian",
+      "Meredith Young-Ng",
+      "Xiangyu Li",
+      "Angel Cheung",
+      "Fumeng Yang",
+      "Jeff Huang"
+    ],
+    "published" : "CHI EA '20",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1145/3334480.3383079",
+    "placement" : "Wrist",
+    "type" : "Accessories",
+    "subtype" : "Watches & Bracelets",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD",
+    "audience" : "Intermediate",
+    "imageURL" : "https://dl.acm.org/cms/asset/52290120-fd98-44a8-96c5-214c50ab7bff/3334480.3383079.key.jpg"
+  },
+  {
+    "name" : "EGD 3.0",
+    "title" : "Optical see-through wearable display for close range interaction",
+    "authors" : [
+      "Ungyeon Yang",
+      "Ki{-}Hong Kim"
+    ],
+    "published" : "ICCE '15",
+    "year" : 2015,
+    "url" : "https://doi.org/10.1109/ICCE.2015.7066343",
+    "placement" : "Head",
+    "type" : "Accessories",
+    "subtype" : "Eyewear",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD",
+    "audience" : "Private"
+  },
+  {
+    "name" : "MAScreen",
+    "title" : "MAScreen: Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display",
+    "authors" : [
+      "Hyein Lee",
+      "Yoonji Kim",
+      "Andrea Bianchi"
+    ],
+    "published" : "SIGGRAPH Asia 2020 Emerging Technologies",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1145/3415255.3422886",
+    "placement" : "Head",
+    "type" : "Accessories",
+    "subtype" : "Chains & Necklaces",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "technology" : "LED",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Lumahelm",
+    "title" : "Interaction Opportunities Around Helmet Design ",
+    "authors" : [
+      "Wouter Walmink",
+      "Alan Chatham",
+      "Florian Mueller"
+    ],
+    "published" : "CHI EA '14",
+    "year" : 2014,
+    "url" : "http://doi.acm.org/10.1145/2559206.2574803",
+    "placement" : "Head",
+    "type" : "Accessories",
+    "subtype" : "Headwear",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "3",
+    "technology" : "LED",
+    "audience" : "Public",
+    "imageURL" : "https://dl.acm.org/cms/asset/2e5caf34-f15d-44b6-a507-4bcaffd2fc0b/2559206.2574803.key.jpg"
+  },
+  {
+    "name" : "Fluxa",
+    "title" : "Fluxa: Body Movements As a Social Display",
+    "authors" : [
+      "Xin Liu",
+      "Katia Vega",
+      "Jing Qian",
+      "Joseph Paradiso",
+      "Pattie Maes"
+    ],
+    "published" : "UIST '16 Adjunct",
+    "year" : 2016,
+    "url" : "http://doi.acm.org/10.1145/2984751.2985741",
+    "placement" : "Head",
+    "type" : "Accessories",
+    "subtype" : "Belts & Straps",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "4",
+    "technology" : "LED",
+    "audience" : "Public",
+    "imageURL" : "https://dl.acm.org/cms/asset/15402a6e-9734-49ab-a6d8-b2a847305abf/2984751.2985741.key.jpg"
+  },
+  {
+    "name" : "Public Wellness",
+    "title" : "Exploring public wearable display of wellness tracker data",
+    "authors" : [
+      "Ashley Colley",
+      "Bastian Pfleging",
+      "Florian Alt",
+      "Martin Reinoso"
+    ],
+    "published" : "Int. J. Hum. Comput. Stud.",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1016/j.ijhcs.2020.102408",
+    "placement" : "Head",
+    "type" : "Accesories",
+    "subtype" : "Headwear",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD",
+    "audience" : "Public",
+    "imageURL" : "https://ars.els-cdn.com/content/image/1-s2.0-S1071581920300136-gr1.jpg"
+  },
+  {
+    "name" : "Body as Canvas",
+    "title" : "Body as a Canvas: An Exploration on the Role of the Body as Display of Digital Information",
+    "authors" : [
+      "Thuong N. Hoang",
+      "Hasan Shahid Ferdous",
+      "Frank Vetere",
+      "Martin Reinoso"
+    ],
+    "published" : "DIS '18",
+    "year" : 2018,
+    "url" : "https://doi.org/10.1145/3196709.3196724",
+    "placement" : "Body",
+    "type" : "Skin & Body",
+    "subtype" : "Skin",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "Projection",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Biosignal as Social Cues",
+    "title" : "Biosignals as Social Cues: Ambiguity and Emotional Interpretation in Social Displays of Skin Conductance",
+    "authors" : [
+      "Noura Howell",
+      "Laura Devendorf",
+      "Rundong Kevin Tian",
+      "Tomàs Vega Galvez",
+      "Nan-Wei Gong",
+      "Ivan Poupyrev",
+      "Eric Paulos",
+      "Kimiko Ryokai"
+    ],
+    "published" : "DIS '16",
+    "year" : 2016,
+    "url" : "https://doi.org/10.1145/2901790.2901850",
+    "placement" : "Torso",
+    "type" : "Clothing",
+    "subtype" : "Shirts & Tops",
+    "refreshrate" : "low",
+    "persistence" : "ephemeral",
+    "infodensity" : "1",
+    "technology" : "Thermochromic",
+    "audience" : "Public"
+  },
+  {
+    "name" : "Backhand Display",
+    "title" : "Backhand Display: A Wearable Device for the Back of the Hand",
+    "authors" : [
+      "Hiroyuki Manabe",
+      "Yuki Iwai"
+    ],
+    "published" : "ISS '20",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1145/3380867.3426200",
+    "placement" : "Hand",
+    "type" : "Accessories",
+    "subtype" : "Straps & Belts",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD",
+    "audience" : [
+      "Intermediate",
+      "Private"
+    ],
+    "imageURL" : "https://dl.acm.org/cms/asset/1fe3ce3a-cdac-4946-9cea-54045a9e61ab/3380867.3426200.key.jpg"
+  },
+  {
+    "name" : "AAR",
+    "title" : "AAR: Augmenting a Wearable Augmented Reality Display with an Actuated Head-Mounted Projector",
+    "authors" : [
+      "Jeremy Hartmann",
+      "Yen-Ting Yeh",
+      "Daniel Vogel"
+    ],
+    "published" : "UIST '20",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1145/3379337.3415849",
+    "placement" : "Head",
+    "type" : "Accessories",
+    "subtype" : "Headwear",
+    "audience" : "Public",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "Projection"
+  },
+  {
+    "name" : "Optick",
+    "title" : "Optick - A Low Cost Wearable Head up Display for Search and Rescue Operations",
+    "authors" : [
+      "Adhesh Shenoy",
+      "Mahathi Amencherla",
+      "Rahul Nagaraj",
+      "T. S. Chandar"
+    ],
+    "published" : "ICCCNT '20",
+    "year" : 2020,
+    "url" : "https://doi.org/10.1109/ICCCNT49239.2020.9225266",
+    "placement" : "Head",
+    "type" : "Accessories",
+    "subtype" : "Eyewear",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "5",
+    "technology" : "LCD",
+    "audience" : "Private"
+  },
+  {
+    "name" : "MAKE IT BLUE",
+    "title" : "MAKE IT BLUE: a controllable, color-changing dynamic costume",
+    "authors" : [
+      "Adhesh Shenoy",
+      "Mahathi Amencherla",
+      "Rahul Nagaraj",
+      "T. S. Chandar"
+    ],
+    "published" : "ISWC '18",
+    "year" : 2018,
+    "url" : "https://doi.org/10.1145/3267242.3267304",
+    "placement" : "Torso",
+    "type" : "Clothing",
+    "subtype" : "Dresses",
+    "refreshrate" : "high",
+    "persistence" : "ephemeral",
+    "infodensity" : "2",
+    "technology" : "LED",
+    "audience" : "Public"
   }
 ]
