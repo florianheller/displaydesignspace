@@ -113,7 +113,7 @@
 		'parent': 'type',
 		'parentValue': 'Clothing',
 		'key': 'subtype',
-		'values': ["Shirts & Tops", "Jackets & Suits", "Notions", "Pants & Skirts", "Dresses"],
+		'values': ["Shirts & Tops", "Jackets & Suits", "Notions", "Pants & Skirts", "Dresses", "Underwear"],
 		'filterValues': [],
 		'multipleSelection': false
 	},
