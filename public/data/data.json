@@ -8,7 +8,7 @@
     "published" : "Online",
     "year" : 2018,
     "url" : "https://www.bynorth.com/focals",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "audience" : "Private",
@@ -30,7 +30,7 @@
     "published" : "TEI '18",
     "year" : 2018,
     "url" : "http://doi.acm.org/10.1145/3173225.3173232",
-    "placement" : "head",
+    "location" : "head",
     "subplacement" : "hair",
     "type" : "Skin & Body",
     "subtype" : "Hair",
@@ -50,7 +50,7 @@
     "published" : "AFIPS '68 (Fall, part I)",
     "year" : 1968,
     "url" : "http://doi.acm.org/10.1145/1476589.1476686",
-    "placement" : "head",
+    "location" : "head",
     "subplacement" : "eye",
     "type" : "Accessories",
     "subtype" : "Eyewear",
@@ -69,7 +69,7 @@
     "published" : "CARPE '04",
     "year" : 2004,
     "url" : "http://doi.acm.org/10.1145/1026653.1026654",
-    "placement" : "head",
+    "location" : "head",
     "subplacement" : "eye",
     "type" : "Accessories",
     "subtype" : "Eyewear",
@@ -88,7 +88,7 @@
     "published" : "Pers. & Ubiqu. Comp. Vol. 10 (2-3)",
     "year" : 2006,
     "url" : "http://dx.doi.org/10.1007/s00779-005-0015-x",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Public",
@@ -108,7 +108,7 @@
     "published" : "Pervasive Computing",
     "year" : 2007,
     "url" : "http://dx.doi.org/10.1007/978-3-540-72037-9_6",
-    "placement" : "torso",
+    "location" : "torso",
     "type" : "Clothing",
     "refreshrate" : "high",
     "persistence" : "ephemeral",
@@ -128,7 +128,7 @@
     "published" : "Instructables",
     "year" : 2008,
     "url" : "https://www.instructables.com/id/turn-signal-biking-jacket/",
-    "placement" : "torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Shirts & Tops",
     "audience" : "Public",
@@ -148,7 +148,7 @@
     "published" : "Instructables",
     "year" : 2015,
     "url" : "https://www.instructables.com/id/Fiber-Optic-Dress/",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -171,7 +171,7 @@
     "published" : "Instructables",
     "year" : 2016,
     "url" : "https://www.instructables.com/id/TfCD-Wearable-Noise-Display/",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Intermediate",
@@ -191,7 +191,7 @@
     "published" : "Instructables",
     "year" : 2019,
     "url" : "https://www.instructables.com/id/EqualAir-Wearable-NeoPixel-Display-Triggered-by-Ai/",
-    "placement" : "Torso",
+    "location" : "Torso",
     "type" : "Clothing",
     "subtype" : "Shirts & Tops",
     "audience" : "Intermediate",
@@ -211,7 +211,7 @@
     "published" : "Online",
     "year" : 2010,
     "url" : "http://steampunkworkshop.com/north-skirt/",
-    "placement" : "legs",
+    "location" : "legs",
     "type" : "Clothing",
     "subtype" : "Pants & Skirts",
     "audience" : "Public",
@@ -229,7 +229,7 @@
     "published" : "Online",
     "year" : 2018,
     "url" : "https://www.liber8tech.com/tago-arc",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Public",
@@ -247,7 +247,7 @@
     "published" : "Online",
     "year" : 2019,
     "url" : "https://www.formswim.com/",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "audience" : "Private",
@@ -267,7 +267,7 @@
     "published" : "Online",
     "year" : 2017,
     "url" : "https://eunkyungshin.myportfolio.com/enhanced-interface",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "audience" : "Public",
     "subtype" : "Headwear",
@@ -288,7 +288,7 @@
     "published" : "Online",
     "year" : 2015,
     "url" : "http://etextile-summercamp.org/swatch-exchange/1-bit-textile/",
-    "placement" : "body",
+    "location" : "body",
     "type" : "Clothing",
     "subtype" : "",
     "audience" : "Public",
@@ -306,7 +306,7 @@
     "published" : "Online",
     "year" : 2010,
     "url" : "https://x.company/glass/",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "audience" : "Private",
@@ -330,7 +330,7 @@
     "published" : "CHI '13",
     "year" : 2013,
     "url" : "http://doi.acm.org/10.1145/2470654.2466193",
-    "placement" : "hand",
+    "location" : "hand",
     "type" : "Skin & Body",
     "subtype" : "Hands & Fingers",
     "audience" : "Public",
@@ -356,7 +356,7 @@
     "published" : "UIST '14",
     "year" : 2014,
     "url" : "http://doi.acm.org/10.1145/2642918.2647361",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "audience" : "Private",
@@ -372,7 +372,7 @@
     "title" : "Cicret Bracelet",
     "published" : "Online",
     "url" : "https://www.cicret.com",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Private",
@@ -387,7 +387,7 @@
     "title" : "Zebra WT6000 Wearable Computer",
     "published" : "Online",
     "url" : "https://www.zebra.com/us/en/products/mobile-computers/wearable-computers/wt6000.html",
-    "placement" : "arm",
+    "location" : "arm",
     "type" : "Accessories",
     "subtype" : "Straps & Belts",
     "audience" : [
@@ -407,7 +407,7 @@
     "published" : "Online",
     "url" : "https://lumoshelmet.co",
     "name" : "Lumos",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Headwear",
     "audience" : "Public",
@@ -423,7 +423,7 @@
     "published" : "Online",
     "url" : "http://www.brakefreetech.com",
     "name" : "BrakeFree",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Headwear",
     "audience" : "Public",
@@ -439,7 +439,7 @@
     "published" : "Online",
     "url" : "https://www.shiftwear.com",
     "name" : "ShiftWear",
-    "placement" : "foot",
+    "location" : "foot",
     "type" : "Accessories",
     "subtype" : "Shoes",
     "audience" : "Public",
@@ -458,7 +458,7 @@
       "Bianca Cheng Costanzo"
     ],
     "name" : "MAREA",
-    "placement" : "torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Jackets & Suits",
     "audience" : "Public",
@@ -474,7 +474,7 @@
     "title" : "Ringly - Smart jewelry that keeps you active, mindful, and in the moment.",
     "url" : "https://ringly.com",
     "name" : "Ringly",
-    "placement" : "hand",
+    "location" : "hand",
     "type" : "Accessories",
     "subtype" : "Rings & Earrings",
     "audience" : "Intermediate",
@@ -492,7 +492,7 @@
     "subtype" : "Chains & Necklaces",
     "published" : "CSCW '98",
     "refreshrate" : "high",
-    "placement" : "torso",
+    "location" : "torso",
     "persistence" : "ephemeral",
     "infodensity" : "4",
     "authors" : [
@@ -517,7 +517,7 @@
     "subtype" : "Straps & Belts",
     "published" : "CHI '13",
     "refreshrate" : "high",
-    "placement" : "legs",
+    "location" : "legs",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -539,7 +539,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "CHI '06",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -559,7 +559,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "CHI EA '12",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -579,7 +579,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "TEI '15",
     "refreshrate" : "medium",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "persistent",
     "infodensity" : "5",
     "authors" : [
@@ -599,7 +599,7 @@
     "subtype" : "Eyewear",
     "published" : "NordiCHI '18",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -621,7 +621,7 @@
     "subtype" : "Bags",
     "published" : "AH '16",
     "refreshrate" : "high",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -643,7 +643,7 @@
     "subtype" : "Shoes",
     "published" : "NordiCHI '18",
     "refreshrate" : "high",
-    "placement" : "foot",
+    "location" : "foot",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -664,7 +664,7 @@
     "subtype" : "Eyewear",
     "published" : "MobileHCI '06",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -686,7 +686,7 @@
     "subtype" : "Straps & Belts",
     "published" : "MobileHCI '15",
     "refreshrate" : "high",
-    "placement" : [
+    "location" : [
       "arm",
       "torso"
     ],
@@ -711,7 +711,7 @@
     "subtype" : "Shoes, Shirts & Tops, Headwear",
     "published" : "CHI '18",
     "refreshrate" : "medium",
-    "placement" : "foot, torso, head",
+    "location" : "foot, torso, head",
     "persistence" : "persistent",
     "infodensity" : "5",
     "authors" : [
@@ -731,7 +731,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "OZCHI '08",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -753,7 +753,7 @@
     "subtype" : "Brooches",
     "published" : "CHI EA '99",
     "refreshrate" : "high",
-    "placement" : "torso",
+    "location" : "torso",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -772,7 +772,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "UbiComp '13 Adjunct",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -793,7 +793,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "NordiCHI '14",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -814,7 +814,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "MUM '14",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -835,7 +835,7 @@
     "subtype" : "Straps & Belts",
     "published" : "CHI EA '19",
     "refreshrate" : "high",
-    "placement" : "arm",
+    "location" : "arm",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -858,7 +858,7 @@
     "subtype" : "Headwear",
     "published" : "CHI '16",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -883,7 +883,7 @@
     "subtype" : "Jackets & Suits",
     "published" : "iWOAR '15",
     "refreshrate" : "high",
-    "placement" : "torso, arm",
+    "location" : "torso, arm",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -906,7 +906,7 @@
     "subtype" : "Pants & Skirts",
     "published" : "UbiComp '18",
     "refreshrate" : "high",
-    "placement" : "legs",
+    "location" : "legs",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -930,7 +930,7 @@
     "subtype" : "Shirts & Tops",
     "published" : "ISWC '18",
     "refreshrate" : "high",
-    "placement" : "torso",
+    "location" : "torso",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -953,7 +953,7 @@
     "subtype" : "Headwear",
     "published" : "TEI '17",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -973,7 +973,7 @@
     "subtype" : "Pants & Skirts",
     "published" : "SIGGRAPH '04",
     "refreshrate" : "high",
-    "placement" : "legs",
+    "location" : "legs",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -1001,7 +1001,7 @@
       "low",
       "high"
     ],
-    "placement" : [
+    "location" : [
       "head",
       "torso"
     ],
@@ -1026,7 +1026,7 @@
     "subtype" : "Chains & Necklaces",
     "published" : "CHI EA '15",
     "refreshrate" : "high",
-    "placement" : "torso",
+    "location" : "torso",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1050,7 +1050,7 @@
       "low",
       "high"
     ],
-    "placement" : "head",
+    "location" : "head",
     "persistence" : [
       "persistent",
       "ephemeral"
@@ -1077,7 +1077,7 @@
     "subtype" : "Dresses",
     "published" : "ISWC '19",
     "refreshrate" : "medium",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -1104,7 +1104,7 @@
     "subtype" : "Shoes",
     "published" : "ISWC '19",
     "refreshrate" : "medium",
-    "placement" : "foot",
+    "location" : "foot",
     "persistence" : "persistent",
     "infodensity" : "1",
     "authors" : [
@@ -1129,7 +1129,7 @@
     "subtype" : "Skin",
     "published" : "CHI EA '17",
     "refreshrate" : "low",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "persistent",
     "infodensity" : "2",
     "authors" : [
@@ -1151,7 +1151,7 @@
     "subtype" : "Dresses",
     "published" : "TEI '18",
     "refreshrate" : "high",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1175,7 +1175,7 @@
     "subtype" : "Bags",
     "published" : "CHI EA '11",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1195,7 +1195,7 @@
     "subtype" : "Skin",
     "published" : "DIS '16",
     "refreshrate" : "high",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -1222,7 +1222,7 @@
     "subtype" : "Shoes",
     "published" : "CHI EA '18",
     "refreshrate" : "high",
-    "placement" : "foot",
+    "location" : "foot",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1244,7 +1244,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "UIST '12",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1272,7 +1272,7 @@
       "medium",
       "high"
     ],
-    "placement" : "waist",
+    "location" : "waist",
     "persistence" : [
       "persistent",
       "ephemeral"
@@ -1301,7 +1301,7 @@
     "subtype" : "Chains & Necklaces",
     "published" : "AH '15",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -1325,7 +1325,7 @@
     "subtype" : "Straps & Belts",
     "published" : "AH '13",
     "refreshrate" : "high",
-    "placement" : "arm",
+    "location" : "arm",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1349,7 +1349,7 @@
     "subtype" : "Eyewear",
     "published" : "ISWC '18",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "3",
     "authors" : [
@@ -1371,7 +1371,7 @@
     "subtype" : "Shirts & Tops",
     "published" : "UbiComp '16",
     "refreshrate" : "medium",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -1396,7 +1396,7 @@
     "title" : "Breaking of the Dawn Jacket: Light in the Arctic Winter",
     "subtype" : "Jackets & Suits",
     "published" : "ISWC '17",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -1427,7 +1427,7 @@
     "subtype" : "Headwear",
     "published" : "VRIC '13",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1446,7 +1446,7 @@
     "subtype" : "Shirts & Tops",
     "published" : "PerDis '16",
     "refreshrate" : "high",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -1469,7 +1469,7 @@
     "subtype" : "Dresses",
     "published" : "DIS '18 Companion",
     "refreshrate" : "low",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -1491,7 +1491,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "MobileHCI '15",
     "refreshrate" : "medium",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "persistent",
     "infodensity" : "5",
     "authors" : [
@@ -1511,7 +1511,7 @@
     "subtype" : "Straps & Belts",
     "published" : "VRCAI '18",
     "refreshrate" : "high",
-    "placement" : "arm",
+    "location" : "arm",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1535,7 +1535,7 @@
     "subtype" : "Skin",
     "published" : "ISWC '17",
     "refreshrate" : "low",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "persistent",
     "infodensity" : "2",
     "authors" : [
@@ -1566,7 +1566,7 @@
       "medium",
       "high"
     ],
-    "placement" : "arm",
+    "location" : "arm",
     "persistence" : [
       "persistent",
       "ephemeral"
@@ -1594,7 +1594,7 @@
     "subtype" : "Pants & Skirts, Shirts & Tops",
     "published" : "ACE '06",
     "refreshrate" : "low",
-    "placement" : [
+    "location" : [
       "torso",
       "legs"
     ],
@@ -1616,7 +1616,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "CHI '17",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1639,7 +1639,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "CHI EA '06",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -1659,7 +1659,7 @@
     "subtype" : "Hands & Fingers",
     "published" : "CHI EA '13",
     "refreshrate" : "high",
-    "placement" : "hand",
+    "location" : "hand",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1679,7 +1679,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "TEI '15",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "3",
     "authors" : [
@@ -1707,7 +1707,7 @@
     "subtype" : "Jackets & Suits",
     "published" : "CHI EA '09",
     "refreshrate" : "high",
-    "placement" : [
+    "location" : [
       "torso",
       "waist"
     ],
@@ -1725,7 +1725,7 @@
     "subtype" : "Headwear",
     "published" : "CHI EA '09",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1745,7 +1745,7 @@
     "subtype" : "Chains & Necklaces",
     "published" : "SIGGRAPH ASIA '09",
     "refreshrate" : "high",
-    "placement" : "torso",
+    "location" : "torso",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1764,7 +1764,7 @@
     "subtype" : "Skin",
     "published" : "CHI '10",
     "refreshrate" : "high",
-    "placement" : "arm",
+    "location" : "arm",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1784,7 +1784,7 @@
     "subtype" : "Headwear",
     "published" : "TEI '14",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1803,7 +1803,7 @@
     "subtype" : "Notions",
     "published" : "CHI EA '14",
     "refreshrate" : "high",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1,2,5",
     "authors" : [
@@ -1827,7 +1827,7 @@
     "subtype" : "Headwear",
     "published" : "MobileHCI '15",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -1848,7 +1848,7 @@
     "subtype" : "Face & Neck",
     "published" : "CHI EA '16",
     "refreshrate" : "low",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -1871,7 +1871,7 @@
     "subtype" : "Eyewear",
     "published" : "CHI '16",
     "refreshrate" : "high",
-    "placement" : "head",
+    "location" : "head",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -1894,7 +1894,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "MobileHCI '16",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "2",
     "authors" : [
@@ -1914,7 +1914,7 @@
     "subtype" : "Skin",
     "published" : "ISWC '16",
     "refreshrate" : "low",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -1941,7 +1941,7 @@
     "subtype" : "Skin",
     "published" : "UIST '16",
     "refreshrate" : "high",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "3",
     "authors" : [
@@ -1966,7 +1966,7 @@
     "subtype" : "Skin",
     "published" : "CHI '17",
     "refreshrate" : "high",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -1992,7 +1992,7 @@
     "subtype" : "Hands & Fingers",
     "published" : "CHI '17",
     "refreshrate" : "medium",
-    "placement" : "hand",
+    "location" : "hand",
     "persistence" : "persistent",
     "infodensity" : "5",
     "authors" : [
@@ -2012,7 +2012,7 @@
     "subtype" : "Skin",
     "published" : "DIS '17",
     "refreshrate" : "low",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -2040,7 +2040,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "CHI '18",
     "refreshrate" : "high",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "ephemeral",
     "infodensity" : "5",
     "authors" : [
@@ -2064,7 +2064,7 @@
     "published" : "Online",
     "year" : 2016,
     "url" : "https://moverio.epson.com/",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "audience" : "Private",
@@ -2084,7 +2084,7 @@
     "published" : "Online",
     "year" : 2016,
     "url" : "https://zackees.com/",
-    "placement" : "hand",
+    "location" : "hand",
     "type" : "Accessories",
     "subtype" : "Gloves",
     "audience" : "Public",
@@ -2103,7 +2103,7 @@
     "published" : "Online",
     "year" : 2018,
     "url" : "https://orphe.shoes",
-    "placement" : "foot",
+    "location" : "foot",
     "type" : "Accessories",
     "subtype" : "Shoes",
     "audience" : "Public",
@@ -2120,7 +2120,7 @@
     "published" : "Online",
     "year" : 2017,
     "url" : "http://seetheunseen.co.uk/",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Skin & Body",
     "subtype" : "Hair",
     "audience" : "Public",
@@ -2139,7 +2139,7 @@
     "subtype" : "",
     "published" : "CHI '16",
     "refreshrate" : "low",
-    "placement" : "body",
+    "location" : "body",
     "persistence" : "ephemeral",
     "infodensity" : "1",
     "authors" : [
@@ -2171,7 +2171,7 @@
     "subtype" : "Watches & Bracelets",
     "published" : "CHI '20",
     "refreshrate" : "medium",
-    "placement" : "wrist",
+    "location" : "wrist",
     "persistence" : "persistent",
     "infodensity" : "5",
     "authors" : [
@@ -2195,7 +2195,7 @@
     "published" : "Online",
     "year" : 2002,
     "url" : "http://www.maggieorth.com/art_FashionModule.html",
-    "placement" : "body",
+    "location" : "body",
     "type" : "Accessories",
     "subtype" : "Brooches",
     "audience" : "Public",
@@ -2213,7 +2213,7 @@
     "published" : "Online",
     "year" : 2019,
     "url" : "https://www.lumencouture.com/ultra-thin-led-matrix-fashiontech/",
-    "placement" : "torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Dresses",
     "audience" : "Public",
@@ -2231,7 +2231,7 @@
     "published" : "Online",
     "year" : 2015,
     "url" : "https://www.microsoft.com/en-us/hololens",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "audience" : "Private",
@@ -2249,7 +2249,7 @@
     "published" : "Online",
     "year" : 2017,
     "url" : "https://www.withings.com/uk/en/steel-hr",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : [
@@ -2271,7 +2271,7 @@
     "published" : "Online",
     "year" : 2017,
     "url" : "https://www.fitbit.com/au/flex2",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Intermediate",
@@ -2289,7 +2289,7 @@
     "published" : "Online",
     "year" : 2015,
     "url" : "https://www.apple.com/watch/",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : [
@@ -2320,7 +2320,7 @@
     "published" : "SIGGRAPH '09 Emerging Technologies",
     "year" : 2015,
     "url" : "https://doi.org/10.1145/1597956.1597957",
-    "placement" : "torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Shirts & Tops",
     "audience" : [
@@ -2355,7 +2355,7 @@
     "infodensity" : "2",
     "imageURL" : "https://dl.acm.org/cms/asset/226da764-9b1b-47b7-9010-2511a8003437/3374920.3375011.key.jpg",
     "technology" : "Electrochromic",
-    "placement" : [
+    "location" : [
       "torso",
       "hand"
     ],
@@ -2377,7 +2377,7 @@
     "published" : "GEM '15",
     "year" : 2015,
     "url" : "https://doi.org/10.1109/GEM.2015.7377239",
-    "placement" : "head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Headwear",
     "refreshrate" : "high",
@@ -2400,7 +2400,7 @@
     "published" : "Mensch und Computer 2014",
     "year" : 2014,
     "url" : "https://dl.gi.de/20.500.12116/7554",
-    "placement" : "hand",
+    "location" : "hand",
     "type" : "Accessories",
     "subtype" : "Rings & Earrings",
     "audience" : "Intermediate",
@@ -2423,7 +2423,7 @@
     "published" : "INTERACT 2015",
     "year" : 2015,
     "url" : "https://doi.org/10.1007/978-3-319-22723-8_66",
-    "placement" : "wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "audience" : "Intermediate",
@@ -2446,7 +2446,7 @@
     "published" : "PerDis 2017",
     "year" : 2017,
     "url" : "https://doi.org/10.1145/3078810.3084348",
-    "placement" : "arm",
+    "location" : "arm",
     "type" : "Clothing",
     "subtype" : "Shirts & Tops",
     "audience" : [
@@ -2467,7 +2467,7 @@
     "published" : "ISWC ’14 Adjunct",
     "year" : 2014,
     "url" : "https://doi.org/10.1145/2641248.2641271",
-    "placement" : "legs",
+    "location" : "legs",
     "type" : "Clothing",
     "subtype" : "Pants & Skirts",
     "audience" : [
@@ -2490,7 +2490,7 @@
     "published" : "Ubicomp 2009",
     "year" : 2009,
     "url" : "https://doi.org/10.1145/1620545.1620577",
-    "placement" : "Torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Jackets & Suits",
     "audience" : [
@@ -2513,7 +2513,7 @@
     "published" : "CHI EA '11",
     "year" : 2011,
     "url" : "https://doi.org/10.1145/1979742.1979707",
-    "placement" : "Torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Shirts & Tops",
     "refreshrate" : "high",
@@ -2536,7 +2536,7 @@
     "published" : "CHI EA '11",
     "year" : 2011,
     "url" : "http://doi.acm.org/10.1145/1979742.1979701",
-    "placement" : "Arm",
+    "location" : "arm",
     "type" : "Accessoires",
     "subtype" : "Belts & Straps",
     "refreshrate" : "medium",
@@ -2567,7 +2567,7 @@
     "published" : "ACM Trans. Comput. Heal.",
     "year" : 2020,
     "url" : "https://doi.org/10.1145/3386307",
-    "placement" : "Body",
+    "location" : "body",
     "type" : "Skin & Body",
     "subtype" : "Skin",
     "refreshrate" : "high",
@@ -2590,7 +2590,7 @@
     "published" : "CHI EA '20",
     "year" : 2020,
     "url" : "https://doi.org/10.1145/3334480.3383079",
-    "placement" : "Wrist",
+    "location" : "wrist",
     "type" : "Accessories",
     "subtype" : "Watches & Bracelets",
     "refreshrate" : "high",
@@ -2610,7 +2610,7 @@
     "published" : "ICCE '15",
     "year" : 2015,
     "url" : "https://doi.org/10.1109/ICCE.2015.7066343",
-    "placement" : "Head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "refreshrate" : "high",
@@ -2630,7 +2630,7 @@
     "published" : "SIGGRAPH Asia 2020 Emerging Technologies",
     "year" : 2020,
     "url" : "https://doi.org/10.1145/3415255.3422886",
-    "placement" : "Head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Chains & Necklaces",
     "refreshrate" : "high",
@@ -2650,7 +2650,7 @@
     "published" : "CHI EA '14",
     "year" : 2014,
     "url" : "http://doi.acm.org/10.1145/2559206.2574803",
-    "placement" : "Head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Headwear",
     "refreshrate" : "high",
@@ -2673,7 +2673,7 @@
     "published" : "UIST '16 Adjunct",
     "year" : 2016,
     "url" : "http://doi.acm.org/10.1145/2984751.2985741",
-    "placement" : "Head",
+    "location" : "arm",
     "type" : "Accessories",
     "subtype" : "Belts & Straps",
     "refreshrate" : "high",
@@ -2696,7 +2696,7 @@
     "published" : "Int. J. Hum. Comput. Stud.",
     "year" : 2020,
     "url" : "https://doi.org/10.1016/j.ijhcs.2020.102408",
-    "placement" : "Head",
+    "location" : "head",
     "type" : "Accesories",
     "subtype" : "Headwear",
     "refreshrate" : "high",
@@ -2718,7 +2718,7 @@
     "published" : "DIS '18",
     "year" : 2018,
     "url" : "https://doi.org/10.1145/3196709.3196724",
-    "placement" : "Body",
+    "location" : "body",
     "type" : "Skin & Body",
     "subtype" : "Skin",
     "refreshrate" : "high",
@@ -2743,7 +2743,7 @@
     "published" : "DIS '16",
     "year" : 2016,
     "url" : "https://doi.org/10.1145/2901790.2901850",
-    "placement" : "Torso",
+    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Shirts & Tops",
     "refreshrate" : "low",
@@ -2762,7 +2762,7 @@
     "published" : "ISS '20",
     "year" : 2020,
     "url" : "https://doi.org/10.1145/3380867.3426200",
-    "placement" : "Hand",
+    "location" : "hand",
     "type" : "Accessories",
     "subtype" : "Straps & Belts",
     "refreshrate" : "high",
@@ -2786,7 +2786,7 @@
     "published" : "UIST '20",
     "year" : 2020,
     "url" : "https://doi.org/10.1145/3379337.3415849",
-    "placement" : "Head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Headwear",
     "audience" : "Public",
@@ -2807,7 +2807,7 @@
     "published" : "ICCCNT '20",
     "year" : 2020,
     "url" : "https://doi.org/10.1109/ICCCNT49239.2020.9225266",
-    "placement" : "Head",
+    "location" : "head",
     "type" : "Accessories",
     "subtype" : "Eyewear",
     "refreshrate" : "high",
@@ -2830,7 +2830,7 @@
     "published" : "ISWC '18",
     "year" : 2018,
     "url" : "https://doi.org/10.1145/3267242.3267304",
-    "placement" : "Torso",
+    "location" : ["torso", "waist"],
     "type" : "Clothing",
     "subtype" : "Dresses",
     "refreshrate" : "high",

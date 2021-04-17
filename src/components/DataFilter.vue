@@ -56,7 +56,7 @@
 
 	const wearableFilters = [
 		{
-		'key': 'placement',
+		'key': 'location',
 		'values': ["body", "head", "torso", "waist", "legs", "foot", "hand", "arm", "wrist"],
 		'filterValues': [],
 		'multipleSelection': true,
@@ -156,7 +156,7 @@
 
 			this.$root.$on('body-area-selected', (a) => {
 				// Get the ID of the area filter
-				let filter = this.filters.find(element => element.key == 'placement');	//  Just make sure we only filter stuff that we know how to handle
+				let filter = this.filters.find(element => element.key == 'location');	//  Just make sure we only filter stuff that we know how to handle
 				let area = a; // a is immutable
 				if (area == "left-arm" || area == "right-arm") { // Arms have to be consolidated
 					area = "arm"

@@ -29,8 +29,8 @@
 				<td><a :href="item.url" target="_blank">{{item.url}}</a></td>
 			</tr>
 			<tr>
-				<td class="detail">Placement</td>
-				<td>{{item.placement.toString() | capitalize}}</td>
+				<td class="detail">Location</td>
+				<td>{{item.location.toString() | capitalize}}</td>
 			</tr>
 			<tr>
 				<td class="detail">Type</td>
