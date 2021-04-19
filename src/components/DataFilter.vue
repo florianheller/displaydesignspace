@@ -105,7 +105,7 @@
 		'parent': 'type',
 		'parentValue': 'Accessories',
 		'key': 'subtype',
-		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes", "Bags", "Straps"],
+		'values': ["Eyewear", "Headwear", "Chains & Necklaces", "Watches & Bracelets", "Shoes", "Bags", "Belts & Straps"],
 		'filterValues': [],
 		'multipleSelection': false
 	},
