@@ -2114,6 +2114,25 @@
     "technology" : "LED"
   },
   {
+    "name" : "TaskHerder",
+    "title" : "TaskHerder: A Wearable Minimal Interaction Interface for Mobile and Long-Lived Task Execution",
+    "authors" : [
+      "Florian Heller",
+      "Kris Luyten"
+    ],
+    "published" : "EICS '19",
+    "year" : 2019,
+    "url" : "https://doi.org/10.1145/3319499.3328226",
+    "location" : "arm",
+    "type" : "Accessories",
+    "subtype" : "Belts & Straps",
+    "audience" : "Private",
+    "refreshrate" : "low",
+    "persistence" : "persistent",
+    "infodensity" : "5",
+    "technology" : "Electrophoretic"
+  },
+  {
     "name" : "Fire",
     "title" : "The Unseen Fire",
     "authors" : [],
@@ -2830,7 +2849,10 @@
     "published" : "ISWC '18",
     "year" : 2018,
     "url" : "https://doi.org/10.1145/3267242.3267304",
-    "location" : ["torso", "waist"],
+    "location" : [
+      "torso",
+      "waist"
+    ],
     "type" : "Clothing",
     "subtype" : "Dresses",
     "refreshrate" : "high",
