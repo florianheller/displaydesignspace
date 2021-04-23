@@ -58,7 +58,10 @@
     "infodensity" : "5",
     "refreshrate" : "high",
     "persistence" : "ephemeral",
-    "technology" : "CRT"
+    "technology" : "CRT",
+    "imageURL" : "https://www.researchgate.net/profile/Aryabrata-Basu/publication/337438550/figure/fig1/AS:827878769954816@1574393088117/Ivan-Sutherlands-head-mounted-3D-display-c-1968-The-display-had-a-suspending_W640.jpg",
+    "imageSourceTitle" : "Researchgate",
+    "imageSource" : "https://www.researchgate.net/publication/337438550_A_brief_chronology_of_Virtual_Reality"
   },
   {
     "name" : "EyeTap",
@@ -77,7 +80,10 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "technology" : "LCD"
+    "technology" : "LCD",
+    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MannGlassEye1999crop.jpg/800px-MannGlassEye1999crop.jpg",
+    "imageSourceTitle" : "Steve Mann / Wikipedia",
+    "imageSource" : "https://en.wikipedia.org/wiki/EyeTap"
   },
   {
     "name" : "BuddyBeads",
@@ -379,7 +385,10 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "technology" : "Projection"
+    "technology" : "Projection",
+    "imageURL" : "https://www.allaboutcircuits.com/uploads/thumbnails/Cicret.png",
+    "imageSourceTitle" : "All About Circuits",
+    "imageSource" : "https://www.allaboutcircuits.com/news/the-cicret-bracelet/"
   },
   {
     "name" : "WT6000",
@@ -529,7 +538,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "Pt Viz",
-    "technology" : "Electroluminescent"
+    "technology" : "Electroluminescent",
+    "imageURL" : "http://makingthingsblink.com/images/PT-Viz-Front-Side.png",
+    "imageSource" : "http://makingthingsblink.com/research.html",
+    "imageSourceTitle" : "Swamy Ananthanarayan"
   },
   {
     "year" : "2006",
@@ -569,7 +581,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "ActivMON",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.researchgate.net/profile/Christopher-Lueg/publication/254005502/figure/fig1/AS:888118395805696@1588755334516/ActivMON-on-a-users-wrist_W640.jpg",
+    "imageSource" : "https://www.researchgate.net/publication/254005502_Activmon_encouraging_physical_activity_through_ambient_social_awareness",
+    "imageSourceTitle" : "Christopher Peter Lueg on ResearchGate"
   },
   {
     "year" : "2015",
@@ -589,7 +604,10 @@
     ],
     "audience" : "Private",
     "name" : "DisplaySkin",
-    "technology" : "Electrophoretic"
+    "technology" : "Electrophoretic",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/03178ba839b01ac2f0950763710413313afab4d0/1-Figure1-1.png",
+    "imageSource" : "https://www.semanticscholar.org/paper/DisplaySkin%3A-Exploring-Pose-Aware-Displays-on-a-Burstyn-Strohmeier/03178ba839b01ac2f0950763710413313afab4d0",
+    "imageSourceTitle" : "Semantic Scholar"
   },
   {
     "year" : "2018",
@@ -611,7 +629,10 @@
     ],
     "audience" : "Private",
     "name" : "Reducing Alarm Fatigue",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.mdpi.com/mti/mti-03-00015/article_deploy/html/images/mti-03-00015-g009.png",
+    "imageSource" : "https://www.mdpi.com/2414-4088/3/1/15",
+    "imageSourceTitle" : "MDPI"
   },
   {
     "year" : "2016",
@@ -633,7 +654,10 @@
     ],
     "audience" : "Public",
     "name" : "Smart Handbag",
-    "technology" : "LCD"
+    "technology" : "LCD",
+    "imageURL" : "https://www.researchgate.net/profile/Ashley-Colley/publication/296676573/figure/fig3/AS:335462909661185@1456991998176/The-remote-control-device-left-and-an-interactive-handbag-showing-content-inside-it_W640.jpg",
+    "imageSourceTitle" : "ResearchGate",
+    "imageSource" : "http://dx.doi.org/10.1145/2875194.2875212"
   },
   {
     "year" : "2018",
@@ -654,7 +678,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "Shoe Integrated Displays",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.researchgate.net/profile/Ashley-Colley/publication/327857481/figure/fig1/AS:722885186428931@1549360667646/Right-to-left-Setting-the-target-pace-on-the-smartphone-app-Toe-display-area-Tongue_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/3240167.3240216",
+    "imageSourceTitle" : "ResearchGate"
   },
   {
     "year" : "2006",
@@ -701,7 +728,8 @@
     ],
     "audience" : "Private",
     "name" : "Wearable Mid-air Display",
-    "technology" : "Projection"
+    "technology" : "Projection",
+    "imageURL" : "https://i1.ytimg.com/vi/S6zRi7YkeOg/hqdefault.jpg"
   },
   {
     "year" : "2018",
@@ -721,7 +749,10 @@
     ],
     "audience" : "Public",
     "name" : "AlterWear",
-    "technology" : "Electrophoretic"
+    "technology" : "Electrophoretic",
+    "imageURL" : "https://static.wixstatic.com/media/801f79_3da67f134ee84e02857590c7fc389251~mv2_d_4549_3428_s_4_2.png",
+    "imageSource" : "https://www.christinedierk.com/alterwear",
+    "imageSourceTitle" : "https://www.christinedierk.com/alterwear\n"
   },
   {
     "year" : "2008",
@@ -2232,14 +2263,19 @@
     "published" : "Online",
     "year" : 2019,
     "url" : "https://www.lumencouture.com/ultra-thin-led-matrix-fashiontech/",
-    "location" : "torso",
     "type" : "Clothing",
     "subtype" : "Dresses",
     "audience" : "Public",
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "4",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.lumencouture.com/wp-content/uploads/2020/01/led_matrixskirt_square.jpg",
+    "imageSourceTitle" : "Lumen Couture",
+    "location" : [
+      "torso",
+      "waist"
+    ]
   },
   {
     "name" : "HoloLens",
