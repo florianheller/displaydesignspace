@@ -793,7 +793,10 @@
     ],
     "audience" : "Public",
     "name" : "BubbleBadge",
-    "technology" : "LCD"
+    "technology" : "LCD",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/7467bca54c4a5c16a96c3fb3473316bbc80484b4/1-Figure1-1.png",
+    "imageSource" : "https://www.semanticscholar.org/paper/The-BubbleBadge%3A-a-wearable-public-display-Falk-Bj%C3%B6rk/7467bca54c4a5c16a96c3fb3473316bbc80484b4",
+    "imageSourceTitle" : "Semantic Scholar"
   },
   {
     "year" : "2013",
@@ -814,7 +817,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "Illumee",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "http://juttafortmann.de/img/HandMitArmband_Illustration_hautfarbe-web-cut.png",
+    "imageSource" : "http://juttafortmann.de/",
+    "imageSourceTitle" : "http://juttafortmann.de/"
   },
   {
     "year" : "2014",
@@ -835,7 +841,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "Wrist-worn Point-light Displays",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://interactions.acm.org/images/uploads/articles/wrist-worn.jpg",
+    "imageSource" : "https://interactions.acm.org/enter/view/demo-hour34/1",
+    "imageSourceTitle" : "ACM Interactions"
   },
   {
     "year" : "2014",
@@ -856,7 +865,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "WaterJewel",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.researchgate.net/profile/Vanessa-Cobus-2/publication/270887852/figure/fig2/AS:295166909927425@1447384683519/Masculine-left-and-feminine-prototype-right_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/2677972.2677976",
+    "imageSourceTitle" : "Vanessa Cobus on ResearchGate"
   },
   {
     "year" : "2019",
@@ -927,7 +939,10 @@
     ],
     "audience" : "Public",
     "name" : "Wearable Low-resolution Displays",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.researchgate.net/profile/Andreas-Braun-3/publication/278676455/figure/fig1/AS:614030079189020@1523407587849/Multiple-form-factors-designed-by-potential-users-left-include-different-shapes-like_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/2790044.2790059",
+    "imageSourceTitle" : "Andreas Braun on ResearchGate"
   },
   {
     "year" : "2018",
@@ -951,7 +966,10 @@
       "Public"
     ],
     "name" : "Interactive Ice Skating Dress",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "http://techfashion.design/wp-content/uploads/2020/04/skatingDress1.jpg",
+    "imageSource" : "techfashion.design",
+    "imageSourceURL" : "http://techfashion.design/portfolio-items/116/"
   },
   {
     "year" : "2018",
@@ -974,7 +992,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "Idle Stripes Shirt",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "https://www.researchgate.net/profile/Ashley-Colley/publication/328088744/figure/fig1/AS:682058959556610@1539626936335/Final-prototype-of-the-Idle-Stripes-shirt_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/3267242.3267303",
+    "imageSourceTitle" : "Ashley Colley on ResearchGate"
   },
   {
     "year" : "2017",
@@ -1016,7 +1037,10 @@
     "technology" : [
       "LED",
       "Elecroluminescent"
-    ]
+    ],
+    "imageURL" : "https://absurdee.files.wordpress.com/2008/10/hearwear_v11.jpg",
+    "imageSource" : "Absurdee",
+    "imageSourceURL" : "https://absurdee.com/gallery/hearwear/"
   },
   {
     "year" : "2005",
@@ -1047,7 +1071,10 @@
     "technology" : [
       "Thermochromic",
       "Electroluminescent"
-    ]
+    ],
+    "imageURL" : "https://www.researchgate.net/profile/Linda-Worbin-3/publication/221516305/figure/fig1/AS:305383584354304@1449820528400/Reach-Out-hats-first-iteration_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/1056808.1056949",
+    "imageSourceTitle" : "Linda Worbin on ResearchGate"
   },
   {
     "year" : "2015",
@@ -1098,7 +1125,10 @@
     "technology" : [
       "Thermochromic",
       "Electrophoretic"
-    ]
+    ],
+    "imageURL" : "https://www.researchgate.net/profile/Pradthana-Jarusriboonchai-2/publication/335501800/figure/fig1/AS:797618670149633@1567178518904/The-Scarf-Set-prototype_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/3341162.3343787",
+    "imageSourceTitle" : "Pradthana Jarusriboonchai on ResearchGate"
   },
   {
     "year" : "2019",
@@ -1216,7 +1246,10 @@
     ],
     "audience" : "Public",
     "name" : "Online Social Identity",
-    "technology" : "Projection"
+    "technology" : "Projection",
+    "imageURL" : "https://www.researchgate.net/profile/Martin-Tomitsch/publication/221513688/figure/fig4/AS:394033273819146@1470956261666/Usage-scenario-showing-the-wearer-right-and-an-onlooker-left_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/1979742.1979882",
+    "imageSourceTitle" : "Martin Tomitsch on ResearchGate"
   },
   {
     "year" : "2016",
@@ -1322,7 +1355,10 @@
     "technology" : [
       "LED",
       "Electrophoretic"
-    ]
+    ],
+    "imageURL" : "https://www.researchgate.net/profile/Matthew-Mauriello/publication/266655593/figure/fig1/AS:396805377413120@1471617182329/Top-The-required-components-of-the-three-prototypes-Middle-rows-Two-of-the-four_W640.jpg",
+    "imageSource" : "http://dx.doi.org/10.1145/2556288.2557299",
+    "imageSourceTitle" : "Matthew Louis Mauriello on ResearchGate"
   },
   {
     "year" : "2015",
@@ -1346,7 +1382,10 @@
     ],
     "audience" : "Intermediate",
     "name" : "Bio-Collar",
-    "technology" : "LED"
+    "technology" : "LED",
+    "imageURL" : "http://www.nojilab.org/wp-content/uploads/2016/09/bio-collar2.jpg",
+    "imageSource" : "http://www.nojilab.org/2016/kinetic-clothes/",
+    "imageSourceTitle" : "http://www.nojilab.org"
   },
   {
     "year" : "2013",
@@ -1370,7 +1409,10 @@
       "Private"
     ],
     "name" : "AugmentedForearm",
-    "technology" : "LCD"
+    "technology" : "LCD",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/7d9da364f4425911dfcfdf2f11dd238c2e628898/4-Figure4-1.png",
+    "imageSource" : "https://api.semanticscholar.org/CorpusID:26107188",
+    "imageSourceTitle" : "Semantic Scholar"
   },
   {
     "year" : "2018",
@@ -1392,7 +1434,8 @@
     "technology" : [
       "LED",
       "Laser"
-    ]
+    ],
+    "imageURL" : "https://paper.nweon.com/wp-content/uploads/2020/07/2c574bbef56efe4b34e77e8366ce59f8.png"
   },
   {
     "year" : "2016",
@@ -1448,7 +1491,10 @@
     "refreshrate" : [
       "low",
       "high"
-    ]
+    ],
+    "imageURL" : "https://iswc.net/iswc17/images/designexhibition/ac_1.jpg",
+    "imageSourceTitle" : "ISWC.net",
+    "imageSource" : "https://iswc.net/iswc17/images/designexhibition/ac_1.jpg"
   },
   {
     "year" : "2013",
@@ -1467,7 +1513,10 @@
     ],
     "audience" : "Public",
     "name" : "Multimodal Head-mounted Pico Projector",
-    "technology" : "Projection"
+    "technology" : "Projection",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/971563a8efb7198a516849a5c9aaddaab56ce6ab/1-Figure1-1.png",
+    "imageSource" : "https://api.semanticscholar.org/CorpusID:2091534",
+    "imageSourceTitle" : "Semantic Scholar"
   },
   {
     "year" : "2016",
@@ -1512,7 +1561,10 @@
     ],
     "audience" : "Public",
     "name" : "HeartMe",
-    "technology" : "Thermochromic"
+    "technology" : "Thermochromic",
+    "imageURL" : "http://iolab.ucdavis.edu/uploads/1/3/1/0/131039572/published/screen-shot-2020-05-22-at-10-09-16-pm_2.png",
+    "imageSource" : "http://iolab.ucdavis.edu/manlin.html",
+    "imageSourceTitle" : "UC Davis"
   },
   {
     "year" : "2015",
@@ -1532,7 +1584,10 @@
     ],
     "audience" : "Private",
     "name" : "Cylindrical Smartwatch",
-    "technology" : "Electrophoretic"
+    "technology" : "Electrophoretic",
+    "imageURL" : "http://embodimentlabs.org/blog2/wp-content/uploads/2017/06/DisplaySize.jpg",
+    "imageSource" : "http://embodimentlabs.org/blog2/research/",
+    "imageSourceTitle" : "Paul Strohmeier - embodimentlabs.org"
   },
   {
     "year" : "2018",
@@ -1556,7 +1611,8 @@
       "Private"
     ],
     "name" : "Interactive Wearable Projection Display",
-    "technology" : "Projection"
+    "technology" : "Projection",
+    "imageURL" : "https://image.slidesharecdn.com/vrcai2018-pubpri-v4-out-181209110553/95/publicprivate-interactive-wearable-projection-display-vrcai2018-4-638.jpg?cb=1544353609"
   },
   {
     "year" : "2017",
@@ -1584,7 +1640,10 @@
       "Private"
     ],
     "name" : "The Dermal Abyss",
-    "technology" : "Biochemical"
+    "technology" : "Biochemical",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/10d1cf942040264c23bc569a53c3058f76e94033/5-Figure6-1.png",
+    "imageSourceTitle" : "Semantic Scholar",
+    "imageSource" : "https://api.semanticscholar.org/CorpusID:44539570"
   },
   {
     "year" : "2014",
@@ -1637,7 +1696,10 @@
     ],
     "audience" : "Private",
     "name" : "Mosaic Textile",
-    "technology" : "Thermochromic"
+    "technology" : "Thermochromic",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/b5cfe371353fa84e1dddfd760ed83c0cac1e5892/4-Figure5-1.png",
+    "imageSource" : "https://api.semanticscholar.org/CorpusID:18510813",
+    "imageSourceTitle" : "Semantic Scholar"
   },
   {
     "year" : "2017",
@@ -1784,7 +1846,10 @@
       "Maes, Pattie"
     ],
     "audience" : "Public",
-    "name" : "SixthSense"
+    "name" : "SixthSense",
+    "imageURL" : "https://www.pranavmistry.com/archived/projects/sixthsense/images/thumb/sixthsense11.jpg",
+    "imageSource" : "https://www.pranavmistry.com/archived/projects/sixthsense/",
+    "imageSourceTitle" : "pranavmistry.com"
   },
   {
     "year" : "2010",
@@ -1804,7 +1869,10 @@
       "Morris, Dan"
     ],
     "audience" : "Public",
-    "name" : "Skinput"
+    "name" : "Skinput",
+    "imageURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Skinput_arm_buttons.JPG/1200px-Skinput_arm_buttons.JPG",
+    "imageSource" : "https://en.wikipedia.org/w/index.php?curid=27692805",
+    "imageSourceTitle" : "Wikimedia Commons"
   },
   {
     "year" : "2014",
@@ -1824,7 +1892,10 @@
       "Mueller, Florian ``Floyd''"
     ],
     "audience" : "Public",
-    "name" : "Heartrate Helmet"
+    "name" : "Heartrate Helmet",
+    "imageURL" : "https://www.researchgate.net/profile/Danielle-Wilde/publication/262210082/figure/fig1/AS:392527669678080@1470597297162/Displaying-the-cyclists-heart-rate-on-a-helmet_W640.jpg",
+    "imageSource" : "https://www.researchgate.net/publication/262210082",
+    "imageSourceTitle" : "Danielle Wilde on ResearchGate"
   },
   {
     "year" : "2014",
@@ -1868,7 +1939,10 @@
       "Chen, Bing-Yu"
     ],
     "audience" : "Private",
-    "name" : "LEaD"
+    "name" : "LEaD",
+    "imageURL" : "https://d3i71xaburhd42.cloudfront.net/126ae662bc8f1969ec18af835e3eb66abd57eca6/1-Figure1-1.png",
+    "imageSource" : "https://api.semanticscholar.org/CorpusID:17139908",
+    "imageSourceTitle" : "Semantic Scholar"
   },
   {
     "year" : "2016",
@@ -2032,7 +2106,10 @@
       "Paulos, Eric"
     ],
     "audience" : "Intermediate",
-    "name" : "AlterNail"
+    "name" : "AlterNail",
+    "imageURL" : "https://static.wixstatic.com/media/801f79_2681fd7daa3747c4b894bf3d822ec513~mv2.png/v1/fill/w_1752,h_860,al_c,q_90,usm_0.66_1.00_0.01/801f79_2681fd7daa3747c4b894bf3d822ec513~mv2.webp",
+    "imageSource" : "https://www.christinedierk.com/alternail",
+    "imageSourceTitle" : "christinedierk.com"
   },
   {
     "year" : "2017",
@@ -2060,7 +2137,10 @@
       "Intermediate",
       "Private"
     ],
-    "name" : "AnimSkin"
+    "name" : "AnimSkin",
+    "imageURL" : "https://www.researchgate.net/profile/Preben-Hansen-2/publication/316788424/figure/fig4/AS:492058650648581@1494327332914/Fabrication-approach-a-mix-thermochromic-powder-with-silicone-and-curing-agent-b_W640.jpg",
+    "imageSource" : "https://www.researchgate.net/publication/316788424",
+    "imageSourceTitle" : "Preben Hansen on ResearchGate"
   },
   {
     "year" : "2018",
