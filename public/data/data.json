@@ -2241,7 +2241,9 @@
     "refreshrate" : "low",
     "persistence" : "persistent",
     "infodensity" : "5",
-    "technology" : "Electrophoretic"
+    "technology" : "Electrophoretic",
+    "imageURL" : "http://www.heller-web.net/wp-content/uploads/2020/02/TaskHerder_Thumb.jpg",
+    "imageSource" : "http://www.heller-web.net/taskherder"
   },
   {
     "name" : "Fire",
@@ -2314,7 +2316,10 @@
       "Intermediate",
       "Private"
     ],
-    "name" : "Watch+Strap"
+    "name" : "Watch+Strap",
+    "imageURL" : "https://imld.de/cnt/uploads/watchstrap-scaled.jpg",
+    "imageSource" : "https://imld.de/en/research/research-projects/watchstrap-extending-smartwatches-with-interactive-strapdisplays/",
+    "imageSourceTitle" : "IML - TU Dresden"
   },
   {
     "name" : "Fashion Module",
