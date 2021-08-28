@@ -92,7 +92,7 @@
 	#itemDisplay {
 		width: 30%;
 		position: fixed;
-		top:0;
+		top:45px;
 		right:0;
 		overflow-y: scroll;
 		max-height: 95%;

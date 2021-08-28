@@ -214,6 +214,7 @@
 	width:50%;
 	margin-right:30%;
 	margin-left:20%;
+	margin-top:30px;
 }
 /* The filter part */
 [type="radio"]{

@@ -221,7 +221,7 @@ module.exports = {
 <style scoped>
 	#bodyMap {
 		width: 20%;
-		top: 0;
+		top: 25;
 		left:0;
 		position: fixed;
 	}
