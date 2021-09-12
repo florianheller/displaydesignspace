@@ -968,8 +968,8 @@
     "name" : "Interactive Ice Skating Dress",
     "technology" : "LED",
     "imageURL" : "http://techfashion.design/wp-content/uploads/2020/04/skatingDress1.jpg",
-    "imageSource" : "techfashion.design",
-    "imageSourceURL" : "http://techfashion.design/portfolio-items/116/"
+    "imageSourceTitle" : "techfashion.design",
+    "imageSource" : "http://techfashion.design/portfolio-items/116/"
   },
   {
     "year" : "2018",
