@@ -1,6 +1,6 @@
 <!--
 	A component that allows to apply a series of filters to a dataset and visualize it.
-	C2019 Florian Heller  (florian<at>uhasselt.be)
+	C2019 Florian Heller  (florian.heller<at>gmail.com)
 	License: MIT
 -->
 <template>
