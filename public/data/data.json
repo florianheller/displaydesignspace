@@ -260,7 +260,7 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "4",
-    "imageURL" : "https://cdn.shopify.com/s/files/1/0216/5991/0208/products/product-main1_720x.jpg?v=1564427929",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/0216/5991/0208/files/S4_Website_Global_Bottom-Goggles_540x.png?v=1632263476",
     "imageSourceTitle" : "Form",
     "technology" : "LCD"
   },
@@ -406,7 +406,7 @@
     "refreshrate" : "high",
     "persistence" : "ephemeral",
     "infodensity" : "5",
-    "imageURL" : "https://www.zebra.com//us/en/products/mobile-computers/wearable-computers/wt6000/jcr:content/mainpar/fullwidthimage_736b/fullWidthImage.transform/image-full/image.jpg",
+    "imageURL" : "https://www.zebra.com/us/en/products/mobile-computers/wearable-computers/wt6000/jcr:content/mainpar/herocarousel_eb36/carouselItems/herocarouselitem_2ef/largeImage.transform/image-xtra-large/image.jpg",
     "imageSourceTitle" : "Zebra",
     "technology" : "LCD"
   },
@@ -1670,7 +1670,9 @@
     ],
     "audience" : "Private",
     "name" : "SleeD",
-    "imageURL" : "https://dl.acm.org/cms/attachment/55d4eb54-f100-4f21-b989-bc645afce520/2669485.2669507.key.jpg",
+    "imageURL" : "https://imld.de/cnt/uploads/SleeD_thumbnail.jpg",
+    "imageSource" : "https://imld.de/en/our-group/team/ulrich-von-zadow/",
+    "imageSourceTitle" : "IMLD",
     "technology" : [
       "Electrophoretic",
       "LCD"
@@ -2400,7 +2402,8 @@
     "persistence" : "ephemeral",
     "infodensity" : "4",
     "technology" : "OLED",
-    "imageURL" : "https://image-cache.withings.com/pages/products/steel-hr/media/models/steel-hr-hero.jpg"
+    "imageURL" : "https://image-cache.withings.com/pages/products/steel-hr/media/models/steel-hr-hero.jpg",
+    "imageSourceTitle" : "Withings"
   },
   {
     "name" : "Flex 2",
@@ -2454,8 +2457,7 @@
       "Andre Lim",
       "Pan Yi",
       "Doros Polydorou",
-      "Kian Peng Ong",
-      ""
+      "Kian Peng Ong"
     ],
     "published" : "SIGGRAPH '09 Emerging Technologies",
     "year" : 2015,
